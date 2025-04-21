@@ -36,5 +36,11 @@
         "expiry": 1745802193,
         "created_at": 1745197393,
         "duration_days": 7
+    },
+    "VILESX-WX35B8HT-2025": {
+        "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DDE",
+        "expiry": 1745803399,
+        "created_at": 1745198599,
+        "duration_days": 7
     }
 }
