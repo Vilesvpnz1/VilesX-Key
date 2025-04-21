@@ -1,9 +1,1 @@
-{
-    "2753915549": [
-        {
-            "name": "BloxFruits",
-            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BloxFruitAutoFarm'))()",
-            "credit": "wekilledtheunicorns"
-        }
-    ]
-}
+{}
