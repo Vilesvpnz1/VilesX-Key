@@ -47,6 +47,11 @@
             "name": "Dead-Rails-Alpha",
             "loadstring": "<loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/aca362a74eb2f7c5f383969177c26b6b.lua\"))()>",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dead-Rails-Alpha",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/aca362a74eb2f7c5f383969177c26b6b.lua\"))()>",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
