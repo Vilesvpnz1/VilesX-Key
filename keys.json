@@ -60,5 +60,11 @@
         "expiry": 1745862050,
         "created_at": 1745257250,
         "duration_days": 7
+    },
+    "VILESX-G1O44RF8-2025": {
+        "hwid": "E19FF127-EC21-44D0-9990-62AB45B36EC4",
+        "expiry": 1745862367,
+        "created_at": 1745257567,
+        "duration_days": 7
     }
 }
