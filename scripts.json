@@ -31,5 +31,12 @@
             "loadstring": "<loadstring>",
             "credit": "njnhmhjmjm"
         }
+    ],
+    "116495829188952": [
+        {
+            "name": "Dead-Rails-Alpha",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mrpopcatfrombupge/FernHub/refs/heads/main/DeadRailsFarm\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
