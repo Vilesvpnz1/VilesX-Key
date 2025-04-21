@@ -42,5 +42,11 @@
         "expiry": 1745803399,
         "created_at": 1745198599,
         "duration_days": 7
+    },
+    "VILESX-ZG8M2ST7-2025": {
+        "hwid": "442B4DD4-40A9-457B-BA40-96A4ABBE3239",
+        "expiry": 1760808981,
+        "created_at": 1745256981,
+        "duration_days": 180
     }
 }
