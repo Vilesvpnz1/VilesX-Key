@@ -1,0 +1,21 @@
+{
+    "3351674303": [
+        {
+            "name": "testing",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();",
+            "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "testing",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();",
+            "credit": "wekilledtheunicorns"
+        }
+    ],
+    "189707": [
+        {
+            "name": "Natural Disaster Survival",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
+    ]
+}
