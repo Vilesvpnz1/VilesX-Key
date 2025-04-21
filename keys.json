@@ -6,5 +6,11 @@
     "VILESX-Y0QPAIT3-2024": {
         "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DDE",
         "expiry": 1760745938
+    },
+    "VILESX-HSL8BXIL-2025": {
+        "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DDE",
+        "expiry": 1745799908,
+        "created_at": 1745195108,
+        "duration_days": 7
     }
 }
