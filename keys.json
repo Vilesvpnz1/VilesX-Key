@@ -12,5 +12,11 @@
         "expiry": 1745799908,
         "created_at": 1745195108,
         "duration_days": 7
+    },
+    "VILESX-AOY4BLNP-2025": {
+        "hwid": "<hwid>",
+        "expiry": 1745799978,
+        "created_at": 1745195178,
+        "duration_days": 7
     }
 }
