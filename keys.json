@@ -4,5 +4,11 @@
         "expiry": 1776810882,
         "created_at": 1745274882,
         "duration_days": 365
+    },
+    "VILESX-VHKUKO4H-2025": {
+        "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DDE",
+        "expiry": 1777070107,
+        "created_at": 1745274907,
+        "duration_days": 368
     }
 }
