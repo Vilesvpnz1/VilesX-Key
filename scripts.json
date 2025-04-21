@@ -53,5 +53,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/aca362a74eb2f7c5f383969177c26b6b.lua\"))()>",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3527629287": [
+        {
+            "name": "BIG-Paintball-Classic",
+            "loadstring": "<loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt\"))();>",
+            "credit": "njnhmhjmjm"
+        }
     ]
 }
