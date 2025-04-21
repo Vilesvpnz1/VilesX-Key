@@ -54,5 +54,11 @@
         "expiry": 1745861982,
         "created_at": 1745257182,
         "duration_days": 7
+    },
+    "VILESX-WUX214ZH-2025": {
+        "hwid": "442B4DD4-40A9-457B-BA40-96A4ABBE3238",
+        "expiry": 1745862050,
+        "created_at": 1745257250,
+        "duration_days": 7
     }
 }
