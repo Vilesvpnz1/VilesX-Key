@@ -18,5 +18,11 @@
         "expiry": 1745799978,
         "created_at": 1745195178,
         "duration_days": 7
+    },
+    "VILESX-AYW3RLMU-2025": {
+        "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DDE",
+        "expiry": 1776731471,
+        "created_at": 1745195471,
+        "duration_days": 365
     }
 }
