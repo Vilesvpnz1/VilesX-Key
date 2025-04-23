@@ -4,5 +4,11 @@
         "expiry": 2609275163,
         "created_at": 1745275163,
         "duration_days": 10000
+    },
+    "VILESX-CFI9FRSB-2025": {
+        "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DDE",
+        "expiry": 2609446018,
+        "created_at": 1745446018,
+        "duration_days": 10000
     }
 }
