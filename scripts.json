@@ -1,0 +1,23 @@
+{
+    "2753915549": [
+        {
+            "name": "BloxFruits",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BloxFruitAutoFarm'))()",
+            "credit": "wekilledtheunicorns"
+        }
+    ],
+    "189707": [
+        {
+            "name": "NaturalDisaster",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
+    ],
+    "920587237": [
+        {
+            "name": "AdoptMe_AutoFarm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/rblxscriptsnet/scripts/main/Adopt%20Me%20Auto%20Farm.txt\"))",
+            "credit": "wekilledtheunicorns"
+        }
+    ]
+}
