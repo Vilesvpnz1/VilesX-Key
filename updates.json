@@ -4,5 +4,11 @@
         "description": "Initial release of VilesX Advanced with key system, script hub, and enhanced features.",
         "date": 1700000000,
         "added_by": "wekilledtheunicorns"
+    },
+    {
+        "version": "testing",
+        "description": "testing",
+        "date": 1745437748,
+        "added_by": "wekilledtheunicorns"
     }
-] 
+]
