@@ -70,6 +70,11 @@
             "name": "BabftAutoFarm2",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/102KIRA/UPDATE-2.5V/29775551e379804709f4e3f32a52bed3fe073f93/KIRA%E2%80%99SAUTOFARM\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "BabftScript3",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
