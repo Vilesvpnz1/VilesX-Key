@@ -4,6 +4,11 @@
             "name": "AdoptMe-Autofarm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Eclipse8cpe/AdoptMe/refs/heads/main/script.lua\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "AdoptMe",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Adopt-Me-Scripts/AdoptmeScript/main/AdoptmeScript/P0P6NO2-adopt-me.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
