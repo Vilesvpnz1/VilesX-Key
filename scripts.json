@@ -65,6 +65,11 @@
             "name": "BabftAutoFarm",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/suntisalts/BetaTesting/refs/heads/main/AutofarmV1.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "BabftAutoFarm2",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/102KIRA/UPDATE-2.5V/29775551e379804709f4e3f32a52bed3fe073f93/KIRA%E2%80%99SAUTOFARM\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
