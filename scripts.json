@@ -26,6 +26,11 @@
             "name": "SpeedChanger",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Aaron999S/FiberHub/main/Main\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "BoostCarSpeed",
+            "loadstring": "loadstring(game:HttpGet('https://whimper.xyz/kitty'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
