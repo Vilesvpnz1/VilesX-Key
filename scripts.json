@@ -1,1 +1,9 @@
-{}
+{
+    "920587237": [
+        {
+            "name": "AdoptMe-Autofarm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Eclipse8cpe/AdoptMe/refs/heads/main/script.lua\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
+    ]
+}
