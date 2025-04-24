@@ -37,5 +37,12 @@
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Lightux/main/README.md'),true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "286090429": [
+        {
+            "name": "ArsenalScript1",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/93f86be991de0ff7d79e6328e4ceea40.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
