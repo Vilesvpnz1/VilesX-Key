@@ -75,6 +75,11 @@
             "name": "BabftScript3",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "BabftScript4",
+            "loadstring": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Build-A-Boat-For-Treasure-Ultimte-B3BFT-Script-28601\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
