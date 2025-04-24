@@ -10,5 +10,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Adopt-Me-Scripts/AdoptmeScript/main/AdoptmeScript/P0P6NO2-adopt-me.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3351674303": [
+        {
+            "name": "Auto",
+            "loadstring": "Farm loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Marco8642/science/main/drivingempire\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
