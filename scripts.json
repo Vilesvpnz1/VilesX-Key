@@ -59,5 +59,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ex55/weed-client/refs/heads/main/main.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "537413528": [
+        {
+            "name": "BabftAutoFarm",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/suntisalts/BetaTesting/refs/heads/main/AutofarmV1.lua'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
