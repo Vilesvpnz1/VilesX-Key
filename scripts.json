@@ -5,12 +5,5 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BloxFruitAutoFarm'))()",
             "credit": "wekilledtheunicorns"
         }
-    ],
-    "189707": [
-        {
-            "name": "NaturalDisaster",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub\", true))()",
-            "credit": "wekilledtheunicorns"
-        }
     ]
 }
