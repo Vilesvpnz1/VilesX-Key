@@ -31,6 +31,11 @@
             "name": "BoostCarSpeed",
             "loadstring": "loadstring(game:HttpGet('https://whimper.xyz/kitty'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "DrivingEmpire",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/Lightux/main/README.md'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
