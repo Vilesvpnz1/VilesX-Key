@@ -4,5 +4,11 @@
         "expiry": 2609446018,
         "created_at": 1745446018,
         "duration_days": 10000
+    },
+    "VILESX-KPS0DUOV-2025": {
+        "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DGH",
+        "expiry": 1753291983,
+        "created_at": 1745515983,
+        "duration_days": 90
     }
 }
