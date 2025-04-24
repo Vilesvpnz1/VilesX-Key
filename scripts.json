@@ -80,6 +80,11 @@
             "name": "BabftScript4",
             "loadstring": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Build-A-Boat-For-Treasure-Ultimte-B3BFT-Script-28601\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "BabftTeleportScript",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/m3JS6aRx\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
