@@ -196,6 +196,11 @@
             "name": "Webhook Script",
             "loadstring": "repeat wait() until game:IsLoaded() _G.Team = \"Pirates\" -- Pirates / Marines loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HuyLocDz/Blox-Fruit/main/TinhLinhHub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "ZET Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Scriptztyz/robloxscript/refs/heads/main/ZetHubMainScript\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
