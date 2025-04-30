@@ -151,6 +151,11 @@
             "name": "Speed Hub X",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Redz Hub Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
