@@ -97,6 +97,11 @@
             "name": "Plutonium.lua",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.Loader.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Spimine",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/antisocialb2/SPIMINE-FLEETHEFACILITY/main/script.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
