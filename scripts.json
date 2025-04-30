@@ -191,6 +191,11 @@
             "name": "Min Levi Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinMasEng\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Webhook Script",
+            "loadstring": "repeat wait() until game:IsLoaded() _G.Team = \"Pirates\" -- Pirates / Marines loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HuyLocDz/Blox-Fruit/main/TinhLinhHub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
