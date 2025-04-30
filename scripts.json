@@ -92,6 +92,11 @@
             "name": "FTF-HAX",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LeviTheOtaku/roblox-scripts/main/FTFHAX.lua\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Plutonium.lua",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.Loader.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
