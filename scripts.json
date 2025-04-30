@@ -211,6 +211,11 @@
             "name": "Hoho Hub Script",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ascn123/HOHO_H/main/Loading_UI'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Neva HUb Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
