@@ -124,6 +124,11 @@
             "name": "MicroHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TrustsenseDev/MicroHub/refs/heads/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "KiciahookV2",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
