@@ -201,6 +201,11 @@
             "name": "ZET Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Scriptztyz/robloxscript/refs/heads/main/ZetHubMainScript\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Attack Script",
+            "loadstring": "_G.Team = \"Pirate\" --Pirate or Marine loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KOBENFF/sdfd/refs/heads/main/Koatta.txt\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
