@@ -273,6 +273,11 @@
             "name": "Ronix Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/1255807d4f3b118b6636cfd3d386d8b8.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Switch Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/londnee/code/refs/heads/main/Fisch.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
