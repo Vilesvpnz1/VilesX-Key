@@ -119,6 +119,11 @@
             "name": "Zephyr",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Unknownlodfc/Zephyr/refs/heads/main/DeadRails/Main\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "MicroHub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TrustsenseDev/MicroHub/refs/heads/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
