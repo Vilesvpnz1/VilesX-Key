@@ -181,6 +181,11 @@
             "name": "Thunder Z Script",
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/ThunderZ-05/HUB/main/TestKey')))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aurora Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Jadelly261/BloxFruits/main/Aurora\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
