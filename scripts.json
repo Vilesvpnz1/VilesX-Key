@@ -134,6 +134,11 @@
             "name": "DeadRailsAuto",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRailsAuto\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "FernHub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mrpopcatfrombupge/FernHub/refs/heads/main/DeadRailsFarm\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
