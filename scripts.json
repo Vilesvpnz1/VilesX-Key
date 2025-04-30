@@ -238,6 +238,11 @@
             "name": "Lunor Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Native Script",
+            "loadstring": "script_key=\"PASTE_KEY_HERE\"; (loadstring or load)(game:HttpGet(\"https://raw.githubusercontent.com/Native-lab/Native/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
