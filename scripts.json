@@ -107,6 +107,11 @@
             "name": "SiriusSoftwareLtd",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Antora",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/K9ntra/Antora/main/abc.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
