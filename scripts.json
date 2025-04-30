@@ -206,6 +206,11 @@
             "name": "Attack Script",
             "loadstring": "_G.Team = \"Pirate\" --Pirate or Marine loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KOBENFF/sdfd/refs/heads/main/Koatta.txt\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hoho Hub Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ascn123/HOHO_H/main/Loading_UI'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
