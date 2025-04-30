@@ -258,6 +258,11 @@
             "name": "Mean Hub Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Alton012/Fisch.Script/refs/heads/main/Mean%20Hub\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Goomba Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JustLevel/goombahub/main/fisch.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
