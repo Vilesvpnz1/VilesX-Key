@@ -171,6 +171,11 @@
             "name": "Min Hub Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JonnyCheeser/bloxfruits/main/minhubv4\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Alchemy Hub Neta Edition",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/ThunderZ-05/HUB/main/TestKey')))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
