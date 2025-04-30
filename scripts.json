@@ -216,6 +216,11 @@
             "name": "Neva HUb Script",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Cokka Hub Script",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
