@@ -129,6 +129,11 @@
             "name": "KiciahookV2",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "DeadRailsAuto",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DeadRailsAuto\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
