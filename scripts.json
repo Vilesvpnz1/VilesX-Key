@@ -86,5 +86,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/m3JS6aRx\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "893973440": [
+        {
+            "name": "FTF-HAX",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LeviTheOtaku/roblox-scripts/main/FTFHAX.lua\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
