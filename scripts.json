@@ -221,6 +221,11 @@
             "name": "Cokka Hub Script",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Annie Hub Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Anniecuti/Free-Scr/main/Annie-Hub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
