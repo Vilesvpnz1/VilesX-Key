@@ -102,6 +102,11 @@
             "name": "Spimine",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/antisocialb2/SPIMINE-FLEETHEFACILITY/main/script.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "SiriusSoftwareLtd",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SiriusSoftwareLtd/Rayfield/main/source.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
