@@ -263,6 +263,11 @@
             "name": "Goomba Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JustLevel/goombahub/main/fisch.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Bonk Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://bonkhubloader.netlify.app\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
