@@ -156,6 +156,11 @@
             "name": "Redz Hub Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Banana Hub Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nghia11n/Banana-Hub/main/bananahub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
