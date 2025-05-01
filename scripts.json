@@ -310,6 +310,11 @@
             "name": "Mango Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/rogelioajax/lua/main/MangoHub\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Brookhaven RP Script Fly Hack",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mikeexc/Dsc-Mike-Fly-Gui/main/Fly%20Gui\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
