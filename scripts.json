@@ -439,6 +439,11 @@
             "name": "Doors Mobile Script Devils Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hassanxzayn-lua/doors/main/devilshubgui\"))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Modez Doors",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/no12356/doors-modes-room-and-floor/main/doors%20modes%20and%20floors'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
