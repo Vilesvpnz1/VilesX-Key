@@ -464,6 +464,11 @@
             "name": "Darkrai Mobile Script DOORS",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "APPLE HUB",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ImTienNguyenZ/AppleHubOnTop/main/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
