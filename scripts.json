@@ -454,6 +454,11 @@
             "name": "FFJ Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "DarkCheatClient",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VaniaPerets/FolderGui-FolderHub/main/loader.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
