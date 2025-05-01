@@ -295,6 +295,11 @@
             "name": "Chaos HUB",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/58jNvV3h\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Real Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/EYs5T7Yg\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
