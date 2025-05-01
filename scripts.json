@@ -419,6 +419,11 @@
             "name": "DOORS Script -  Auto Farm Candy, ESP Candy and More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LHking123456/Dhjfdr9hk/refs/heads/main/Doors\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Sensation",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/730854e5b6499ee91deb1080e8e12ae3.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
