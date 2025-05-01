@@ -679,6 +679,11 @@
             "name": "Esp, Auto Respawn",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xdevslasher/xyz.evade/main/xyz.evade.lua\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "AFK Farm, Money Farm, Speed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubEvade\"))()\u00c2",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
