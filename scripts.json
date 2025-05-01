@@ -529,5 +529,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/louismich4el/Zygarde/main/Protected%20zygarde.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "142823291": [
+        {
+            "name": "XHub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CycleScripts/Official/refs/heads/main/freemium\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
