@@ -643,5 +643,12 @@
             "loadstring": "loadstring(game:HttpGetAsync(\"https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "9872472334": [
+        {
+            "name": "Candy Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/Evade\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
