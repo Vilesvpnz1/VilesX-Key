@@ -540,6 +540,11 @@
             "name": "Tbao Hub MM2 Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubMurdervssheriff\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Kiciahook",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
