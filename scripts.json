@@ -290,6 +290,11 @@
             "name": "SP Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/as6cd0/SP_Hub/refs/heads/main/Brookhaven\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Chaos HUB",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/58jNvV3h\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
