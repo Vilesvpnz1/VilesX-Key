@@ -382,6 +382,11 @@
             "name": "Reaper Hub Pet Simulator 99 Script PC (Use Solara)",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AyoReaper/Reaper-Hub/refs/heads/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Pet Simulator 99 Pastebin New Roblox Update",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SenhorLDS/ProjectLDSHUB/main/OfficialScript'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
