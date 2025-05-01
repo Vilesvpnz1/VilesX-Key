@@ -393,17 +393,5 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Muhammad6196/Tests/main/wd_Arise/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
-    ],
-    "651614172": [
-        {
-            "name": "Kodbol Hub",
-            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/awczkDwJ/raw'),true))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Doors Script Kitty Cats",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CatEnddroid/Kitty-Cats-Doors-Beta/refs/heads/main/hub.lua\"))()",
-            "credit": "wekilledtheunicorns"
-        }
     ]
 }
