@@ -512,5 +512,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://katerhub-inc.github.io/scripts/game/KH-NDS.lua\"))",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4282985734": [
+        {
+            "name": "NoxHub",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/2Cuza2mr\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
