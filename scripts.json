@@ -345,6 +345,11 @@
             "name": "SanderXHub",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/NormalSS.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Brookhaven RP Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/GYyWRWHJ\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
