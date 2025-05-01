@@ -506,6 +506,11 @@
             "name": "Natural Disaster Survival Script Pastebin 2025",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/hussain1323232234/My-Scripts/main/Natural%20Disaster'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Katers NDS Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://katerhub-inc.github.io/scripts/game/KH-NDS.lua\"))",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
