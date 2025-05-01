@@ -718,6 +718,11 @@
             "name": "Tower of Hell Script PasteBin P1ne Loader",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/p1neru/tutor/main/p1ne-injector\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tower Of Hell Simple Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/H17S32/Tiger_Admin/main/MAIN'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
