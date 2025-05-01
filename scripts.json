@@ -469,6 +469,11 @@
             "name": "APPLE HUB",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ImTienNguyenZ/AppleHubOnTop/main/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "DOORS Roblox Hack Mobile BlackKing X BobHub Pastebin",
+            "loadstring": "loadstring(game:HttpGetAsync(\"https://pastebin.com/raw/R8QMbhzv\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
