@@ -611,5 +611,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Thattsick/Symphony-Hub/main/Arrayfields\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4616652839": [
+        {
+            "name": "Auto Farm, Auto Quests, Auto Attack",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
