@@ -486,6 +486,11 @@
             "name": "SpiderXHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SpiderScriptRB/Natural-Disaster-Survival/refs/heads/main/1.0.2%20Version%20Script.txt\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "NDS Script - No Colision, No Clip",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Thebestofhack123/2.0/refs/heads/main/NDS\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
