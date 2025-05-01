@@ -459,6 +459,11 @@
             "name": "DarkCheatClient",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VaniaPerets/FolderGui-FolderHub/main/loader.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Darkrai Mobile Script DOORS",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
