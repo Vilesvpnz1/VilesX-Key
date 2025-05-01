@@ -491,6 +491,11 @@
             "name": "NDS Script - No Colision, No Clip",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Thebestofhack123/2.0/refs/heads/main/NDS\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Natural Disaster Survival - Super Ring Pastebin",
+            "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/s6jT7YbN'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
