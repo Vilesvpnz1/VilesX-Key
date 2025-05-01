@@ -669,6 +669,11 @@
             "name": "Farm Wins, Auto Farm, Teleports",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/d8bf54daa5b358826ce74cab275f9135.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Esp, Jump Power, Auto Respawn Mobile Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/9Strew/roblox/main/gamescripts/evade.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
