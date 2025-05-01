@@ -575,6 +575,11 @@
             "name": "Get Script MM2 Roblox Forge Hub - Auto Farms GUI",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Vertex Script MM2 - Auto Farm, Auto Grab Gun, Auto End Round",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
