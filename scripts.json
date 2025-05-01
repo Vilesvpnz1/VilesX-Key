@@ -372,6 +372,11 @@
             "name": "Get Pet Simulator 99 Script - Auto Buttons [\ud83c\udf40]",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/PetSimCannon\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Play Pet Games Script Pet Simulator 99",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/PetSimGames\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
