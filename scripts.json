@@ -367,6 +367,11 @@
             "name": "Script Pet Simulator 99 (No Key) - Auto Farm, Auto Ulock, Auto TP",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/main/Scripts/PetSimulator99.lua'))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Pet Simulator 99 Script - Auto Buttons [\ud83c\udf40]",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/PetSimCannon\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
