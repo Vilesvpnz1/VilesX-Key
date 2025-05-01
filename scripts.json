@@ -501,6 +501,11 @@
             "name": "Get Natural Disaster Survival Script Auto Farm",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pcallskeleton/RX/refs/heads/main/5.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Natural Disaster Survival Script Pastebin 2025",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/hussain1323232234/My-Scripts/main/Natural%20Disaster'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
