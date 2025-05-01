@@ -444,6 +444,11 @@
             "name": "Modez Doors",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/no12356/doors-modes-room-and-floor/main/doors%20modes%20and%20floors'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "DOORS Script Pastebin \u2013 Auto Finish, No Jumpscares",
+            "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/9QPGnLx6'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
