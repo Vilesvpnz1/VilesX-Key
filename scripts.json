@@ -605,6 +605,11 @@
             "name": "Get Script Mars Hub Murder Mystery 2",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1andonlymars/MarsHub/main/MM2\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Symphony Hub Murder Mystery 2 Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Thattsick/Symphony-Hub/main/Arrayfields\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
