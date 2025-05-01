@@ -377,6 +377,11 @@
             "name": "Auto Play Pet Games Script Pet Simulator 99",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/PetSimGames\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Reaper Hub Pet Simulator 99 Script PC (Use Solara)",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AyoReaper/Reaper-Hub/refs/heads/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
