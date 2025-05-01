@@ -387,6 +387,11 @@
             "name": "Script Pet Simulator 99 Pastebin New Roblox Update",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SenhorLDS/ProjectLDSHUB/main/OfficialScript'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Pet Simulator 99 - Project WD 2024",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Muhammad6196/Tests/main/wd_Arise/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
