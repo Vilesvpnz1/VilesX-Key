@@ -654,6 +654,11 @@
             "name": "Auto drink cola",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubEvade\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, God Mode, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
