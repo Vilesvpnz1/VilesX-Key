@@ -330,6 +330,11 @@
             "name": "YHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Luarmor123/community-Y-HUB/refs/heads/main/YHUB%20ENGLISH\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Brookhaven Script Auto Farm Candy GUI",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/r4mpage4/BrookHavenRP/refs/heads/main/AutoFarmCandy.lua\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
