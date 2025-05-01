@@ -595,6 +595,11 @@
             "name": "Murder Mystery 2 Script NEXUS 2025",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/s-0-a-b/nexus/main/loadstring\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "R3TH PRIV MM2 Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zxclua/m/main/script\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
