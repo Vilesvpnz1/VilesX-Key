@@ -434,6 +434,11 @@
             "name": "Leaf Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/wbJTDuKw\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Doors Mobile Script Devils Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hassanxzayn-lua/doors/main/devilshubgui\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
