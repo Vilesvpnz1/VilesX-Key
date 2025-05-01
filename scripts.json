@@ -698,6 +698,11 @@
             "name": "Script Tower Of Hell YHUB Mobile",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Luarmor123/YHUB-Community/refs/heads/main/Tower-of-hell.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tower of Hell Script Mobile No Key - All Gear",
+            "loadstring": "for i, v in game.ReplicatedStorage.Gear:GetChildren() do v:Clone().Parent = game.Players.LocalPlayer.Backpack end",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
