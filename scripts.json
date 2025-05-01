@@ -279,5 +279,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/londnee/code/refs/heads/main/Fisch.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4924922222": [
+        {
+            "name": "Ice Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Waza80/scripts-new/main/IceHubBrookhaven.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
