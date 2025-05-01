@@ -708,6 +708,11 @@
             "name": "Tower of Hell Script 2025 - Auto Finish",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/centerepic/sasware_TowerOfHell/main/TowerOfHell_sw.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tower Of Hell Hack SprinHub \u2013 Click Tp, Insta Win and More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dqvh/dqvh/main/SprinHub\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
