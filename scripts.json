@@ -550,6 +550,11 @@
             "name": "MM 2 Script - Find Egg Hunt",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/mm2\", false))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "MM2 Script Express Hub -  Aimbot, ESP, Trolling, Teleport",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AscendFromHeaven/Kitsune-Hub/refs/heads/main/WhitelistMM2\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
