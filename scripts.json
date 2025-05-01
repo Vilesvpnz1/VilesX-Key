@@ -545,6 +545,11 @@
             "name": "Kiciahook",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "MM 2 Script - Find Egg Hunt",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/mm2\", false))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
