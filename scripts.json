@@ -580,6 +580,11 @@
             "name": "Vertex Script MM2 - Auto Farm, Auto Grab Gun, Auto End Round",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Murder Mystery 2 YARHM SCRIPT 2025",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
