@@ -617,6 +617,11 @@
             "name": "Auto Farm, Auto Quests, Auto Attack",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm Mobs, Auto Farm Logs & More Mobile Script",
+            "loadstring": "loadstring(game:HttpGetAsync(\"https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
