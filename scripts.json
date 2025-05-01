@@ -565,6 +565,11 @@
             "name": "MM2 Script Foggy Hub - ESP, X-Ray, Teleport, Troll",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FOGOTY/mm2-piano-reborn/refs/heads/main/scr\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "YHUB Murder Mystery 2 Mobile Script - ESP, Players, Teleport, Troll",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Luarmor123/YHUB-Community/refs/heads/main/Murder-Mystery2\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
