@@ -685,5 +685,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubEvade\"))()\u00c2",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "test": [
+        {
+            "name": "test",
+            "loadstring": "test",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
