@@ -340,6 +340,11 @@
             "name": "ImperialHub - Unlock All Gamepass",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Trev0rZ/LoaderM/refs/heads/main/ImperiaHub-lWorking.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "SanderXHub",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/NormalSS.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
