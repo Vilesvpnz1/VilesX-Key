@@ -674,6 +674,11 @@
             "name": "Esp, Jump Power, Auto Respawn Mobile Script",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/9Strew/roblox/main/gamescripts/evade.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Esp, Auto Respawn",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xdevslasher/xyz.evade/main/xyz.evade.lua\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
