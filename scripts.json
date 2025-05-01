@@ -335,6 +335,11 @@
             "name": "Brookhaven Script Auto Farm Candy GUI",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/r4mpage4/BrookHavenRP/refs/heads/main/AutoFarmCandy.lua\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "ImperialHub - Unlock All Gamepass",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Trev0rZ/LoaderM/refs/heads/main/ImperiaHub-lWorking.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
