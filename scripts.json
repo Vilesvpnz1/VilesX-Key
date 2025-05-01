@@ -535,6 +535,11 @@
             "name": "XHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CycleScripts/Official/refs/heads/main/freemium\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tbao Hub MM2 Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubMurdervssheriff\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
