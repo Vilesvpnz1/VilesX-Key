@@ -518,6 +518,11 @@
             "name": "NoxHub",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/2Cuza2mr\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Combat Warriors Script PC, Mobile INFERNIUM Free",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Voltrivax/hwid/refs/heads/main/Freenium\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
