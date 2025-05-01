@@ -713,6 +713,11 @@
             "name": "Tower Of Hell Hack SprinHub \u2013 Click Tp, Insta Win and More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dqvh/dqvh/main/SprinHub\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tower of Hell Script PasteBin P1ne Loader",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/p1neru/tutor/main/p1ne-injector\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
