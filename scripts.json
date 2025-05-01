@@ -523,6 +523,11 @@
             "name": "Combat Warriors Script PC, Mobile INFERNIUM Free",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Voltrivax/hwid/refs/heads/main/Freenium\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Combat Warriors Zygarde Hub 2025 Mobile",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/louismich4el/Zygarde/main/Protected%20zygarde.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
