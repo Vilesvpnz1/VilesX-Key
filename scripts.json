@@ -475,5 +475,12 @@
             "loadstring": "loadstring(game:HttpGetAsync(\"https://pastebin.com/raw/R8QMbhzv\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "189707": [
+        {
+            "name": "Script Natural Disaster Survival Mobile",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastefy.app/59mJGQGe/raw\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
