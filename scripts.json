@@ -703,6 +703,11 @@
             "name": "Tower of Hell Script Mobile No Key - All Gear",
             "loadstring": "for i, v in game.ReplicatedStorage.Gear:GetChildren() do v:Clone().Parent = game.Players.LocalPlayer.Backpack end",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tower of Hell Script 2025 - Auto Finish",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/centerepic/sasware_TowerOfHell/main/TowerOfHell_sw.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
