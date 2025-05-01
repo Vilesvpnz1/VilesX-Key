@@ -481,6 +481,11 @@
             "name": "Script Natural Disaster Survival Mobile",
             "loadstring": "loadstring(game:HttpGet(\"https://pastefy.app/59mJGQGe/raw\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "SpiderXHub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SpiderScriptRB/Natural-Disaster-Survival/refs/heads/main/1.0.2%20Version%20Script.txt\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
