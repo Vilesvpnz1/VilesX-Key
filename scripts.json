@@ -362,6 +362,11 @@
             "name": "PS99 Script - Auto Farm, Auto Click",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/bubblescripts/scripts/refs/heads/main/PS99/psgo\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Pet Simulator 99 (No Key) - Auto Farm, Auto Ulock, Auto TP",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/main/Scripts/PetSimulator99.lua'))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
