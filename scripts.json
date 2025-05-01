@@ -449,6 +449,11 @@
             "name": "DOORS Script Pastebin \u2013 Auto Finish, No Jumpscares",
             "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/9QPGnLx6'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "FFJ Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
