@@ -659,6 +659,11 @@
             "name": "Auto Farm, God Mode, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vsyncdeveloper/vsync/main/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Candy Farm, Auto Farm, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Yumiara/Python/main/Main.lua\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
