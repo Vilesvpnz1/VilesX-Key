@@ -315,6 +315,11 @@
             "name": "Brookhaven RP Script Fly Hack",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mikeexc/Dsc-Mike-Fly-Gui/main/Fly%20Gui\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "HYZ0R HUB Brookhaven RP Mobile Script Pastebin",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Hyz0r-Dev404/Hyz0/refs/heads/main/Working%25Hyz0r-Hub.md'))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
