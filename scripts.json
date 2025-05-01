@@ -585,6 +585,11 @@
             "name": "Murder Mystery 2 YARHM SCRIPT 2025",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "MM2 Hack Eclipse Hub - Auto Farm, Coin Farm, Esp",
+            "loadstring": "getgenv().mainKey = \"nil\";  local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,\"https\\58//api.eclipsehub.xyz/auth\";c(a and b,\"Executor not Supported\")a(b({Url=e..\"\\?\\107e\\121\\61\"..d(mainKey),Headers={[\"User-Agent\"]=\"Eclipse\"}}).Body)()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
