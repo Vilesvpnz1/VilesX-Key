@@ -356,5 +356,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Jfdedit3/z4trox-hub-v1/main/z4trox%20hub'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8737899170": [
+        {
+            "name": "PS99 Script - Auto Farm, Auto Click",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/bubblescripts/scripts/refs/heads/main/PS99/psgo\")()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
