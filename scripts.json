@@ -692,5 +692,12 @@
             "loadstring": "test",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "1962086868": [
+        {
+            "name": "Script Tower Of Hell YHUB Mobile",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Luarmor123/YHUB-Community/refs/heads/main/Tower-of-hell.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
