@@ -600,6 +600,11 @@
             "name": "R3TH PRIV MM2 Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zxclua/m/main/script\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Mars Hub Murder Mystery 2",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1andonlymars/MarsHub/main/MM2\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
