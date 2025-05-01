@@ -560,6 +560,11 @@
             "name": "SolixHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "MM2 Script Foggy Hub - ESP, X-Ray, Teleport, Troll",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FOGOTY/mm2-piano-reborn/refs/heads/main/scr\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
