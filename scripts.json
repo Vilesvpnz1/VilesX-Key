@@ -632,6 +632,11 @@
             "name": "Insta Kill, Auto Farm Dungeon & More Mobile Script",
             "loadstring": "loadstring(game:HttpGetAsync(\"https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Dungeon, Auto Farm Logs, Auto Farm Mobs Mobile Script",
+            "loadstring": "loadstring(game:HttpGetAsync(\"https://raw.githubusercontent.com/ahmadsgamer2/Script--Game/main/Script%20Game\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
