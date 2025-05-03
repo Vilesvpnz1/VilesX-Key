@@ -1966,6 +1966,11 @@
             "name": "Silent Aim, Rapid Fire, Aimbot",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Silent Aim, Aimbot, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/arlists/Sky-Hub/main/Main\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
