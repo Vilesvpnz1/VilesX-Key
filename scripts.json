@@ -1835,12 +1835,5 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yoolovr/Linear-Hub/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
-    ],
-    "1": [
-        {
-            "name": "1",
-            "loadstring": "1",
-            "credit": "wekilledtheunicorns"
-        }
     ]
 }
