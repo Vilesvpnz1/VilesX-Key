@@ -872,6 +872,11 @@
             "name": "Blade Ball Mobile Hack Neon.C Hub - AutoWin",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Neoncat765/Neon.C-Hub-X/main/UnknownVersion\"))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Grandmaster Olo's Hub Blade Ball Script Mobile - Auto Clicker",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GrandmasterOfLife123/lua/main/releasedbladeball.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
