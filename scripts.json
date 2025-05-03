@@ -1976,6 +1976,11 @@
             "name": "Aim Lock, Aimbot & More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LolPrivate/Side/main/Gigachad%20Hub%20V7.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Deploy, Auto Shoot, Auto Nuke",
+            "loadstring": "GUI = true; loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/f6712c9f3171c4e54f0ac695c880c258.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
