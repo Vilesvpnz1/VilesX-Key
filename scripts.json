@@ -1669,6 +1669,11 @@
             "name": "Auto Delete Cactus, Auto Road",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Bring Mobs Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ThacG/DustyTripThacScript/main/bringer\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
