@@ -2068,6 +2068,11 @@
             "name": "Teleport Menu, Clean Park, Edit Name Park",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Valenity/ParadiseHub-Open-Source/main/loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tp Player, Clean Park",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Valenity/ParadiseHub-Open-Source/main/loader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
