@@ -1404,6 +1404,11 @@
             "name": "Get Jujutsu Infinite Script - Auto Farm, Gamepass, Boss Raid",
             "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/AQW5tTyu/raw'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "DzHub Jujutsu Infinite Roblox Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Dexz00/DzHub/refs/heads/main/KeySystem\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
