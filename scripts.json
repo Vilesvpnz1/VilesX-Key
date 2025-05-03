@@ -1409,6 +1409,11 @@
             "name": "DzHub Jujutsu Infinite Roblox Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Dexz00/DzHub/refs/heads/main/KeySystem\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Jujutsu Infinite 2025 Pastebin - Limitless Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://paste.ee/r/hfHyO\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
