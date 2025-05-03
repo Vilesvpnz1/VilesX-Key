@@ -1183,5 +1183,12 @@
             "loadstring": "loadstring(game:HttpGet(\u201chttps://raw.githubusercontent.com/Zinzs/luascripting/main/canyoutellitsadahoodscriptornot.lua\u201d))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2534724415": [
+        {
+            "name": "Theolol",
+            "loadstring": "-- Do NOT use Electron, it is detected by ER:LC's anti-cheat when you inject it. -- Please only use Krnl or Fluxus  loadstring(game:HttpGet('https://snoozware.site/loader.lua', true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
