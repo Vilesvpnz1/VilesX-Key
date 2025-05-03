@@ -1325,6 +1325,11 @@
             "name": "Invis",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Enxquity/Script-Releases/main/YBA_Invis\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto buy, Stand attach, Stand Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
