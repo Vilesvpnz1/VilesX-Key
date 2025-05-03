@@ -1632,6 +1632,11 @@
             "name": "Esp, Auto Use Coin, Auto Roll Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Looser3itx/Hmmmmmmmmmmmmmmmmmmmmmmmmmmmm/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Esp, Open Shop, Webhook",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Looser3itx/Hmmmmmmmmmmmmmmmmmmmmmmmmmmmm/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
