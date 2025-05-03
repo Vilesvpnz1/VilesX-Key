@@ -1384,6 +1384,11 @@
             "name": "Get Script Jujutsu Infinite - Noble Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/21cecfc256321e341fbe9a0a2df5a564.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get New PintoHub Script Jujutsu Infinite",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/justinbieberreal/PintoHub/refs/heads/main/PintoHub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
