@@ -1493,6 +1493,11 @@
             "name": "Get Script Kykyryz Hub Slap Battles Mobile Pastebin",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Zjwbi81T\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "MultiHack Mobile Slap Battles Scripts",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Giangplay/Slap_Battles/main/Slap_Battles.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
