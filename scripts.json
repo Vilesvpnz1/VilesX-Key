@@ -2165,6 +2165,11 @@
             "name": "Auto Play",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/InfernusScripts/Fire-Hub/main/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Autoplay",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nadir3709/RandomScript/main/FunkyFridayMobile\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
