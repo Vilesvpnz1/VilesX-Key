@@ -1846,6 +1846,11 @@
             "name": "Auto Attack, God Mode, Gun Mods",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/ZA.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Noclip, Walkspeed Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mikeexc/123456/main/Zombie%20Attack\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
