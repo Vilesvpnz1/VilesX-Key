@@ -2041,6 +2041,11 @@
             "name": "Silent Aimbot, No Spread, Jump Height",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mac2115/Asteria.lol2/main/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aimbot, Esp, Kill Aura",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GlobeReverse/Moonlight/main/Main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
