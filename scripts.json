@@ -2269,5 +2269,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://github.com/KhSaeed90/Roblox/raw/workspace/8737602449\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8554378337": [
+        {
+            "name": "WFS GUI",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PerfectusMim/Perfectus-Hub/main/perfectus-hub\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
