@@ -1309,5 +1309,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0mikami/Roblox-Scripts/main/AutoDBRObfuscated.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2809202155": [
+        {
+            "name": "Fly Pilot",
+            "loadstring": "loadstring(game:HttpGet('https://portfolio.loadlua.xyz/files/YBA%20Pilot.lua'))();",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
