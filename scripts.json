@@ -832,6 +832,11 @@
             "name": "GPLLP Script Blade Ball Mobile",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/songolasangkatangw/memek/main/adakontolsamamemek.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Chaotic Blade Ball Free Script (No Key) - Auto Parry",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mc4121ban/trashscript/main/chaotic.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
