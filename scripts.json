@@ -1229,5 +1229,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "7991339063": [
+        {
+            "name": "Rainbow Friends Script PasteBin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Keparetiolpxe/rbxscript/main/RainbowFriendsKEPA\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
