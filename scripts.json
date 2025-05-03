@@ -1008,6 +1008,11 @@
             "name": "King Legacy Zee Hub Script AutoFarm GUI Mobile",
             "loadstring": "loadstring(game:HttpGet('https://zuwz.me/Ls-Zee-Hub-KL'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hulk Hub King Legacy Mobile Hack",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/HULKUexe/mobileX/main/FreeScript.lua\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
