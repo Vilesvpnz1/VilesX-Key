@@ -919,6 +919,11 @@
             "name": "The Strongest Battlegrounds Script Auto Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Mobile The Strongest Battlegrounds -  Anti Ragdoll, Anti Lag, ESP",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ATrainz/Phantasm/refs/heads/main/Games/TSB.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
