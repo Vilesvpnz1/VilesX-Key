@@ -1424,6 +1424,11 @@
             "name": "Script Mobile Jujutsu Infinite - Rinns Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dexz0 Hub Jujutsu Infinite - Insta Kill, OP 8,5 MILLION XP, Bypass Level 1000",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Dexz00/DzHub/refs/heads/main/Jujutsu%20Infinite\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
