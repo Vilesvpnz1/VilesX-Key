@@ -724,5 +724,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/H17S32/Tiger_Admin/main/MAIN'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6872265039": [
+        {
+            "name": "BedWars Script Updated VapeV4",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/miacheats/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
