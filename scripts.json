@@ -1835,5 +1835,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yoolovr/Linear-Hub/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "1240123653": [
+        {
+            "name": "Auto Farm",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Games/Zombie-Attack'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
