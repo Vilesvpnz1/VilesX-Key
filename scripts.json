@@ -1685,5 +1685,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip\",true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4580204640": [
+        {
+            "name": "Auto Farm, Tp, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
