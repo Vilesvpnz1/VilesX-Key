@@ -2406,5 +2406,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/raimbowo1/test/main/naval\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "277751860": [
+        {
+            "name": "Epic Minigames Op Gui",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Epic%20Minigames/EpicMinigamesGUI\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
