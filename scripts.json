@@ -1570,5 +1570,12 @@
             "loadstring": "loadstring(request({Url = \"https://seere.vip/cracks/midnightracinghub.lua\"}).Body)();",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3339374541": [
+        {
+            "name": "Midnight Racing Tokyo - buggy",
+            "loadstring": "loadstring(game:HttpGetAsync'https://raw.githubusercontent.com/GXNATION/Main-script/main/Main%20hub')();",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
