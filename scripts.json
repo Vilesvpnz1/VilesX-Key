@@ -2468,6 +2468,11 @@
             "name": "Give items, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zyn789/Aoi-Script/main/Jailbreak\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Cash Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TempIsGay/Cashfarm/main/AutoCrateFree.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
