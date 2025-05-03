@@ -1045,6 +1045,11 @@
             "name": "Kill-Aura, Auto Loot, Auto Farm",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Skeereddo/name/main/krnl', true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Kill Aura, Teleports & More",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/ImperorLegend/Shark-Hub-v1/main/Script'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
