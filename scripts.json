@@ -2358,6 +2358,11 @@
             "name": "Auto Swing, Auto Sell, Hoops Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Sell, Auto Farm, Auto Max lvl",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/spacvehubloader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
