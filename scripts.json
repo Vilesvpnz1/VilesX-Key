@@ -2188,5 +2188,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pid4k/scripts/refs/heads/main/untitledboxinggame.lua', true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "5116869569": [
+        {
+            "name": "Storage Acces Button",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/doodle_world/main/storage_access_button'),true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
