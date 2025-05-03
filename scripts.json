@@ -1189,6 +1189,11 @@
             "name": "Theolol",
             "loadstring": "-- Do NOT use Electron, it is detected by ER:LC's anti-cheat when you inject it. -- Please only use Krnl or Fluxus  loadstring(game:HttpGet('https://snoozware.site/loader.lua', true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Argon Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mcletshacks/ArgonHubV2/main/Load2/New%20Loader.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
