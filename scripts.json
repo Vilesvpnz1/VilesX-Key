@@ -1876,6 +1876,11 @@
             "name": "Auto Farm, Noclip, Walkspeed Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mikeexc/123456/main/Zombie%20Attack\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto-Farm, Zombie Farm, Player Combat Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dqtixz/Zombie-attack-Gui-OP-Script/main/by%20dqtixz%20new%20free\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
