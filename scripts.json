@@ -1368,5 +1368,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bunny42312/script/main/acs\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "10450270085": [
+        {
+            "name": "Script No Key jujutsu infinite - Auto Farm GUI SolixHub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
