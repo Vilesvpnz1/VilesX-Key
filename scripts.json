@@ -1298,6 +1298,11 @@
             "name": "Get All Easter Eggs",
             "loadstring": "for i,v in pairs(workspace.Map.Eggs:GetChildren()) do if v.Transparency ~= 1 then game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame; task.wait(0.25) end end",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Train, Auto Farm Mobs, Teleport & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xpa1n/Scripts/main/DBR.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
