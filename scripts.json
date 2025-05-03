@@ -2135,5 +2135,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/WinterDinder/Obby-But-Youre-On-A-Bike-/main/Main\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "12886143095": [
+        {
+            "name": "Anime Last Stand Mobile Script - Auto Play",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScriptBrv/OHU/refs/heads/main/OHU.md\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
