@@ -976,6 +976,11 @@
             "name": "No Cooldowns \u2013 Hide Name \u2013 Auto Souls",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/borntodiekuv/Die/main/DeepwokenBattle'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Chest Farm, Click Tp, Player ESP",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/slightten/scripts/main/deepwoken%20dev'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
