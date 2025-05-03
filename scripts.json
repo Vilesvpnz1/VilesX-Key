@@ -1241,5 +1241,12 @@
             "loadstring": "pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Rainbow-Friends/main/Main.lua')))",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "10277607801": [
+        {
+            "name": "Nex Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CopyReal/NexHub/main/NexHubLoader\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
