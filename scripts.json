@@ -929,6 +929,11 @@
             "name": "Star Hub v4 Updated - TSB Script (Aimlock, Auto Parry, Fling All)",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/bc25e1f8ef8aa59092de8f8f4c4fb95c.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Spooks Hub TSB Script - Autofarm, Player Sniper, ESP",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ApparentlySpooks/spookshubTSB/refs/heads/main/SHTSB.txt'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
