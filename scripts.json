@@ -1659,6 +1659,11 @@
             "name": "Auto Road, No Stamina, Teleport",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Inf Stamina, Telekinesis Gun",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
