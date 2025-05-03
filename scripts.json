@@ -1455,5 +1455,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Jujutsu%20Infinite.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3177438863": [
+        {
+            "name": "Auto Farm Mobs, Auto Quests",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/cdc8ffd74b2c33f6c9f47b85f4b77c45.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
