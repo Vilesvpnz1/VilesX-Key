@@ -1085,5 +1085,12 @@
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/darkxwin/darkxsourcethinkyoutousedarkx/main/darkx\")()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "1537690962": [
+        {
+            "name": "Verbal Hub Sigma BSS",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/refs/heads/main/Bee%20Swarm%20Sim.Lua\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
