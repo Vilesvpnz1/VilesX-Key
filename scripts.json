@@ -1503,6 +1503,11 @@
             "name": "Slap Battles Mobile Script AutoFarm",
             "loadstring": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Slap-Battles-Open-source-for-9484\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Roblox OP Slap Battles Admin Panel Script Hack",
+            "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/kviks/SB-Script/main/script\")))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
