@@ -1280,5 +1280,12 @@
             "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua\"),true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8073154099": [
+        {
+            "name": "TheIntruderScript",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/FGjjwm6W\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
