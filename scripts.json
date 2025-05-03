@@ -1835,52 +1835,5 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yoolovr/Linear-Hub/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
-    ],
-    "1240123653": [
-        {
-            "name": "Auto Farm",
-            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Games/Zombie-Attack'))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Auto Farm",
-            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproooolucky/Unknown-Hub-X-Universal-Games/main/Games/Zombie-Attack'))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Auto Attack, God Mode, Gun Mods",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/ZA.lua\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Auto Farm, Noclip, Walkspeed Mobile Script",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mikeexc/123456/main/Zombie%20Attack\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Auto Attack, God Mode, Gun Mods",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/ZA.lua\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Auto Attack, God Mode, Gun Mods",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/ZA.lua\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Auto Farm, Noclip, Walkspeed Mobile Script",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mikeexc/123456/main/Zombie%20Attack\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Auto Farm, Noclip, Walkspeed Mobile Script",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mikeexc/123456/main/Zombie%20Attack\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Auto-Farm, Zombie Farm, Player Combat Mobile Script",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dqtixz/Zombie-attack-Gui-OP-Script/main/by%20dqtixz%20new%20free\"))();",
-            "credit": "wekilledtheunicorns"
-        }
     ]
 }
