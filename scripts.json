@@ -892,6 +892,11 @@
             "name": "Blade Ball ZapHub",
             "loadstring": "loadstring(game:HttpGet('https://zaphub.xyz/ExecBB'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blade Ball Script AUTO PARRY Ether Hub Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/kewPR6Js\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
