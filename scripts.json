@@ -2159,5 +2159,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheOnlyGiraffe/AUTHZombies/refs/heads/main/auth1.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6447798030": [
+        {
+            "name": "Auto Play",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/InfernusScripts/Fire-Hub/main/Loader\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
