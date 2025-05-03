@@ -762,6 +762,11 @@
             "name": "Blade Ball Script Ronix Hub [EVENT]",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/79ab2d3174641622d317f9e234797acb.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Blade Ball Roblox r4mpage - Auto Parry, Auto Spam (No Key)",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/r4mpage4/4R4mpageHub/refs/heads/main/FixedAntiCheat.lua\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
