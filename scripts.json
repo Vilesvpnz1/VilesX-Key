@@ -1051,5 +1051,12 @@
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/ImperorLegend/Shark-Hub-v1/main/Script'),true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "5865858426": [
+        {
+            "name": "Auto-Farm",
+            "loadstring": "loadstring(game:HttpGet\"https://pastebinp.com/raw/gD0E8xvi\")()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
