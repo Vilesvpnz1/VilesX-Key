@@ -1802,6 +1802,11 @@
             "name": "Aimbot, Skin Changer, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cracklua/cracks/m/SilentRivals\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Silent Aimbot",
+            "loadstring": "loadstring(game:HttpGet(\"https://scriptblox.com/raw/RIVALS-Silent-Aim-Working-on-All-Executors-OPEN-SOURCED-BY-BOLTS-20840\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
