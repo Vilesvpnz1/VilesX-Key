@@ -1949,6 +1949,11 @@
             "name": "Infinite Stamina, Esp, Set Speed",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/H17S32/Tiger_Admin/main/MAIN'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Fullbright, Esp, Power Level",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
