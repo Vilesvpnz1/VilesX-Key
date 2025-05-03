@@ -2331,6 +2331,11 @@
             "name": "Auto Farm, Auto Complete Levels Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/infiniteThousandWare/speedrun4OpScript/main/infiniteware\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Auto win, Get Cloud",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JustAP1ayer/PlayerHubOther/main/PlayerHubLoader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
