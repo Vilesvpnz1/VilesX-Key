@@ -862,6 +862,11 @@
             "name": "REDz Hub Blade Ball Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/REDzHUB/BladeBall/main/eng\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blade Ball Mobile Script 2025 Alchemy Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://scripts.alchemyhub.xyz\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
