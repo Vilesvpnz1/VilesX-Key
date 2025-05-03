@@ -2336,6 +2336,11 @@
             "name": "Auto Farm, Auto win, Get Cloud",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JustAP1ayer/PlayerHubOther/main/PlayerHubLoader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Rage Auto Farm, Unlock All Lvl, Reset Lvl",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/King-Hub-v2/main/Loader.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
