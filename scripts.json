@@ -1696,6 +1696,11 @@
             "name": "Teleport, Movement & More Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto-Farm, Teleports & More Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
