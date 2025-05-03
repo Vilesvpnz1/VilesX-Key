@@ -2348,6 +2348,11 @@
             "name": "NukeVsCity Gui",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NukeVsCity/TheALLHACKLoader/main/NukeLoader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Swing, Auto Sell, Auto Boss",
+            "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/AppleScript001/Ninjas_Legends/main/README.md\"),true))()\u00c2",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
