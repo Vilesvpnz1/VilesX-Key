@@ -1856,6 +1856,11 @@
             "name": "Auto-Farm, Zombie Farm, Player Combat Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dqtixz/Zombie-attack-Gui-OP-Script/main/by%20dqtixz%20new%20free\"))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Silent Aim, Auto Equip",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
