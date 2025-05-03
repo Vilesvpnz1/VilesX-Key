@@ -2400,6 +2400,11 @@
             "name": "Shark Ripper V4",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JerrymiahPM/SharkRipper/main/main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Walkspeed, Shark ESP, Auto Farm, NoClip",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/raimbowo1/test/main/naval\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
