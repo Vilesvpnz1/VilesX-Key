@@ -1223,6 +1223,11 @@
             "name": "Lott Grab All, Claim All House, Rainbow Car",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Glitch Tool, Rainbow Car, Spam Light",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
