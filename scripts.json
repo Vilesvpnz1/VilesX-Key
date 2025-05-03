@@ -1885,6 +1885,11 @@
             "name": "ESP, Aimbot",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/MunciNotHere/M1M1/refs/heads/main/KAT\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "AimBot, Esp, Xray",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/whiteinian/Aquaware/main/Main.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
