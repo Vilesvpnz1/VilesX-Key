@@ -2378,6 +2378,11 @@
             "name": "Auto Farm, Auto Race, Teleport",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/why-png/scriptstuffz/master/ninjaleg2\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Sell, Auto Swing & More Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zerpqe/script/main/NinjaLegends.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
