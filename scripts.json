@@ -2248,6 +2248,11 @@
             "name": "Auto Farm, Webhooks, Server Hop",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Webhook, Auto Thank & More",
+            "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua\"),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
