@@ -949,6 +949,11 @@
             "name": "The Strongest Battlegrounds Hack",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "TSB Script Roblox - Infinite Jump, Fly",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastefy.app/v9VSOfM5/raw\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
