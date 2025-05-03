@@ -2353,6 +2353,11 @@
             "name": "Auto Swing, Auto Sell, Auto Boss",
             "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/AppleScript001/Ninjas_Legends/main/README.md\"),true))()\u00c2",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Swing, Auto Sell, Hoops Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
