@@ -767,6 +767,11 @@
             "name": "Script Blade Ball Roblox r4mpage - Auto Parry, Auto Spam (No Key)",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/r4mpage4/4R4mpageHub/refs/heads/main/FixedAntiCheat.lua\"))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Blade Ball Script Frost Ware - Auto Parry",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fsploit/Frostware/refs/heads/main/F-R-O-S-T-W-A-R-E%20BY%20FSPLOIT-BLADE%20BALL.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
