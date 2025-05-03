@@ -2458,6 +2458,11 @@
             "name": "Silent Aim, Target Police, Automatic Guns",
             "loadstring": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/730854e5b6499ee91deb1080e8e12ae3.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Arrest, Esp, Car teleport speed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BlitzIsKing/UniversalFarm/main/Loader/Regular\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
