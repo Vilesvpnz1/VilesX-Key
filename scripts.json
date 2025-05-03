@@ -2074,5 +2074,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Valenity/ParadiseHub-Open-Source/main/loader\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4490140733": [
+        {
+            "name": "Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Janorax/MyRestaurant/refs/heads/main/script\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
