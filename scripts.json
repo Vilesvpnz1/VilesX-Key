@@ -1743,6 +1743,11 @@
             "name": "Place Characters",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MariyaFurmanova/Library/main/PiggyTowerDefense\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get All",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/79-x/W/main/Piggy%20Script\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
