@@ -934,6 +934,11 @@
             "name": "Spooks Hub TSB Script - Autofarm, Player Sniper, ESP",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ApparentlySpooks/spookshubTSB/refs/heads/main/SHTSB.txt'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "The Strongest Battlegrounds (TSB) Script New Forge Hub - Auto Block, ESP, Infinite Jump",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
