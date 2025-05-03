@@ -2413,5 +2413,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SlamminPig/rblxgames/main/Epic%20Minigames/EpicMinigamesGUI\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "5343994291/": [
+        {
+            "name": "Teleports, Esp & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/checkm4te8/Exploit-Scripts/main/HydroHub/Loader.lua\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
