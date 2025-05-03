@@ -981,6 +981,11 @@
             "name": "Chest Farm, Click Tp, Player ESP",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/slightten/scripts/main/deepwoken%20dev'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Fling, Auto Parry, Auto ParryU",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/w8qQ07Pm\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
