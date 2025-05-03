@@ -1074,6 +1074,11 @@
             "name": "1Qlui Pastebin Script",
             "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/EdUyxN7Z'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Lumber Tycoon 2 - Get Tree, Teleports, Player Features",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0'))(\"\")",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
