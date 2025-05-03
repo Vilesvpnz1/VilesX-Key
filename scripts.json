@@ -1320,6 +1320,11 @@
             "name": "Invisibility, Auto Farm, Super Jump",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v3.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Invis",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Enxquity/Script-Releases/main/YBA_Invis\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
