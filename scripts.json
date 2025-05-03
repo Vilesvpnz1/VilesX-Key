@@ -1235,6 +1235,11 @@
             "name": "Rainbow Friends Script PasteBin",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Keparetiolpxe/rbxscript/main/RainbowFriendsKEPA\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Rainbow Friends Script Roblox 2024",
+            "loadstring": "pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Rainbow-Friends/main/Main.lua')))",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
