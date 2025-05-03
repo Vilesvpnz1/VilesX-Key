@@ -2373,6 +2373,11 @@
             "name": "Teleport",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Stochalt/HiraganaDev-Hub/main/HiraHub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Auto Race, Teleport",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/why-png/scriptstuffz/master/ninjaleg2\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
