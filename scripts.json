@@ -1824,6 +1824,11 @@
             "name": "Auto Delivery Truck, Auto-Delivery Truck",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/x3fall3nangel/FallAngelHub/main/DriveWorld.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Delivery Food, Auto-Delivery Truck Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/x3fall3nangel/FallAngelHub/main/DriveWorld.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
