@@ -2003,6 +2003,11 @@
             "name": "Webhook, Auto Speedup, Auto Vote Extreme Mode",
             "loadstring": "loadstring(game:HttpGet('https://script.karmapanda.dev/'))() -- GET KEY HERE: https://key.karmapanda.dev/",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Join, Auto Replay & More",
+            "loadstring": "pcall(function()loadstring(game:HttpGet(\"https://riverhub.xyz/\" .. tostring(game.PlaceId) .. \".lua\"))()end)",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
