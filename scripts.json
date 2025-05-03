@@ -857,6 +857,11 @@
             "name": "FFJ Hub v3.1",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "REDz Hub Blade Ball Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/REDzHUB/BladeBall/main/eng\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
