@@ -1498,6 +1498,11 @@
             "name": "MultiHack Mobile Slap Battles Scripts",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Giangplay/Slap_Battles/main/Slap_Battles.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Slap Battles Mobile Script AutoFarm",
+            "loadstring": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/Slap-Battles-Open-source-for-9484\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
