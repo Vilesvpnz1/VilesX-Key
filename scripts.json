@@ -1315,6 +1315,11 @@
             "name": "Fly Pilot",
             "loadstring": "loadstring(game:HttpGet('https://portfolio.loadlua.xyz/files/YBA%20Pilot.lua'))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Invisibility, Auto Farm, Super Jump",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v3.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
