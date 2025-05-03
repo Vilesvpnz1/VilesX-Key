@@ -1399,6 +1399,11 @@
             "name": "Jujutsu Infinite New Script - Stingray Boss Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nebula-Manta/Stingray/refs/heads/main/JJI/BossFarm.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Jujutsu Infinite Script - Auto Farm, Gamepass, Boss Raid",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/AQW5tTyu/raw'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
