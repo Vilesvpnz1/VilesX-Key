@@ -1394,6 +1394,11 @@
             "name": "Jujutsu Infinite New Script - Auto Farm, God Mode",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nuIIism/limitless/main/main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Jujutsu Infinite New Script - Stingray Boss Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nebula-Manta/Stingray/refs/heads/main/JJI/BossFarm.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
