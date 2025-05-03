@@ -2056,6 +2056,11 @@
             "name": "Esp, Teleports & More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GlobeReverse/Moonlight/main/Main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Silent AIm, Kill Aura, Gun Mods",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/0Xxtfktr\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
