@@ -1782,6 +1782,11 @@
             "name": "Auto Fire, Aim Assist, Anti Katana",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/212c1198a1beacf31150a8cf339ba288.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aimbot, Silent Aim, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JackCSTM/eclipsex/main/script\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
