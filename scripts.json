@@ -2022,6 +2022,11 @@
             "name": "Blackhawk teleport gui",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/ffw52N9R\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blackhawk gun mod script",
+            "loadstring": "local AmmoFrame = game:GetService(\"Players\").LocalPlayer.PlayerGui.HudGui[\"#main\"][\"#hud\"].right[\"#ammo\"]  local function ModGuns()     if AmmoFrame.Visible then         for _, Userdata in next, getgc(true) do             if type(Userdata) == \"table\" and rawget(Userdata, \"recoil\") then                 Userdata.recoil = 0                 Userdata.range = 100000                 Userdata.velocity = 100000             end         end     end end  AmmoFrame:GetPropertyChangedSignal(\"Visible\"):Connect(ModGuns)",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
