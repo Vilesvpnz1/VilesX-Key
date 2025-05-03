@@ -2473,6 +2473,11 @@
             "name": "Cash Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TempIsGay/Cashfarm/main/AutoCrateFree.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Esp, Walkspeed, Kill Aura",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/devnorb/vortexjb/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
