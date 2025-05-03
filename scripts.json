@@ -1269,6 +1269,11 @@
             "name": "ESP, Disable Fall Damage & More",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/SCP3008.py\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Admin cmds",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
