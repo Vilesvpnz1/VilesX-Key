@@ -1849,5 +1849,12 @@
             "loadstring": "t",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "hi": [
+        {
+            "name": "hi",
+            "loadstring": "gi",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
