@@ -1303,6 +1303,11 @@
             "name": "Auto Train, Auto Farm Mobs, Teleport & More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xpa1n/Scripts/main/DBR.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Charge, Train Agility, Auto Zenkai",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0mikami/Roblox-Scripts/main/AutoDBRObfuscated.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
