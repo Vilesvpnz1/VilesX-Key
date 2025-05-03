@@ -772,6 +772,11 @@
             "name": "Get Blade Ball Script Frost Ware - Auto Parry",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Fsploit/Frostware/refs/heads/main/F-R-O-S-T-W-A-R-E%20BY%20FSPLOIT-BLADE%20BALL.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Blade Ball New Script 2025 Pastebin Frostware Farms GUI",
+            "loadstring": "game:GetService(\"StarterGui\"):SetCore(\"SendNotification\",{ Title = \"Note!\", Text = \"This script takes 10 seconds to load and may lag when loading\",   Button1 = \"Yes\", Button2 = \"Cancel\", Duration = 30  })  loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Fsploit/Frostware-/refs/heads/main/Bypass.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
