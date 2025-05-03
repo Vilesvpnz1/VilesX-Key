@@ -1760,6 +1760,11 @@
             "name": "Collect Cans",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTSpray'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tp, Collect Cans Mobile Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTSpray'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
