@@ -1738,6 +1738,11 @@
             "name": "Item Farm, Items Teleport",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BaconBABA/script/refs/heads/main/piggy.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Place Characters",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MariyaFurmanova/Library/main/PiggyTowerDefense\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
