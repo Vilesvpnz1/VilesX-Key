@@ -1525,6 +1525,11 @@
             "name": "Auto Farm Power",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JellyBagBeans/CelestialHub/main/GameLoader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Train, Auto Collect Orbs, Walkspeed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JellyBagBeans/CelestialHub/main/GameLoader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
