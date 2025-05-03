@@ -2016,5 +2016,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/fda523d8de77cd09a853c1459bc43952.lua\"))() -- Join the discord at: https://discord.gg/rGJAz48XPz",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2916899287": [
+        {
+            "name": "Blackhawk teleport gui",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/ffw52N9R\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
