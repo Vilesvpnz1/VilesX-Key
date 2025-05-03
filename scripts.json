@@ -1564,6 +1564,11 @@
             "name": "Car Boost",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/houjk2/Boosthub/main/main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto-Farm, Auto Race, Speed Hack",
+            "loadstring": "loadstring(request({Url = \"https://seere.vip/cracks/midnightracinghub.lua\"}).Body)();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
