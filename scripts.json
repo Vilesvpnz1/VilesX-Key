@@ -2080,6 +2080,11 @@
             "name": "Auto Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Janorax/MyRestaurant/refs/heads/main/script\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Walk Speed, Teleport",
+            "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/z7TFbGEL'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
