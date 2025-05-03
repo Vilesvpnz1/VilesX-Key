@@ -1721,6 +1721,11 @@
             "name": "Auto Collect Loot, Auto Invis, Esp",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Loot Aura, Teleports, Remove Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
