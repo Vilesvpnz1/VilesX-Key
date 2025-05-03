@@ -1770,6 +1770,11 @@
             "name": "Falseban Players Method",
             "loadstring": "loadstring(game:HttpGet('https://garfieldscripts.xyz/scripts/paintgame.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Drawer",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.irisapp.ca/Scripts/SprayPaintAutoDraw.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
