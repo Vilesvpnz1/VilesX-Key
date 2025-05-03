@@ -802,6 +802,11 @@
             "name": "Xera Script Blade Ball No Key - AutoParry",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/luascriptsROBLOX/BladeBallXera/main/XeraUltron\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blade Ball Script Mobile Pi-Hub - Auto Farm, AutoParry, AutoWalk",
+            "loadstring": "loadstring(game:HttpGet(\"https://pi-hub.pages.dev/protected/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
