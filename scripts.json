@@ -1352,6 +1352,11 @@
             "name": "Auto Farm, Teleport, Auto Open egg",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/siradaniy/Script_HSz/main/HSz_ACS.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Collect Drops, Teleport, Collect chests",
+            "loadstring": "loadstring(game:HttpGet(\"https://github.com/KhSaeed90/Roblox/raw/workspace/14433762945\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
