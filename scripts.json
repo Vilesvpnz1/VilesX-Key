@@ -2097,6 +2097,11 @@
             "name": "Auto Farm, Auto Play, Auto Buy, Auto Upgrade",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Auto Upgrade",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Prosexy/Demonic-HUB-V2/main/DemonicHub_V2.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
