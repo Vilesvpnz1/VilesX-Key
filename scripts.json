@@ -1862,5 +1862,12 @@
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/zeuise0002/SSSWWW222/main/README.md'),true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "17890861313": [
+        {
+            "name": "Esp Items, Esp Player, Fullbright",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bac0nHck/Scripts/refs/heads/main/panik\"))(\"t.me/arceusxscripts\")",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
