@@ -1616,5 +1616,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/typical-overk1ll/scripts/main/Greenville\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "15532962292": [
+        {
+            "name": "Fullbright, Inf Jump & More Mobile Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/EGGSolsRNG'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
