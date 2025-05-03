@@ -2146,6 +2146,11 @@
             "name": "New Anime Last Stand Script - Macro, AutoFarm, AutoPlay",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/buang5516/buanghub/main/animeLastStand.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Anime Last Stand Pastebin 2024 - Demonic Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
