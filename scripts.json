@@ -1112,5 +1112,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/scriptpastebin/raw/main/Histy\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3398014311": [
+        {
+            "name": "Restaurant Tycoon 2 Roblox Script Auto Farm GUI",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/iz037/Zeld-Hub/main/Script/Restaurant%20Tycoon%202.lua'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
