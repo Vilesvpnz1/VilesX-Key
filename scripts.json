@@ -2263,6 +2263,11 @@
             "name": "Auto Farm, Rainbow Text, RickRoll Text",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/DreadzHub2/DreadzHub-Scripts-FR/main/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Free UGC Item",
+            "loadstring": "loadstring(game:HttpGet(\"https://github.com/KhSaeed90/Roblox/raw/workspace/8737602449\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
