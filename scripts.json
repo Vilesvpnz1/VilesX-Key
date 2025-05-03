@@ -1151,5 +1151,12 @@
             "loadstring": "loadstring(game:HttpGet('https://scripts.luawl.com/hosted/3491/19031/AzureTier1|FreeVer.lua'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2788229376": [
+        {
+            "name": "StatueWare",
+            "loadstring": "loadstring(game:HttpGet(\u201chttps://raw.githubusercontent.com/toosiwhip/statueware/main/da-hood.lua\u201d))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
