@@ -1167,6 +1167,11 @@
             "name": "OhioMode",
             "loadstring": "loadstring(game:HttpGet(\u201chttps://raw.githubusercontent.com/OhioMode/github/main/Main.lua\u201d))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "UnknownScriptName",
+            "loadstring": "loadstring(game:HttpGet(\u201chttps://raw.githubusercontent.com/iliekmen/i-liek-men-project/main/asdadawd\u201d))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
