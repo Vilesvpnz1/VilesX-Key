@@ -867,6 +867,11 @@
             "name": "Blade Ball Mobile Script 2025 Alchemy Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://scripts.alchemyhub.xyz\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blade Ball Mobile Hack Neon.C Hub - AutoWin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Neoncat765/Neon.C-Hub-X/main/UnknownVersion\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
