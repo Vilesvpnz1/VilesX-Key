@@ -2390,6 +2390,11 @@
             "name": "Theeth Generator, Kill Aura, Kill Shark",
             "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/kyoichi35/Kyoichi-Hub/main/Kyoichi%20hub\")))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Free Boats, Get All Weapons & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FlmesCoding/CandyHubGames/main/SHARKBITE%202.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
