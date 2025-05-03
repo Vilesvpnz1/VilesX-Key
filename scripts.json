@@ -1293,6 +1293,11 @@
             "name": "Auto Farm, Auto Farm Mobs, Auto Train",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get All Easter Eggs",
+            "loadstring": "for i,v in pairs(workspace.Map.Eggs:GetChildren()) do if v.Transparency ~= 1 then game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame; task.wait(0.25) end end",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
