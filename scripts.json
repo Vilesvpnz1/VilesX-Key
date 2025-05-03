@@ -1932,6 +1932,11 @@
             "name": "Kill Aura, Auto Fire, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/YellowGreg/Loadstring/main/femf2.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "No Recoil, Walkspeed, Noclip",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/MichaelZombies.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
