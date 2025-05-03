@@ -1536,5 +1536,12 @@
             "loadstring": "getgenv().PremiumKey = \"\"  loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLEduard/Eduard-s-Hub/main/script.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6243699076": [
+        {
+            "name": "The Mimic Script 1",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/03sAlt/TheMimic/main/README.md\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
