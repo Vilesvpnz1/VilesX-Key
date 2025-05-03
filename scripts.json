@@ -2062,5 +2062,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/0Xxtfktr\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "69184822": [
+        {
+            "name": "Teleport Menu, Clean Park, Edit Name Park",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Valenity/ParadiseHub-Open-Source/main/loader\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
