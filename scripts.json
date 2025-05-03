@@ -2112,6 +2112,11 @@
             "name": "Auto Upgrade, Auto Skip Wave Mobile Script",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Nicuse/RobloxScripts/main/TowerDefenseSimulator.lua', true))()Copied!",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Teleport, Join Elevator, Delete Level Barriers Mobile Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Nicuse/RobloxScripts/main/TowerDefenseSimulator.lua', true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
