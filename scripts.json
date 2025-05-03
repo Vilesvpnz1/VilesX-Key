@@ -1274,6 +1274,11 @@
             "name": "Admin cmds",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/SkyHub.txt\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Instant Interact, No Camera Shake, Fov",
+            "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua\"),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
