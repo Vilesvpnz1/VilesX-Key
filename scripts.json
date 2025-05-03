@@ -2009,5 +2009,12 @@
             "loadstring": "pcall(function()loadstring(game:HttpGet(\"https://riverhub.xyz/\" .. tostring(game.PlaceId) .. \".lua\"))()end)",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2727067538": [
+        {
+            "name": "World Zero Roblox - Kill Aura Pastebin 2024",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/fda523d8de77cd09a853c1459bc43952.lua\"))() -- Join the discord at: https://discord.gg/rGJAz48XPz",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
