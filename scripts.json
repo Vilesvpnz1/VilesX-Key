@@ -1259,6 +1259,11 @@
             "name": "Fullbright, Teleports, Esp",
             "loadstring": "loadstring(game:HttpGet'https://raw.githubusercontent.com/RunDTM/ZeeroxHub/main/Loader.lua')()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Universal scripts",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.Loader.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
