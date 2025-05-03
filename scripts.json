@@ -1003,6 +1003,11 @@
             "name": "Arc Hub King Legacy Farm Hack UPDATED",
             "loadstring": "getgenv().CustomDistance = 10 -- For Bug Can't Swipe Distance loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ChopLoris/ArcHub/main/main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "King Legacy Zee Hub Script AutoFarm GUI Mobile",
+            "loadstring": "loadstring(game:HttpGet('https://zuwz.me/Ls-Zee-Hub-KL'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
