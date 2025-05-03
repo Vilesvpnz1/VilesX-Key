@@ -2216,6 +2216,11 @@
             "name": "Player Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/3RfB693z\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hitboxes, Auto Tag, Walkspeed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AsteriskCodes/Ranxware-V2/main/Games/UntitledTagGame.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
