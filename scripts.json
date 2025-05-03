@@ -797,6 +797,11 @@
             "name": "Blade Ball Auto Parry Script and More (Mobile)",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Xera Script Blade Ball No Key - AutoParry",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/luascriptsROBLOX/BladeBallXera/main/XeraUltron\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
