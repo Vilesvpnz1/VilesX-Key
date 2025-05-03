@@ -2368,6 +2368,11 @@
             "name": "Auto Swing, Auto Sell, Auto Rank",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Zepsyy2/asd/main/Ninja%20Legends.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Teleport",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Stochalt/HiraganaDev-Hub/main/HiraHub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
