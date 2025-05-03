@@ -1162,6 +1162,11 @@
             "name": "idk the name for this one lol",
             "loadstring": "loadstring(game:HttpGet(\u201chttps://pastefy.app/Vk7oLzyB/raw\u201d))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "OhioMode",
+            "loadstring": "loadstring(game:HttpGet(\u201chttps://raw.githubusercontent.com/OhioMode/github/main/Main.lua\u201d))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
