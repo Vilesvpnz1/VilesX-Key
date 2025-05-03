@@ -2181,5 +2181,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://scriptblox.com/raw/XMAS-Event-or-Funky-Friday-Auto-Player-Mobile-6721\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "13621938427": [
+        {
+            "name": "Script untitled boxing game NO KEY",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pid4k/scripts/refs/heads/main/untitledboxinggame.lua', true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
