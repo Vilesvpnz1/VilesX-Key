@@ -1971,6 +1971,11 @@
             "name": "Silent Aim, Aimbot, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/arlists/Sky-Hub/main/Main\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aim Lock, Aimbot & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LolPrivate/Side/main/Gigachad%20Hub%20V7.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
