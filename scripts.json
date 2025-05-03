@@ -2282,6 +2282,11 @@
             "name": "Webhook, Auto Raids, Auto Boss Rush",
             "loadstring": "loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Essenly/NoName-Hub/main/init.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Level, Auto Infinite Mode, Farm Raid",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/lifaiossama/errors/main/Intruders.html\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
