@@ -1473,6 +1473,11 @@
             "name": "Script Slap Battles No Key - Inf Lawnmower",
             "loadstring": "loadstring(game:HttpGet(\"https://pastefy.app/l92CLbw1/raw\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Slap Battles - Auto slap Bob, Auto click tycoon, Slap all minions",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Dusty1234567890/Rob/main/Rob\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
