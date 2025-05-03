@@ -1922,6 +1922,11 @@
             "name": "Kill Aura, Gun Mods",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Janorax/MICHAELZOMBIES/refs/heads/main/script\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "No Recoil, Inf Jump, Knife Kill Aura",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.sussy.dev/v1/KeySystem/Assets/GetPublicFile?fileName=Codexus_Hub_loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
