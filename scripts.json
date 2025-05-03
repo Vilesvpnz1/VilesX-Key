@@ -1530,6 +1530,11 @@
             "name": "Auto Train, Auto Collect Orbs, Walkspeed",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JellyBagBeans/CelestialHub/main/GameLoader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Punch, Legit Auto Farm",
+            "loadstring": "getgenv().PremiumKey = \"\"  loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLEduard/Eduard-s-Hub/main/script.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
