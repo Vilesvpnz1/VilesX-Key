@@ -1549,6 +1549,11 @@
             "name": "Auto-Farm, Auto Collect Eggs, Auto Circuit Race",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Marco8642/science/main/Vehicle%20legends\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Autofarm, Auto Race, Auto Collect Eggs",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Marco8642/science/main/Vehicle%20legends\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
