@@ -986,6 +986,11 @@
             "name": "Auto Fling, Auto Parry, Auto ParryU",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/w8qQ07Pm\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Combat Features, Movement Features, Visual Features",
+            "loadstring": "loadstring(game:HttpGet(\"https://www.toptal.com/developers/hastebin/raw/ijipemitaw.md\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
