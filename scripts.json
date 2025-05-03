@@ -1754,5 +1754,12 @@
             "loadstring": "loadstring(Game:HttpGet(\"https://pastebin.com/raw/xRHcjXVs\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "5991163185": [
+        {
+            "name": "Collect Cans",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTSpray'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
