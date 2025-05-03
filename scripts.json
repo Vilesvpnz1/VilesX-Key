@@ -847,6 +847,11 @@
             "name": "Venox Beta Blade Ball Script - AUTOPARRY + FPS BOOSTER",
             "loadstring": "loadstring(Game:HttpGet(\"https://raw.githubusercontent.com/Fsploit/venox-blade-ball-v1/main/K-A-T-S-U-S-F-S-P-L-O-I-T-I-S-A-F-U-R-R-Y%20MAIN%20V4\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Schizer Hub V2 Blade Ball Mobile Hack",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/YTJosiahScripts/Schizer-Hub-V2.1/main/Schizer%20Hub%20V2.1\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
