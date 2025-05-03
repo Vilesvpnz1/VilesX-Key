@@ -1461,6 +1461,11 @@
             "name": "Auto Farm Mobs, Auto Quests",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/cdc8ffd74b2c33f6c9f47b85f4b77c45.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm \u2013 Select Mob & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScriptRUs/Ryans/main/DragonBloxUltimate.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
