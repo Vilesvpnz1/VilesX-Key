@@ -2287,6 +2287,11 @@
             "name": "Auto Level, Auto Infinite Mode, Farm Raid",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/lifaiossama/errors/main/Intruders.html\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Skill, Auto Speed Raid, Auto Raid",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SmellLikeHacker/MyEdit/main/Hub\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
