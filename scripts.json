@@ -1389,6 +1389,11 @@
             "name": "Get New PintoHub Script Jujutsu Infinite",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/justinbieberreal/PintoHub/refs/heads/main/PintoHub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Jujutsu Infinite New Script - Auto Farm, God Mode",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nuIIism/limitless/main/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
