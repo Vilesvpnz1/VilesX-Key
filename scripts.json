@@ -1515,6 +1515,11 @@
             "name": "Auto Collect Orbs, Auto Punch & More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ExtremeAntonis/loader/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Collect Orbs, Auto Punch, Teleport",
+            "loadstring": "loadstring(game:HttpGet(\"https://github.com/KhSaeed90/Roblox/raw/workspace/6875469709\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
