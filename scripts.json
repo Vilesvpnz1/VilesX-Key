@@ -1439,6 +1439,11 @@
             "name": "Jujutsu Infinite Script GUI No Key - Inf Cash, Kill Aura, GodMode",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IAmJamal10/Scripts/refs/heads/main/JujutsuInfinite\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Jujutsu Infinite Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/refs/heads/main/JujutsuInfinite\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
