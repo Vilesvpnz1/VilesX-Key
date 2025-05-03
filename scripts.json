@@ -2243,6 +2243,11 @@
             "name": "Fake Donate",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Alexcirer/Alexcirer/refs/heads/main/PlsD\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Webhooks, Server Hop",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
