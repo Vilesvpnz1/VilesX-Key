@@ -822,6 +822,11 @@
             "name": "Nexam Hub Blade Ball",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/CQUqebf5\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "BerTox Blade Ball Script Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/B5GJyuvt\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
