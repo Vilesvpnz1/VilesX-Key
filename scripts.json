@@ -730,6 +730,11 @@
             "name": "BedWars Script Updated VapeV4",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/miacheats/VapeV4ForRoblox/main/NewMainScript.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get BedWars Script - Kill Aura, GodMode",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/warprbx/NightRewrite/refs/heads/main/Night/Loader.luau\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
