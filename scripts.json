@@ -2226,6 +2226,11 @@
             "name": "Auto Tag, Hitboxes, Walkspeed",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Zer0ids/Qwerty/main/UntitledTag/NewScript.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Collect Coins",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Zer0ids/Qwerty/main/UntitledTag/Autocollect\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
