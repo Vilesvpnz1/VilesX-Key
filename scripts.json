@@ -792,6 +792,11 @@
             "name": "Project DZ Blade Ball",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/DenDenZZZ/Project-DZ/refs/heads/main/Main-Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blade Ball Auto Parry Script and More (Mobile)",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
