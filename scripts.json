@@ -898,5 +898,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/kewPR6Js\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "10449761463": [
+        {
+            "name": "The Strongest Battlegrounds Script No Key - Auto Farm, Auto Block, Farm Kill",
+            "loadstring": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/Noro-ded/add5f50deb5351b84a58f9e26784d421/raw/f4fe60235768436d96a1bd61802ae79eebcab3ce/mainguitsb\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
