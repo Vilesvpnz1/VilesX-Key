@@ -812,6 +812,11 @@
             "name": "New Free OP Script Blade Ball - Astrox",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SoyAdriYT/AstroX/main/Loader.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Corolla Hub",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/7190000/Corolla-Hub/main/ch.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
