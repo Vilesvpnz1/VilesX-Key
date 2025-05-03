@@ -1954,6 +1954,11 @@
             "name": "Fullbright, Esp, Power Level",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHEATERFUN/The-Rake-REMASTERED-Script/main/Source.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Infinite Stamina, Esp, No Fall Damage & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/c2c886534e662c614423ee5748353fe4.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
