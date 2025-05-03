@@ -2326,6 +2326,11 @@
             "name": "Auto finish, Colorful, skip level",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Joey226611/Extra/refs/heads/main/Mirror%20SpeedRun%204\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Auto Complete Levels Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/infiniteThousandWare/speedrun4OpScript/main/infiniteware\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
