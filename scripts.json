@@ -2431,6 +2431,11 @@
             "name": "Op Gui",
             "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/Justaverageguym/Hub/main/Scripts/Infectious%20smile.lua\")))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "No cooldown (OP) TP & Follow Players",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cyhysobad/cyhyhub/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
