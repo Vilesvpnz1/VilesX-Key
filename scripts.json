@@ -1357,6 +1357,11 @@
             "name": "Collect Drops, Teleport, Collect chests",
             "loadstring": "loadstring(game:HttpGet(\"https://github.com/KhSaeed90/Roblox/raw/workspace/14433762945\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Click, Auto Use Ability, Auto Open",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Loader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
