@@ -807,6 +807,11 @@
             "name": "Blade Ball Script Mobile Pi-Hub - Auto Farm, AutoParry, AutoWalk",
             "loadstring": "loadstring(game:HttpGet(\"https://pi-hub.pages.dev/protected/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "New Free OP Script Blade Ball - Astrox",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SoyAdriYT/AstroX/main/Loader.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
