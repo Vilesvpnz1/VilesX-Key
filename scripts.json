@@ -1264,6 +1264,11 @@
             "name": "Universal scripts",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.Loader.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "ESP, Disable Fall Damage & More",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/SCP3008.py\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
