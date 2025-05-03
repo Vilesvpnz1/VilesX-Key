@@ -1040,6 +1040,11 @@
             "name": "Inf Stamina, Inf Breathing, Auto Farm Npc",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LioK251/RbScripts/main/lazyhub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Kill-Aura, Auto Loot, Auto Farm",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Skeereddo/name/main/krnl', true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
