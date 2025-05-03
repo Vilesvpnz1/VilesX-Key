@@ -1583,6 +1583,11 @@
             "name": "ComboChronicle Vault",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Car Dealership Tycoon (REVAMP) - Auto Collect Wrenches",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/CarDealershipEvent'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
