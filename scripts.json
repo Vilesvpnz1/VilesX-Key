@@ -2395,6 +2395,11 @@
             "name": "Free Boats, Get All Weapons & More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FlmesCoding/CandyHubGames/main/SHARKBITE%202.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Shark Ripper V4",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JerrymiahPM/SharkRipper/main/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
