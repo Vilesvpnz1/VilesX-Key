@@ -2221,6 +2221,11 @@
             "name": "Hitboxes, Auto Tag, Walkspeed",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AsteriskCodes/Ranxware-V2/main/Games/UntitledTagGame.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Tag, Hitboxes, Walkspeed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Zer0ids/Qwerty/main/UntitledTag/NewScript.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
