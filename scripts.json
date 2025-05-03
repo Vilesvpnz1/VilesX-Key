@@ -2046,6 +2046,11 @@
             "name": "Aimbot, Esp, Kill Aura",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GlobeReverse/Moonlight/main/Main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "No Cooldown, Inf Stamina, No-Fail Lockpick",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GlobeReverse/Moonlight/main/Main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
