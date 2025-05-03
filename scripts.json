@@ -959,6 +959,11 @@
             "name": "Mobile Script TamHub - The Strongest Battlegrounds",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/tamarixr/tamhub/main/bettertamhub.lua\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "The Strongest Battlegrounds Script Rinns Hub",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
