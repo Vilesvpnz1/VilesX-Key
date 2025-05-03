@@ -2363,6 +2363,11 @@
             "name": "Auto Sell, Auto Farm, Auto Max lvl",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/spacvehubloader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Swing, Auto Sell, Auto Rank",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Zepsyy2/asd/main/Ninja%20Legends.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
