@@ -2129,6 +2129,11 @@
             "name": "Obby But You're on a Bike Script 2024",
             "loadstring": "loadstring(game:HttpGet(\"https://github.com/KhSaeed90/Roblox/raw/workspace/14184086618\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Obby But You're on a Bike Script Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/WinterDinder/Obby-But-Youre-On-A-Bike-/main/Main\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
