@@ -1063,5 +1063,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tokkenik/ClockHub/main/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "13822889": [
+        {
+            "name": "Get Hack Lumber Tycoon 2 - Auto Cut, Modded Wood, Dupe Option and More",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/frencaliber/LuaWareLoader.lw/main/luawareloader.wtf',true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
