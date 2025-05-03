@@ -2276,5 +2276,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PerfectusMim/Perfectus-Hub/main/perfectus-hub\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6938803436": [
+        {
+            "name": "Webhook, Auto Raids, Auto Boss Rush",
+            "loadstring": "loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Essenly/NoName-Hub/main/init.lua'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
