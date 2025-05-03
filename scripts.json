@@ -1106,6 +1106,11 @@
             "name": "Bee Swarm Simulator Script Macro V3",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/bc8c5c45c26f8e4cdb060277b0bbcab7.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Bee Swarm Simulator Mobile Script Histy Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/scriptpastebin/raw/main/Histy\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
