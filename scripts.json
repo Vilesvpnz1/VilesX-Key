@@ -2194,6 +2194,11 @@
             "name": "Storage Acces Button",
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/doodle_world/main/storage_access_button'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "AutoFarm, Autofarm Options, Catch Options",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/doodle_world/main/autofarm'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
