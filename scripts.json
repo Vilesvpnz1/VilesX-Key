@@ -2231,6 +2231,11 @@
             "name": "Auto Collect Coins",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Zer0ids/Qwerty/main/UntitledTag/Autocollect\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Fullbright, Toggle Hitboxes, Spoofers",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Zer0ids/Qwerty/main/UntitledTag/Source.lua\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
