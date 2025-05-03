@@ -1643,5 +1643,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/RNG/main/Sol\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "16389395869": [
+        {
+            "name": "Items Teleport, Admin Commands",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip',true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
