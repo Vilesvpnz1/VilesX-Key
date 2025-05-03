@@ -1374,6 +1374,11 @@
             "name": "Script No Key jujutsu infinite - Auto Farm GUI SolixHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/debunked69/Solixreworkkeysystem/refs/heads/main/solix%20new%20keyui.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Jujutsu Infinite Script - Auto Farm, Auto Farm Chests",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/e7d06aa370f8abb9e1a9bd5bd9c80c7d.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
