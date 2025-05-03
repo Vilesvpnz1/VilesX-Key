@@ -1588,6 +1588,11 @@
             "name": "Script Car Dealership Tycoon (REVAMP) - Auto Collect Wrenches",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/CarDealershipEvent'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Car Dealership Tycoon (SEASON 14) LDS Hub",
+            "loadstring": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/49f02b0d8c1f60207c84ae76e12abc1e.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
