@@ -1248,5 +1248,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CopyReal/NexHub/main/NexHubLoader\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2768379856": [
+        {
+            "name": "Script 3008 [2,73] No Key - ESP Items, ESP Player, Exploits",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/welomenchaina/Loader/refs/heads/main/ScriptLoader\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
