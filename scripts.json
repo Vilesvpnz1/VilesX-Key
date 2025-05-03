@@ -1882,5 +1882,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dqtixz/Zombie-attack-Gui-OP-Script/main/by%20dqtixz%20new%20free\"))();",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "t": [
+        {
+            "name": "t",
+            "loadstring": "t",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
