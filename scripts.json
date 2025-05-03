@@ -1330,6 +1330,11 @@
             "name": "Auto buy, Stand attach, Stand Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dupe",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/Dupe-Yba.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
