@@ -1649,6 +1649,11 @@
             "name": "Items Teleport, Admin Commands",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip',true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Bring mobs",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ThacG/DustyTripThacScript/main/bringer\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
