@@ -1467,5 +1467,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScriptRUs/Ryans/main/DragonBloxUltimate.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6403373529": [
+        {
+            "name": "Script Slap Battles No Key - Inf Lawnmower",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastefy.app/l92CLbw1/raw\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
