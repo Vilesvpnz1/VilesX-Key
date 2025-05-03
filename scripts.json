@@ -1733,6 +1733,11 @@
             "name": "Grab All, Items Teleport, Esp",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Item Farm, Items Teleport",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BaconBABA/script/refs/heads/main/piggy.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
