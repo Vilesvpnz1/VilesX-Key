@@ -1981,6 +1981,11 @@
             "name": "Auto Deploy, Auto Shoot, Auto Nuke",
             "loadstring": "GUI = true; loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/f6712c9f3171c4e54f0ac695c880c258.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Kill All, Kill Aura, Silent Aim",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AndrewDarkyy/NOWAY/main/darkyyware.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
