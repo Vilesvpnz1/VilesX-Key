@@ -1927,6 +1927,11 @@
             "name": "No Recoil, Inf Jump, Knife Kill Aura",
             "loadstring": "loadstring(game:HttpGet(\"https://api.sussy.dev/v1/KeySystem/Assets/GetPublicFile?fileName=Codexus_Hub_loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Kill Aura, Auto Fire, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/YellowGreg/Loadstring/main/femf2.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
