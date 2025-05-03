@@ -1362,6 +1362,11 @@
             "name": "Auto Click, Auto Use Ability, Auto Open",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Tap, Auto Farm Tower, Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/bunny42312/script/main/acs\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
