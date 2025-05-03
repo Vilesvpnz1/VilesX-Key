@@ -1218,6 +1218,11 @@
             "name": "Server Crasher, Claim All House & More",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Venera0/mix/main/77_CQYRKT1H.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Lott Grab All, Claim All House, Rainbow Car",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
