@@ -2199,6 +2199,11 @@
             "name": "AutoFarm, Autofarm Options, Catch Options",
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/doodle_world/main/autofarm'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/doodle_world/main/autofarm'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
