@@ -1748,6 +1748,11 @@
             "name": "Get All",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/79-x/W/main/Piggy%20Script\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Fly, Godmode, Walkspeed",
+            "loadstring": "loadstring(Game:HttpGet(\"https://pastebin.com/raw/xRHcjXVs\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
