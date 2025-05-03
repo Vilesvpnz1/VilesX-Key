@@ -1414,6 +1414,11 @@
             "name": "Script Jujutsu Infinite 2025 Pastebin - Limitless Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://paste.ee/r/hfHyO\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "script Mobile Jujutsu Infinite - Rinns Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
