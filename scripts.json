@@ -1637,6 +1637,11 @@
             "name": "Esp, Open Shop, Webhook",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Looser3itx/Hmmmmmmmmmmmmmmmmmmmmmmmmmmmm/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Fullbright, Esp, Auto Roll",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/RNG/main/Sol\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
