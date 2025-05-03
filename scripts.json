@@ -1895,6 +1895,11 @@
             "name": "Server Crasher Mobile Script",
             "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/6G9GfqjC'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aimbot, Fov Circle, Esp Mobile Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/discopro/open-source/main/dreamybull.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
