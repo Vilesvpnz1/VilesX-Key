@@ -965,5 +965,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4111023553": [
+        {
+            "name": "Auto Collect",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/borntodiekuv/deepwoken/main/battlarena'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
