@@ -1706,6 +1706,11 @@
             "name": "Inf Jumps, Loot Auto Farm, Auto Escape",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Esp, Loot Autofarm, FOV",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/stuffman0001/CanHub/main/Code\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
