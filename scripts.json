@@ -1577,5 +1577,12 @@
             "loadstring": "loadstring(game:HttpGetAsync'https://raw.githubusercontent.com/GXNATION/Main-script/main/Main%20hub')();",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "1554960397": [
+        {
+            "name": "ComboChronicle Vault",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
