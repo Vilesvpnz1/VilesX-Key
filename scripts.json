@@ -2258,6 +2258,11 @@
             "name": "Free Emotes, Animations, Play Songs",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hecmax/hecmax/main/hjk\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Rainbow Text, RickRoll Text",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/DreadzHub2/DreadzHub-Scripts-FR/main/Loader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
