@@ -1900,6 +1900,11 @@
             "name": "Aimbot, Fov Circle, Esp Mobile Script",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/discopro/open-source/main/dreamybull.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Esp, Fov, Tracers Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
