@@ -2175,6 +2175,11 @@
             "name": "Auto Play, Virtual Input Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nadir3709/RandomScript/main/FunkyFridayMobile\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Play Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://scriptblox.com/raw/XMAS-Event-or-Funky-Friday-Auto-Player-Mobile-6721\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
