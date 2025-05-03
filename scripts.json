@@ -747,6 +747,11 @@
             "name": "Blade Ball Mobile Script (No Key) Auto Parry",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/funhaji/Blade-Ball/refs/heads/main/No-Lag.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blade Ball Script Plutonium Hub - Auto Farm, Auto Parry",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.Loader.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
