@@ -1024,5 +1024,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PrintH3lloW0rld/Philippine-hub/main/Philippine%20Hub%201.0\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "5956785391": [
+        {
+            "name": "Auto Equip Best",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/cdc8ffd74b2c33f6c9f47b85f4b77c45.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
