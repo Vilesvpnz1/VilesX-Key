@@ -1808,5 +1808,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://scriptblox.com/raw/RIVALS-Silent-Aim-Working-on-All-Executors-OPEN-SOURCED-BY-BOLTS-20840\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "10704789056": [
+        {
+            "name": "Auto-delivery Truck, Select Material, Auto-Delivery Food",
+            "loadstring": "getgenv().keysystem = false -- put false if u dont want key system loadstring(game:HttpGet(\"https://raw.githubusercontent.com/x3fall3nangel/FallAngelHub/main/Main.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
