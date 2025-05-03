@@ -1622,6 +1622,11 @@
             "name": "Fullbright, Inf Jump & More Mobile Script",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/EGGSolsRNG'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Use Potions, Auto Roll & More Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Looser3itx/Hmmmmmmmmmmmmmmmmmmmmmmmmmmmm/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
