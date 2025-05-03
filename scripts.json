@@ -1177,6 +1177,11 @@
             "name": "LAks-lock",
             "loadstring": "loadstring(game:HttpGet(\u201chttps://raw.githubusercontent.com/lkoza07/LAks-lock/main/LAKS%20LOCK\u201d))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Zinzs",
+            "loadstring": "loadstring(game:HttpGet(\u201chttps://raw.githubusercontent.com/Zinzs/luascripting/main/canyoutellitsadahoodscriptornot.lua\u201d))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
