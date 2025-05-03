@@ -2384,5 +2384,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zerpqe/script/main/NinjaLegends.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8908228901": [
+        {
+            "name": "Theeth Generator, Kill Aura, Kill Shark",
+            "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/kyoichi35/Kyoichi-Hub/main/Kyoichi%20hub\")))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
