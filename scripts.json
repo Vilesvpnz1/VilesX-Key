@@ -1509,5 +1509,12 @@
             "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/kviks/SB-Script/main/script\")))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6875469709": [
+        {
+            "name": "Auto Collect Orbs, Auto Punch & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ExtremeAntonis/loader/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
