@@ -1598,6 +1598,11 @@
             "name": "Car Dealership Tycoon (XMAS) Script: Auto Delivery, Cookies Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/CarDealershipXMAS\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Car Dealership Tycoon 2025",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Marco8642/science/main/car%20dealer\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
