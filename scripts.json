@@ -914,6 +914,11 @@
             "name": "TSB Script NS Hub - Auto Farm, Auto Attack, Auto Use Skills",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/TSBG/main/Solara\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "The Strongest Battlegrounds Script Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
