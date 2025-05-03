@@ -1069,6 +1069,11 @@
             "name": "Get Hack Lumber Tycoon 2 - Auto Cut, Modded Wood, Dupe Option and More",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/frencaliber/LuaWareLoader.lw/main/luawareloader.wtf',true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "1Qlui Pastebin Script",
+            "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/EdUyxN7Z'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
