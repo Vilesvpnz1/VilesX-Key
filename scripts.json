@@ -2237,5 +2237,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Zer0ids/Qwerty/main/UntitledTag/Source.lua\",true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8737602449": [
+        {
+            "name": "Fake Donate",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Alexcirer/Alexcirer/refs/heads/main/PlsD\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
