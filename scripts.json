@@ -1379,6 +1379,11 @@
             "name": "Jujutsu Infinite Script - Auto Farm, Auto Farm Chests",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/e7d06aa370f8abb9e1a9bd5bd9c80c7d.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Jujutsu Infinite - Noble Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/21cecfc256321e341fbe9a0a2df5a564.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
