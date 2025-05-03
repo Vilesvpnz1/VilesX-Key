@@ -1679,6 +1679,11 @@
             "name": "Auto Gas Car, Auto  Diesel Car & More Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Inf Stamina, Auto Road, Teleports",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/artemy133563/Utilities/main/ADustyTrip\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
