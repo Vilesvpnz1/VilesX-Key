@@ -1429,6 +1429,11 @@
             "name": "Dexz0 Hub Jujutsu Infinite - Insta Kill, OP 8,5 MILLION XP, Bypass Level 1000",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Dexz00/DzHub/refs/heads/main/Jujutsu%20Infinite\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Jujutsu Infinite Imp Hub script - Farm Mobs, Instant Kill, Kill Aura",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/godor1010/godor/refs/heads/main/jujutsu_infinite'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
