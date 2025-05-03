@@ -1347,6 +1347,11 @@
             "name": "Auto Open  Egg, Auto Farm Select, Teleports",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/siradaniy/Script_HSz/main/HSz_ACS.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Teleport, Auto Open egg",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/siradaniy/Script_HSz/main/HSz_ACS.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
