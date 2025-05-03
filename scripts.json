@@ -1986,6 +1986,11 @@
             "name": "Kill All, Kill Aura, Silent Aim",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AndrewDarkyy/NOWAY/main/darkyyware.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aim-Lock, Aimbot, Gun Fire Rate",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KidichiHB/Kidachi/main/Scripts/Big_Paintball\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
