@@ -2453,6 +2453,11 @@
             "name": "Autorob",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/8cf41f52e2d558a0ad7ea65aa1019f67.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Silent Aim, Target Police, Automatic Guns",
+            "loadstring": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/730854e5b6499ee91deb1080e8e12ae3.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
