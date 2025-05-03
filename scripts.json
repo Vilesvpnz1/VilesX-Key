@@ -971,6 +971,11 @@
             "name": "Auto Collect",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/borntodiekuv/deepwoken/main/battlarena'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "No Cooldowns \u2013 Hide Name \u2013 Auto Souls",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/borntodiekuv/Die/main/DeepwokenBattle'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
