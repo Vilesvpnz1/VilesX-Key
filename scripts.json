@@ -1013,6 +1013,11 @@
             "name": "Hulk Hub King Legacy Mobile Hack",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/HULKUexe/mobileX/main/FreeScript.lua\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "King Legacy Script Hack BT Project (Mobile) - Auto Stats, Auto Farm Nearest",
+            "loadstring": "loadstring(game:HttpGetAsync(\"https://lua-library.btteam.net/script-auth.txt\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
