@@ -2304,6 +2304,11 @@
             "name": "Gun Mods, Kill Aura",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/42069RATIOXD/Mad-Lads-v8/refs/heads/main/gui\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get place info, Inf Jump, Fly",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheEmptynessProject/EmptynessProject/main/index.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
