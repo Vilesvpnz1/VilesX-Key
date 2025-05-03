@@ -2107,6 +2107,11 @@
             "name": "Auto Farm, Auto Upgrade, Auto Join",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Prosexy/Demonic-HUB-V2/main/DemonicHub_V2.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Upgrade, Auto Skip Wave Mobile Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Nicuse/RobloxScripts/main/TowerDefenseSimulator.lua', true))()Copied!",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
