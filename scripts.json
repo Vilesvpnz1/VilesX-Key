@@ -1018,6 +1018,11 @@
             "name": "King Legacy Script Hack BT Project (Mobile) - Auto Stats, Auto Farm Nearest",
             "loadstring": "loadstring(game:HttpGetAsync(\"https://lua-library.btteam.net/script-auth.txt\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "King Legacy Hack Pastebin: AutoFarm, Auto Stats, Auto Farm Mode",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PrintH3lloW0rld/Philippine-hub/main/Philippine%20Hub%201.0\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
