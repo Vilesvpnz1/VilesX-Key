@@ -2437,5 +2437,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cyhysobad/cyhyhub/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "606849621": [
+        {
+            "name": "Teleport Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Teleport%20Tool/Source.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
