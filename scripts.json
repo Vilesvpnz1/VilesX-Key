@@ -1335,6 +1335,11 @@
             "name": "Dupe",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/Dupe-Yba.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "AUTO-FARM, AUTO-SKILL, TP",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Real/NexHub/main/NexHubLoader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
