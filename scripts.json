@@ -2141,6 +2141,11 @@
             "name": "Anime Last Stand Mobile Script - Auto Play",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScriptBrv/OHU/refs/heads/main/OHU.md\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "New Anime Last Stand Script - Macro, AutoFarm, AutoPlay",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/buang5516/buanghub/main/animeLastStand.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
