@@ -1992,5 +1992,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KidichiHB/Kidachi/main/Scripts/Big_Paintball\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4996049426": [
+        {
+            "name": "Auto Sell, Auto Skip, Auto Next",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
