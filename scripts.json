@@ -1880,6 +1880,11 @@
             "name": "Auto Farm, Esp, Aimbot",
             "loadstring": "pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Kings-Hub/refs/heads/main/Main.lua')))",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "ESP, Aimbot",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/MunciNotHere/M1M1/refs/heads/main/KAT\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
