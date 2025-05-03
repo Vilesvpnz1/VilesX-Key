@@ -1792,6 +1792,11 @@
             "name": "Silent Aimbot, Aimbot",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/Rivals%20Latest.lua\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Trigger Bot, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/eduxis/Script/refs/heads/main/scrpt.txt\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
