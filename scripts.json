@@ -1765,6 +1765,11 @@
             "name": "Tp, Collect Cans Mobile Script",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/HUNTSpray'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Falseban Players Method",
+            "loadstring": "loadstring(game:HttpGet('https://garfieldscripts.xyz/scripts/paintgame.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
