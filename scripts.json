@@ -2448,6 +2448,11 @@
             "name": "No Recoil, Instant Reload, Walkspeed Mobile Script",
             "loadstring": "loadstring(game:HttpGet('https://weinzspace.com/cata/hub.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Autorob",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/8cf41f52e2d558a0ad7ea65aa1019f67.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
