@@ -1559,6 +1559,11 @@
             "name": "Auto Farm, Set speed a car, Fly",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Car Boost",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/houjk2/Boosthub/main/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
