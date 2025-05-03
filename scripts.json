@@ -2152,5 +2152,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Alan0947383/Demonic-HUB-V2/main/S-C-R-I-P-T.lua\",true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4972091010": [
+        {
+            "name": "Zombie Uprising Script Pastebin 2025",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheOnlyGiraffe/AUTHZombies/refs/heads/main/auth1.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
