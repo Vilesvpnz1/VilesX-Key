@@ -1874,5 +1874,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bac0nHck/Scripts/refs/heads/main/panik\"))(\"t.me/arceusxscripts\")",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "621129760": [
+        {
+            "name": "Auto Farm, Esp, Aimbot",
+            "loadstring": "pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Kings-Hub/refs/heads/main/Main.lua')))",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
