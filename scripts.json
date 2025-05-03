@@ -1701,6 +1701,11 @@
             "name": "Auto-Farm, Teleports & More Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Inf Jumps, Loot Auto Farm, Auto Escape",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
