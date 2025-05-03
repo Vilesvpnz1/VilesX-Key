@@ -2211,6 +2211,11 @@
             "name": "OP Script",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Player Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/3RfB693z\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
