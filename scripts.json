@@ -1610,6 +1610,11 @@
             "name": "overk1ll's tuning garage",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/typical-overk1ll/scripts/main/Greenville\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "HORSEPOWER",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/typical-overk1ll/scripts/main/Greenville\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
