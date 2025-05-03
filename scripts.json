@@ -1195,5 +1195,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mcletshacks/ArgonHubV2/main/Load2/New%20Loader.lua\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6737970321": [
+        {
+            "name": "Jumppower, Inf Yield & More",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/5iREx/script/main/livetopia'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
