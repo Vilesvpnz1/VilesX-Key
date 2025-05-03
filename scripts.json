@@ -1960,5 +1960,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/c2c886534e662c614423ee5748353fe4.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3527629287": [
+        {
+            "name": "Silent Aim, Rapid Fire, Aimbot",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZaRdoOx/Fazium-files/main/Loader\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
