@@ -837,6 +837,11 @@
             "name": "Chaotic Blade Ball Free Script (No Key) - Auto Parry",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mc4121ban/trashscript/main/chaotic.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Celery Blade Ball Mobile Script Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/z16WEjFw\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
