@@ -944,6 +944,11 @@
             "name": "The Strongest Battlegrounds Script Speed Hub X No Key Pastebin",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "The Strongest Battlegrounds Hack",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
