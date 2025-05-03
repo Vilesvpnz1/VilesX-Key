@@ -1488,6 +1488,11 @@
             "name": "Slap Battles Free Script Auto Farm Candy",
             "loadstring": "loadstring(game:HttpGet\"https://pastebin.com/raw/fbhSzAZn\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Kykyryz Hub Slap Battles Mobile Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Zjwbi81T\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
