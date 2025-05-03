@@ -1449,6 +1449,11 @@
             "name": "Jujutsu Infinite Roblox Script NSHub - Fast Kill Aura, Inf Skills and More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/Infinite/refs/heads/main/All\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Speed Hub Jujutsu Infinite Auto Farm Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Jujutsu%20Infinite.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
