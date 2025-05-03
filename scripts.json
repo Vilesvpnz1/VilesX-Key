@@ -2309,6 +2309,11 @@
             "name": "Get place info, Inf Jump, Fly",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheEmptynessProject/EmptynessProject/main/index.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm Cash, No Cooldown & More",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Alech01/Push-Simulator-By-SOuly/main/Push%20Simulator%20By%20Souly')))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
