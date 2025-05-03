@@ -2293,5 +2293,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SmellLikeHacker/MyEdit/main/Hub\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "91282350711571": [
+        {
+            "name": "Auto Rob",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/42069RATIOXD/mad-city-autorob-v1.1/main/autorob'),true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
