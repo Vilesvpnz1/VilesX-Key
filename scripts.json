@@ -998,6 +998,11 @@
             "name": "Tsuo Hub King Legacy Script - Auto Farm Level, Auto Farm Near and More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tsuo7/TsuoHub/main/king%20legacy\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Arc Hub King Legacy Farm Hack UPDATED",
+            "loadstring": "getgenv().CustomDistance = 10 -- For Bug Can't Swipe Distance loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ChopLoris/ArcHub/main/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
