@@ -1478,6 +1478,11 @@
             "name": "Script Slap Battles - Auto slap Bob, Auto click tycoon, Slap all minions",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Dusty1234567890/Rob/main/Rob\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Slap Battles (CHRISTMAS Update) - Giang Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScriptPhantom/script/refs/heads/main/slaphub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
