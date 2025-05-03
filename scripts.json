@@ -1483,6 +1483,11 @@
             "name": "Get Script Slap Battles (CHRISTMAS Update) - Giang Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ScriptPhantom/script/refs/heads/main/slaphub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Slap Battles Free Script Auto Farm Candy",
+            "loadstring": "loadstring(game:HttpGet\"https://pastebin.com/raw/fbhSzAZn\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
