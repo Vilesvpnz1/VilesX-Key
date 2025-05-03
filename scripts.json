@@ -1341,5 +1341,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Real/NexHub/main/NexHubLoader\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "14433762945": [
+        {
+            "name": "Auto Open  Egg, Auto Farm Select, Teleports",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/siradaniy/Script_HSz/main/HSz_ACS.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
