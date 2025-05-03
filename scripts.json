@@ -1096,6 +1096,11 @@
             "name": "Bee Swarm Simulator:  Farming",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0'))(\"\")",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Bee Swarm Simulator Script Atlas Hub - Auto Farm 2025",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Chris8889/atlasbss/main/script.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
