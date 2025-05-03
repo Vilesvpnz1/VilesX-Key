@@ -1938,5 +1938,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/MichaelZombies.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2413927524": [
+        {
+            "name": "Fast Run, Fullbright, Third person",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/69e8ba1202445c3dd5573b1745f345ae.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
