@@ -1057,6 +1057,11 @@
             "name": "Auto-Farm",
             "loadstring": "loadstring(game:HttpGet\"https://pastebinp.com/raw/gD0E8xvi\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Buy, Car Speed, Walkspeed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tokkenik/ClockHub/main/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
