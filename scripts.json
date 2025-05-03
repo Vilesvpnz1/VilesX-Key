@@ -1419,6 +1419,11 @@
             "name": "script Mobile Jujutsu Infinite - Rinns Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Mobile Jujutsu Infinite - Rinns Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
