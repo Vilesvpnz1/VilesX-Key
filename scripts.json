@@ -1157,6 +1157,11 @@
             "name": "StatueWare",
             "loadstring": "loadstring(game:HttpGet(\u201chttps://raw.githubusercontent.com/toosiwhip/statueware/main/da-hood.lua\u201d))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "idk the name for this one lol",
+            "loadstring": "loadstring(game:HttpGet(\u201chttps://pastefy.app/Vk7oLzyB/raw\u201d))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
