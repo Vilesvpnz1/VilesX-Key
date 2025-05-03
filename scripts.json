@@ -909,6 +909,11 @@
             "name": "TSB Script - ESP, Anti Ragdoll, Anti Server Lagger",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ATrainz/Phantasm/refs/heads/main/Games/TSB.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "TSB Script NS Hub - Auto Farm, Auto Attack, Auto Use Skills",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/TSBG/main/Solara\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
