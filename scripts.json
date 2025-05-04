@@ -3220,6 +3220,11 @@
             "name": "OMG Hub",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "NoName Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://noname-hub.fun/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
