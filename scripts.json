@@ -3353,6 +3353,11 @@
             "name": "Arise Crossover Script NEW - Auto Farm, Gamepass",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/perfectusmim1/script/main/crossover\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Arise Crossover The Best Script - Auto Arise, Kill Aura, Auto Attack",
+            "loadstring": "loadstring(game:HttpGet(\"https://nicuse.xyz/MainHub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
