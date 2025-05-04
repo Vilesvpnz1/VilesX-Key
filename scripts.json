@@ -2784,6 +2784,11 @@
             "name": "Shrimp Game Script - Inf Guard, WalkSpeed, Jump Power Copy",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/499fa8eaaae391c6c3c77f2640811357.lua\"))()  --https://nebora.org/key-system guide for key system",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Shrimp Game Script Pastebin 2025 No Key",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/refs/heads/main/ShrimpGame\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
