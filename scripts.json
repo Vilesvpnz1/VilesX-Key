@@ -2526,5 +2526,12 @@
             "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/azHjbL1y')))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "7896264844": [
+        {
+            "name": "Find All Markers Op Script",
+            "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/7gu2ztpP'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
