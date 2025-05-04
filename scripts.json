@@ -2699,6 +2699,11 @@
             "name": "Murderers VS Sheriffs Duels Hack PC - Kill All, Knife Aura",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BeanBotWare/FreakBob/refs/heads/main/FreakBob\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Rinns Hub MVSD Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
