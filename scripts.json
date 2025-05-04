@@ -3889,5 +3889,12 @@
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Marco8642/science/main/emergency%20hamburg\")",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6961824067": [
+        {
+            "name": "Fling Things and People Script No Key - NoClip, Fly and More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Artss1/Flades_Hub/refs/heads/main/We%20Are%20Arts.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
