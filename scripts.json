@@ -2831,6 +2831,11 @@
             "name": "Dev Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/selciawashere/screepts/refs/heads/main/BLRTBDKEYSYS\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Over Hub",
+            "loadstring": "loadstring(game:HttpGet('https://api.overhub.xyz/keys/script/overhub'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
