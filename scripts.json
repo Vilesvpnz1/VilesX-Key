@@ -3288,5 +3288,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mintwf/Infy-S/refs/heads/main/AURAS%20OF%20CALAMITY%20NUMBER%201.lua\",true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "13127800756": [
+        {
+            "name": "Arm Wrestle Simulator Mobile Script - Auto Farm, Auto Click",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/rndmq/Serverlist/refs/heads/main/Loader\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
