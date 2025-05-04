@@ -4313,6 +4313,11 @@
             "name": "Auto Collect Orbs, Auto Rebirth, Auto Open Eggs",
             "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua\"),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Win, Auto Collect Orbs, Auto Open Eggs & More",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/xet55/XetsScripts/main/moneyrace'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
