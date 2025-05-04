@@ -3358,6 +3358,11 @@
             "name": "Arise Crossover The Best Script - Auto Arise, Kill Aura, Auto Attack",
             "loadstring": "loadstring(game:HttpGet(\"https://nicuse.xyz/MainHub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Alchemy Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://scripts.alchemyhub.xyz\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
