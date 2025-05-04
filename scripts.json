@@ -4349,6 +4349,11 @@
             "name": "Ninja Time Script NS Hub - Auto Farm, Fast Kill Aura, Teleport",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/ni/refs/heads/main/ni\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Ninja Time Script GUI - Inf Spins, Auto Spin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/acezqqq/Scylla/refs/heads/main/NinjaTimeSpins.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
