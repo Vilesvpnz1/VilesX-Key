@@ -3305,5 +3305,12 @@
             "loadstring": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/49f02b0d8c1f60207c84ae76e12abc1e.lua'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "12135640403": [
+        {
+            "name": "Auto Dungeon, Auto Farm, Auto Boss",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ByNami/dkhub/main/Script\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
