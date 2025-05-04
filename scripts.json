@@ -3032,6 +3032,11 @@
             "name": "Faraway Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/UXZveQzW\"))(",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Idiot Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mrxver555/Scripts/refs/heads/main/BUBBLEGUMSIMINFINITY.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
