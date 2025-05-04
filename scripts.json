@@ -2876,6 +2876,11 @@
             "name": "Tbao Hub No Key",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/tbao143/game/refs/heads/main/TbaoHubBlueLockRivals'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blue Lock Rivals Legend Handles",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LHking123456/ct4gFewpLxRHJ/refs/heads/main/BLRivals'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
