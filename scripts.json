@@ -3415,6 +3415,11 @@
             "name": "Op Gui - Baddies",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/Baddies/main/Roblox\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm And more",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/IB5tM3sE/raw'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
