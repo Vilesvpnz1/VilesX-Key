@@ -3421,5 +3421,12 @@
             "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/IB5tM3sE/raw'),true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "14259168147": [
+        {
+            "name": "Radeon Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RadeonScripts/RadeonHubMain/main/MainRobloxExploit\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
