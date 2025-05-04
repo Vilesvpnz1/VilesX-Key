@@ -3743,5 +3743,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/alyssagithub/Scripts/refs/heads/main/FrostByte/Initiate.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "11233948433": [
+        {
+            "name": "Devas Of Creation Script - Kill Aura, Auto Loot, Auto Harvest",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kalasthrowaway/stuff/main/devas_of_creation.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
