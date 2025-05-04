@@ -4522,6 +4522,11 @@
             "name": "Inf Power, Auto Rebirth & More",
             "loadstring": "loadstring(game:HttpGet(\"https://github.com/KhSaeed90/Roblox/raw/workspace/14330243992\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Redeem All Codes, Auto Rebirth & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AyoReaper/Reaper-Hub/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
