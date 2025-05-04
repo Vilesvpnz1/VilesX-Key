@@ -3859,6 +3859,11 @@
             "name": "Desert Detectors - Inf Money, ESP",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GuizzyisbackV2LOL/DesertDetectorslua/refs/heads/main/.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Desert Detectors Scripts - Loot Esp, Infinite Cash",
+            "loadstring": "loadstring(game:HttpGet(\"https://exploitfin.netlify.app/Nexus/Loader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
