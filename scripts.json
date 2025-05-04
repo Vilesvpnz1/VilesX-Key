@@ -3721,5 +3721,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/DungeonRNG231.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "76455837887178": [
+        {
+            "name": "Dig it Script Auto Farm",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
