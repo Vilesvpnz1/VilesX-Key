@@ -4127,6 +4127,11 @@
             "name": "Spawn Any Lucky Block",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Unknownlodfc/Zephyr/refs/heads/main/Zephyr%20V2%20%7C%20Lucky%20Blocks%20Battlegrounds\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get All Gears Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Oxwoey/lucky-block-v1/main/script%20v1%20beta\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
