@@ -4245,6 +4245,11 @@
             "name": "Script Muscle Legends - Auto Farm Chests and More",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/2Cuza2mr\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Muscle Legends Script No Key - Auto Farm, Auto Train",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/rndmq/Serverlist/refs/heads/main/Loader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
