@@ -3193,6 +3193,11 @@
             "name": "Auto Farm, Auto Obby, Auto Roll",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tora//main/CardRNG\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Battle, Auto Roll, Auto Obby",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimeCard\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
