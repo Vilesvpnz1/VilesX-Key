@@ -2904,5 +2904,12 @@
             "loadstring": "local ReplicatedStorage = game:GetService(\"ReplicatedStorage\") local Events = ReplicatedStorage:WaitForChild(\"Events\") local ClassicWinEvent = Events:WaitForChild(\"ClassicMode_GameOver\")  pcall(function()     local conn = Events:FindFirstChild(\"UpdateLetterBoxColorsEvent\")     if conn and conn.OnClientEvent then         conn.OnClientEvent:Connect(function() end)     end end)  local delayBetweenWins = 0  while true do     ClassicWinEvent:FireServer(true, \"Classic\")     task.wait(delayBetweenWins) end",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "15101393044": [
+        {
+            "name": "collect money",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/DressToImpress\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
