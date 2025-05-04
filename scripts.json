@@ -3796,6 +3796,11 @@
             "name": "Hex Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Y7uh3UZf\"))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hack GobbyDollan Dandys World Mobile - AutoFarm (Pastebin)",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/QQt4pVtu\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
