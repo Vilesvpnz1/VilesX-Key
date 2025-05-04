@@ -3343,6 +3343,11 @@
             "name": "Arise Crossover Script NO KEY - Max Coins, Auto Arise, Dupe",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/defnotry/devry-hub/main/arise-crossover/main.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Arise Crossover Script PC & Mobile - Auto Farm and More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/reavscripts/hub/refs/heads/main/reavscripts.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
