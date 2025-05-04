@@ -3250,5 +3250,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "14025779410": [
+        {
+            "name": "Vermz Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Vermzky/VermzHub/refs/heads/main/FREE\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
