@@ -4539,6 +4539,11 @@
             "name": "Inf Money, Buy All Eggs",
             "loadstring": "game:GetService(\"ReplicatedStorage\"):WaitForChild(\"Events\"):WaitForChild(\"HatchEgg\"):InvokeServer(unpack(args))",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Op new script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/PixelPrisons\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
