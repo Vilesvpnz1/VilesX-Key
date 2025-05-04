@@ -3171,6 +3171,11 @@
             "name": "Auto Collect, Auto Rebirth, TP",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/01iq/me/refs/heads/main/AnimeTrainingRng.txt\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm  Pumpkin, Auto Farm, Teleports",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/01iq/me/refs/heads/main/AnimeTrainingRng.txt\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
