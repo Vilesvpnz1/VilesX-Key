@@ -3181,6 +3181,11 @@
             "name": "Many functions",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/01iq/me/refs/heads/main/AnimeTrainingRng.txt\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto collect Potion, Auto Rebirth, Auto Tp Zone",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/p6UfN5F1/raw'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
