@@ -2639,5 +2639,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JinxTheCatto/Neptune/main/NeptuneHub.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6284583030": [
+        {
+            "name": "EVO V4 PSX",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Internl/Evo/main/projectevo.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
