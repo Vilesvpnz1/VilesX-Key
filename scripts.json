@@ -4115,6 +4115,11 @@
             "name": "Auto Rebirth, Auto Launch & More Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Sidhsksjsjsh/launch-into-space-simulator/main/.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Rebirth, Auto Launch, Auto Hit Pinata Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Sidhsksjsjsh/launch-into-space-simulator/main/.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
