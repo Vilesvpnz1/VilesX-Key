@@ -4277,6 +4277,11 @@
             "name": "Auto Farm, Auto Upgrade, Claim Gift",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pcallskeleton/RX/refs/heads/main/5.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Infinite Vouchers",
+            "loadstring": "game:GetService(\"ReplicatedStorage\").Functions.ClaimQuest:InvokeServer(ohTable1)",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
