@@ -2479,5 +2479,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/devnorb/vortexjb/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6299805723": [
+        {
+            "name": "Unlock GamePass",
+            "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/azHjbL1y')))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
