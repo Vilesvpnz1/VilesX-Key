@@ -2650,6 +2650,11 @@
             "name": "Pet Simulator X: Auto Hatch Egg, Auto Farm, Webhook",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Best Pet Simulator X Script Hack 2023",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/lurkersaqz/script/main/farm.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
