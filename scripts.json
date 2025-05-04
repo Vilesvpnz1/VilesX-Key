@@ -3091,6 +3091,11 @@
             "name": "Anti Void, Auto Bosses, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VxleLUA/Dynamic-Offical/main/System/GameChecker.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hitbox, Anti Void, Punch Aura",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheScriptMaster1/ScriptMaster-Hub/main/AbilityWars.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
