@@ -3666,6 +3666,11 @@
             "name": "Auto Farm, Collect Items:",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tora//main/Demonfall\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Godmode, Teleports",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JackCSTM/eclipsex/main/script\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
