@@ -4325,6 +4325,11 @@
             "name": "All Codes, Auto Collect Potion",
             "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/vV9IlWVi/raw'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Collect Potions Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/vV9IlWVi/raw'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
