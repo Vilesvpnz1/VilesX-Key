@@ -3687,5 +3687,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2414851778": [
+        {
+            "name": "NS Hub - Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/Sol/refs/heads/main/DQ\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
