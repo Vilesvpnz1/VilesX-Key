@@ -4297,5 +4297,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/poke000000000/inf-money-23/refs/heads/main/inf%20moneys\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "13529953420": [
+        {
+            "name": "Auto Collect, Auto Win, Auto Rebirth",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/Retarded_German/main/MoneyRace.lua\"))()Copied!",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
