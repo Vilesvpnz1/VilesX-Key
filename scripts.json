@@ -2581,5 +2581,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/insanedude59/FootballUniverse/main/OpenSource\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8542259458": [
+        {
+            "name": "Kill Aura, Auto Buy, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
