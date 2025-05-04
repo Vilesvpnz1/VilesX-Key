@@ -3568,5 +3568,12 @@
             "loadstring": "loadstring(game:HttpGet('https://whimper.xyz/cathub.lua'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "111130915266245": [
+        {
+            "name": "Car Training - Auto AI, AutoRebirth, AutoCraft [Pastebin, No Key]",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/tBxWC1e9\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
