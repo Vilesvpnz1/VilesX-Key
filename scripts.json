@@ -2592,6 +2592,11 @@
             "name": "Hitbox Expander Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/SKYWARS-Hitbox-size-Free-12819\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Kill All, Auto void",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
