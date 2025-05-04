@@ -4506,5 +4506,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Janorax/Wack-Hub/refs/heads/main/loadstring\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "14330243992": [
+        {
+            "name": "Inf Wins, Inf Power, Speed",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/No6No6No7yt/Lumin-Hub/main/power%20slap%20simulator%20Ln'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
