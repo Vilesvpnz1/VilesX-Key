@@ -3877,5 +3877,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/stockingsloverr/roblox-scripts/refs/heads/main/EatTheWorld\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "7711635737": [
+        {
+            "name": "Beanz Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/pid4k/scripts/main/BeanzHub.lua\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
