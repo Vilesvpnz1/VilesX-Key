@@ -4137,6 +4137,11 @@
             "name": "Get All Gears Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Oxwoey/lucky-block-v1/main/script%20v1%20beta\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Free Items Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Script\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
