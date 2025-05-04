@@ -3321,6 +3321,11 @@
             "name": "Auto Farm Boss, Auto Farm, Auto Stats",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ByNami/dkhub/main/Script', true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Xray, Auto Kill, Auto Level Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Turtle-Secure/Anime-Dungeon-Fighters/main/.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
