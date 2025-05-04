@@ -3591,6 +3591,11 @@
             "name": "Aimbot, Esp, BHop",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fliskScript/jaran.vip/main/free.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Silent-Aim, Esp",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/404/main/Source'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
