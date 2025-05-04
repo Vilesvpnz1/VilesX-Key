@@ -3388,6 +3388,11 @@
             "name": "No Key SkyHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SKOIXLL/SKYLOLAND/refs/heads/main/Load.lua\"))(",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Arise Crossover Script Keyless - Auto Farm, Instant Kill",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IAmJamal10/Scripts/refs/heads/main/AriseCrossover\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
