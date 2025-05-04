@@ -4083,6 +4083,11 @@
             "name": "Attack, Auto Farm, Auto Block",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.Loader.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "ujutsu Shenanigans Script GUI - Auto Farm, Auto Attack [Pastebin]",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/PhXmuAi8\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
