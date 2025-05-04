@@ -2821,6 +2821,11 @@
             "name": "Blue Lock: Rivals Script Mobile Zee Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://zuwz.xyz/ZEEHubVNBlueLock.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "OMG Hub Blue Lock Rivals Script Mobile",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
