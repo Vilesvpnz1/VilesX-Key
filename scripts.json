@@ -3262,5 +3262,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/av/refs/heads/main/tar\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "132352755769957": [
+        {
+            "name": "Kill Players, Arrest Nearest Player, AUTOFARM",
+            "loadstring": "_G.Theme = \"Dark\" --Themes: Light, Dark, Red, Mocha, Aqua and Jester  loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/refs/heads/main/AsyliumLife.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
