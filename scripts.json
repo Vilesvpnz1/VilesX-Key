@@ -2608,5 +2608,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Emoli5y/shadow/main/Main'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4872321990": [
+        {
+            "name": "Auto Farm Boss, Auto Farm, Teleports",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pascaldercoole1/Open-Source-Scripts/main/FreeIslands'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
