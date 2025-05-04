@@ -2645,6 +2645,11 @@
             "name": "EVO V4 PSX",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Internl/Evo/main/projectevo.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Pet Simulator X: Auto Hatch Egg, Auto Farm, Webhook",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
