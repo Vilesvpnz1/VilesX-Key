@@ -3864,6 +3864,11 @@
             "name": "Desert Detectors Scripts - Loot Esp, Infinite Cash",
             "loadstring": "loadstring(game:HttpGet(\"https://exploitfin.netlify.app/Nexus/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Desert Detectors - Inf Money, ESP, Fast Dig",
+            "loadstring": "https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DesertDetectors",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
