@@ -2683,5 +2683,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ivannetta/ShitScripts/refs/heads/main/forsaken.lua\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "12355337193": [
+        {
+            "name": "MD (Murderers VS Sheriffs) Script - Aimbot, TriggerBot, FOV",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheRealAvrwm/Projects/main/Xeno%20MVSD%20script.lua\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
