@@ -3900,6 +3900,11 @@
             "name": "Script Fling Things and People - Anti Grab (Pastebin)",
             "loadstring": "loadstring(game:HttpGet((\"https://pastebin.com/raw/Skn3Aa1Q\"), true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get New Script Fling Things and People - Super Strength, Anti Grab",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fgdergewrgegr/SVH/refs/heads/main/VHSVF\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
