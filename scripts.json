@@ -3942,6 +3942,11 @@
             "name": "Aimbot, Silent-Aim, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://scripts.waza80.com/script/loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aimbot, Esp, Fov, More",
+            "loadstring": "loadstring(game:HttpGet(\"https://scripts.waza80.com/script/Frontlines\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
