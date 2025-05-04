@@ -1126,6 +1126,11 @@
             "name": "Atlas Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Chris8889/atlasbss/main/script.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Macro V3",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/bc8c5c45c26f8e4cdb060277b0bbcab7.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ],
     "3398014311": [
