@@ -4533,5 +4533,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/No6No6No7yt/Lumin-Hub/main/power%20slap%20simulator%20Ln'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "134877494536867": [
+        {
+            "name": "Inf Money, Buy All Eggs",
+            "loadstring": "game:GetService(\"ReplicatedStorage\"):WaitForChild(\"Events\"):WaitForChild(\"HatchEgg\"):InvokeServer(unpack(args))",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
