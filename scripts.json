@@ -2677,6 +2677,11 @@
             "name": "Forsaken Mobile Script - Apple Hub",
             "loadstring": "loadstring(game:HttpGetAsync((\"https://raw.githubusercontent.com/SilkScripts/AppleStuff/refs/heads/main/AppleFSKV2\")))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Forsaken Script Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ivannetta/ShitScripts/refs/heads/main/forsaken.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
