@@ -2627,5 +2627,12 @@
             "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/hBErJagu'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4639625707": [
+        {
+            "name": "War Tycoon Script Roblox - Auto Build, Op Options and More",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/MariyaFurmanova/Library/main/WarTycoon', true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
