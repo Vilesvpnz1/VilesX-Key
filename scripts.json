@@ -3316,6 +3316,11 @@
             "name": "Auto Stats, Auto Farm, Kill Aura",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimeDungeon\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm Boss, Auto Farm, Auto Stats",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ByNami/dkhub/main/Script', true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
