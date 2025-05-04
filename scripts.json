@@ -3920,6 +3920,11 @@
             "name": "Ner Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Range0xE4/NerHub/main/main.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Fling Things and People NerHub MultiHack",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BlizTBr/scripts/main/FTAP.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
