@@ -3080,5 +3080,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ExploiterGuy/Aqua-Hub/refs/heads/main/100%20Players%20Slippery%20Stair.txt\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8260276694": [
+        {
+            "name": "KillAura, Godmode, Kill All",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/dizyhvh/rbx_scripts/main/ability_wars.lua')))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
