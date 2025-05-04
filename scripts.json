@@ -3225,6 +3225,11 @@
             "name": "NoName Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://noname-hub.fun/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Anime Shadow Script Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimeShadow\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
