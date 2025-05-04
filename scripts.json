@@ -4319,5 +4319,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/xet55/XetsScripts/main/moneyrace'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "133341016381877": [
+        {
+            "name": "All Codes, Auto Collect Potion",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/vV9IlWVi/raw'),true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
