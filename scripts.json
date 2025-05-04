@@ -4200,6 +4200,11 @@
             "name": "Strelizia Hub",
             "loadstring": "getgenv().UserPreference = {     ['AutoReloadOnRejoin'] = true, };  loadstring(game:HttpGet('https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Loader.lua', true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Lootify Roblox - Auto attack, Auto roll",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IAmJamal10/Loot/refs/heads/main/Ify'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
