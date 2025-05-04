@@ -4512,6 +4512,11 @@
             "name": "Inf Wins, Inf Power, Speed",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/No6No6No7yt/Lumin-Hub/main/power%20slap%20simulator%20Ln'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Win, Auto Rebirth, Auto Power",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/62ac508ae22ac9d4d5485af7a4531b0b.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
