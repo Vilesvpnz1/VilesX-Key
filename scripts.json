@@ -3215,6 +3215,11 @@
             "name": "Anime Shadow Script Mobile Deng Hub - Auto Click, Auto Farm, Auto Collect Drop",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/DENGHUB2025/HUGHUB/main/WL\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "OMG Hub",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
