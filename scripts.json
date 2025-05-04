@@ -4153,5 +4153,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KaizerQuasar/Project-Quasar/main/Lucky-Lucky.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3101667897": [
+        {
+            "name": "Snake Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AshleyCanis/Miral/refs/heads/main/Protected_3053498136903502.txt\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
