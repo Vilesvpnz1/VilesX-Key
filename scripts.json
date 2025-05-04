@@ -3636,5 +3636,12 @@
             "loadstring": "while true do task.wait() game:FindService(\"ReplicatedStorage\"):FindFirstChild(\"shared/network@GlobalFunctions\").rollCar:FireServer(6) game:FindService(\"ReplicatedStorage\"):FindFirstChild(\"shared/network@GlobalFunctions\").rolledCarDecision:FireServer(6, false) end",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "17336513489": [
+        {
+            "name": "Character RNG 2024 Gui",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ImNotRox1/HyperHubV2/main/HyperHub%20-%20Character%20RNG.txt\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
