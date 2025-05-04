@@ -2569,5 +2569,12 @@
             "loadstring": "loadstring(game:HttpGetAsync(\"https://pastebin.com/raw/R8QMbhzv\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "2338325648": [
+        {
+            "name": "No Miss Accuracy Catch, Anti Tackle, Tackle Keybind",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/fu\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
