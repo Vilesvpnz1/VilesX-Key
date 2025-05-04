@@ -2796,6 +2796,11 @@
             "name": "Blue Lock Rivals Script Alchemy Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://scripts.alchemyhub.xyz\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "BlueLock Rivals Script - INF Spins, Get Style",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dehism/Dehism/refs/heads/main/Inf%20Spins%20Auto%20Dehism\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
