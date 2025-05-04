@@ -3466,6 +3466,11 @@
             "name": "Be NPC or DIE Script - Player ESP, Teleport, Inf Jump, NoClip",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/BENPCORDIE\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Be NPC or DIE - ESP All Players",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vateq/CandyHub/refs/heads/main/Loader.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
