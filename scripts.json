@@ -4443,6 +4443,11 @@
             "name": "Rinns Hub Pets Go Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Pets Go! Script GUI / Hack LegendHandles Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/Pet/refs/heads/main/Go\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
