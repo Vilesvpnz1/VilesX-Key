@@ -4063,5 +4063,12 @@
             "loadstring": "game:GetService(\"Players\").LocalPlayer.gui.autofishing.Value = true",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "11562435896": [
+        {
+            "name": "Op HRS Script Gui",
+            "loadstring": "getgenv().AutoHomeRun = true --false to disable might take a bit to actually disable thou  loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dooory/OC/main/Working/home_run_sim.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
