@@ -4485,5 +4485,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ocfi/Pass-The-Bomb-Obfuscated/refs/heads/main/Pass%20The%20Bomb\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "70618173619214": [
+        {
+            "name": "Op Gui Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/agreed69-scripts/open-src-scripts/refs/heads/main/KSI%20Plinko%20RNG.lua\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
