@@ -2806,6 +2806,11 @@
             "name": "Script Blue Lock: Rivals  (No Key) - Any Emote, Any Cosmetics, Infinite Spin, Bypass",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PresidentZuyi/S/refs/heads/main/FullHub\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blue Lock Rivals Script No Key Nicuse Hub - Auto Goal, Auto Steal, Auto TP Ball",
+            "loadstring": "loadstring(game:HttpGet(\"https://nicuse.xyz/MainHub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
