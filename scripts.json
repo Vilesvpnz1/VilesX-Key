@@ -2597,6 +2597,11 @@
             "name": "Auto Farm, Kill All, Auto void",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Esp, Body only invis, Infinite Jump",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheHanki/Hawk/main/Loader\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
