@@ -2866,6 +2866,11 @@
             "name": "Rinns Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Blue Lock: Rivals Script - Auto Farm, Inf Spins and More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LHking123456/jvJzb8FPs5TuR/refs/heads/main/BLRivals\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
