@@ -2755,6 +2755,11 @@
             "name": "No Cooldown, Kunai Aura, Kunai Speed",
             "loadstring": "local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,\"https58//api.eclipsehub.xyz/auth\";c(a and b,\"Executor not Supported\")a(b({Url=e..\"?107e12161\"..d(mainKey),Headers={[\"User-Agent\"]=\"Eclipse\"}}).Body)()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hitboxes, No Anims & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JustAP1ayer/PlayerHubOther/main/PlayerHubLoader.lua\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
