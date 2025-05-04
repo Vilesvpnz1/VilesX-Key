@@ -2816,6 +2816,11 @@
             "name": "Blue Lock Rivals Script NS Hub - Auto Farm, Auto TP, ESP",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/fo/refs/heads/main/ot\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blue Lock: Rivals Script Mobile Zee Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://zuwz.xyz/ZEEHubVNBlueLock.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
