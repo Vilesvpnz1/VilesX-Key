@@ -3017,6 +3017,11 @@
             "name": "Script Bubble Gum Simulator INFINITY - Auto Farm GUI",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Loader.lua', true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Sexation Hub",
+            "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/bpg16PAy'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
