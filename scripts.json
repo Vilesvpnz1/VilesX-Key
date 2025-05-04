@@ -2841,6 +2841,11 @@
             "name": "Script Blue Lock Rivals - Style (Rin, Yukimiya, Shidou)",
             "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/O3F7JYSF/raw'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blue Lock: Rivals Mobile Script - Custom style Kaiser",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bhusant/Bathroom-attack/refs/heads/main/Bathroom\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
