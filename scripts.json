@@ -3393,6 +3393,11 @@
             "name": "Arise Crossover Script Keyless - Auto Farm, Instant Kill",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/IAmJamal10/Scripts/refs/heads/main/AriseCrossover\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "NS Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/y/refs/heads/main/hj\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
