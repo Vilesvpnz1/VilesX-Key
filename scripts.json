@@ -3443,5 +3443,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vnausea/absence-mini/refs/heads/main/absencemini.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "86230775293861": [
+        {
+            "name": "Blood Of Punch Op script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/refs/heads/main/BloodofPunch'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
