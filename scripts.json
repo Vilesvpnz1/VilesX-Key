@@ -3198,6 +3198,11 @@
             "name": "Auto Battle, Auto Roll, Auto Obby",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimeCard\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Challenge, Auto Collect Obby, Auto Grab Potions",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JustLevel/goombahub/main/acb.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
