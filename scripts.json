@@ -2886,6 +2886,11 @@
             "name": "Script Blue Lock: Rivals - Get Any Style Pastebin",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/D1M2PLua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blue Lock: Rivals Script GUI [UPD]",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/BlueLock\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
