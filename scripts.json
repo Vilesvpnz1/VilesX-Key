@@ -4099,5 +4099,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/solj/main/ne\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "15535115259": [
+        {
+            "name": "Infinite Cash, Auto Collect, Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/LaunchInto\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
