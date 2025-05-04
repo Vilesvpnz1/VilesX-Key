@@ -4408,6 +4408,11 @@
             "name": "LDS Hub",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SenhorLDS/ProjectLDSHUB/main/OfficialScript'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Pets GO Roblox Script - Auto Roll, Auto Collect, Auto Egg",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/825PetsG0.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
