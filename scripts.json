@@ -3727,6 +3727,11 @@
             "name": "Dig it Script Auto Farm",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dig It Script 2025 CupPink - Auto Dig, Auto Minigame, Auto Walk",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CupPink/scripts/main/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
