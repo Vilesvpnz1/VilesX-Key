@@ -3999,5 +3999,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/mqJcCHTB\",true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "Gym League": [
+        {
+            "name": "Ather Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Athergaming/Roblox-Gym-League-Script/main/AtherHub%20Gym%20League%20V1_5.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
