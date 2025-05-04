@@ -3477,5 +3477,12 @@
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BeNpcOrDie\")()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4448566543": [
+        {
+            "name": "Auto Collect Pumpkins, Candy Farm, Auto Farm, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/B4n4n43t2.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
