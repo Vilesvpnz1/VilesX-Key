@@ -3209,5 +3209,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()\u00c2",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "89438510123061": [
+        {
+            "name": "Anime Shadow Script Mobile Deng Hub - Auto Click, Auto Farm, Auto Collect Drop",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/DENGHUB2025/HUGHUB/main/WL\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
