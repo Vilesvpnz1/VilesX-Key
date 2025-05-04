@@ -3001,5 +3001,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fliptwo/iSPLOIT/main/Mega%20Fun%20Obby\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "85896571713843": [
+        {
+            "name": "Bubble Gum Simulator The Best Auto Farm Script",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ago106/SpaceHub/refs/heads/main/Multi'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
