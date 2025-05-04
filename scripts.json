@@ -4239,5 +4239,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://exploitfin.netlify.app/Nexus/Loader\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3623096087": [
+        {
+            "name": "Script Muscle Legends - Auto Farm Chests and More",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/2Cuza2mr\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
