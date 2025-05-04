@@ -3398,6 +3398,11 @@
             "name": "NS Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/y/refs/heads/main/hj\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Arise Crossover - Auto Mobs, Auto Attack",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/AriseCrossover\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
