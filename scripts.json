@@ -3155,5 +3155,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/ASSim/main/see\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "137461040918786": [
+        {
+            "name": "Auto Tp, Auto Collect, Auto Rebirth",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/p6UfN5F1/raw'),true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
