@@ -1160,6 +1160,11 @@
             "name": "Teleports, Auto Farm & More",
             "loadstring": "loadstring(game:HttpGet(\"https://bloxburger.eu/scripts/free/script.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm Cash, Anti Fog, Set Time",
+            "loadstring": "loadstring(game:HttpGet(\"https://projectevo.xyz/v4/script.lua\", true))();",
+            "credit": "wekilledtheunicorns"
         }
     ],
     "2788229376": [
