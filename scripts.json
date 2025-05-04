@@ -2485,6 +2485,11 @@
             "name": "Unlock GamePass",
             "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/azHjbL1y')))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Free Gamepasses, River Hub, Auto Farm Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/azHjbL1y')))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
