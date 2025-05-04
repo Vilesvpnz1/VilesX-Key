@@ -4022,6 +4022,11 @@
             "name": "Lightux",
             "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/cool83birdcarfly02six/Lightux/main/README.md\"),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Speed Hub X",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/GameList.lua\"))() for PlaceID, Execute in pairs(Games) do     if PlaceID == game.PlaceId then         loadstring(game:HttpGet(Execute))()     end end",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
