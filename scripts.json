@@ -3925,6 +3925,11 @@
             "name": "Fling Things and People NerHub MultiHack",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BlizTBr/scripts/main/FTAP.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Simple Script for Fling Things and People",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/spacexrandom/Lua/main/FlingThingsAndPeople\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
