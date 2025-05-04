@@ -3737,6 +3737,11 @@
             "name": "Dig it Script - Auto Dig, Auto Collect, GodMode, ESP",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/loader\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Frostbyte Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/alyssagithub/Scripts/refs/heads/main/FrostByte/Initiate.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
