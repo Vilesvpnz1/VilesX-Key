@@ -3705,6 +3705,11 @@
             "name": "Auto Roll, Auto Fish, Auto Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/DungeonRNG231.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Candy Farm, Auto Attack",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/trawma/trawma/main/trawma(upd).lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
