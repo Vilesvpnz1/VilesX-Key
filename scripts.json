@@ -3786,6 +3786,11 @@
             "name": "Soup Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Soup182/Soup-Hub-Dandy-s-World-Hub-/refs/heads/main/Dw%20Soup%20Hub.lua\")) ()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "MoxHub",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ApparentlySpooks/moxhubV3/refs/heads/main/dandys%20world.txt'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
