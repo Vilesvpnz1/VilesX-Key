@@ -3489,5 +3489,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NovaVanity/131e258977e50e1ec0184c72818b8bfd/raw\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "15744137588": [
+        {
+            "name": "Kill All, Kill Aura",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/BladeSlayer1331.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
