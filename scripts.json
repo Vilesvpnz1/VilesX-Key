@@ -3579,6 +3579,11 @@
             "name": "Car Training Mobile Script Pastebin 2025",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/CarTraining\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Car Training Script GUI - AutoBuy, AutoRebirth, AutoTrain (Pastebin No Key)",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/gJUHqkMc\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
