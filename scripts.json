@@ -3348,6 +3348,11 @@
             "name": "Arise Crossover Script PC & Mobile - Auto Farm and More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/reavscripts/hub/refs/heads/main/reavscripts.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Arise Crossover Script NEW - Auto Farm, Gamepass",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/perfectusmim1/script/main/crossover\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
