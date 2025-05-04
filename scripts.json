@@ -3960,5 +3960,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/refs/heads/main/Fortline\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "14518422161": [
+        {
+            "name": "Gunfight Arena Script - ESP, Aimbot, Inf Jump",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
