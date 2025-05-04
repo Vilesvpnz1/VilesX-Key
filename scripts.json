@@ -2881,6 +2881,11 @@
             "name": "Blue Lock Rivals Legend Handles",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/LHking123456/ct4gFewpLxRHJ/refs/heads/main/BLRivals'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Blue Lock: Rivals - Get Any Style Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/D1M2PLua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
