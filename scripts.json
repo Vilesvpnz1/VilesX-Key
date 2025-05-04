@@ -3791,6 +3791,11 @@
             "name": "MoxHub",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ApparentlySpooks/moxhubV3/refs/heads/main/dandys%20world.txt'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hex Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Y7uh3UZf\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
