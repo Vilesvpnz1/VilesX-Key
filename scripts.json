@@ -4179,5 +4179,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/LightGame\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "16498193900": [
+        {
+            "name": "Script Lootify - Auto Use Potions",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Cheemos/PanHub/refs/heads/main/HubLoader\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
