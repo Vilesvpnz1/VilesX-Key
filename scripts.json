@@ -4438,6 +4438,11 @@
             "name": "Pets Go Roblox Script SpeedHubX 4.2.3",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Rinns Hub Pets Go Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
