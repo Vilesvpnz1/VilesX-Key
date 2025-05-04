@@ -4265,6 +4265,11 @@
             "name": "Script Muscle Legends - Stats Simulation",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/StupidProAArsenal/main/refs/heads/main/StatsSimulation\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Muscle Legends Script 2025 No Key",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
