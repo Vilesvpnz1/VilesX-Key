@@ -2727,5 +2727,12 @@
             "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/rhv5C8My'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "13822562292": [
+        {
+            "name": "Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nivex123456/main/refs/heads/main/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
