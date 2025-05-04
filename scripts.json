@@ -3915,6 +3915,11 @@
             "name": "Fling Things and People Script No Key 2025",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fgdergewrgegr/SVH/main/VHSV6\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Ner Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Range0xE4/NerHub/main/main.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
