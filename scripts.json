@@ -3557,6 +3557,11 @@
             "name": "Fiber Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Aaron999S/FiberHub/main/Main\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "LDS Hub Pastebin",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SenhorLDS/ProjectLDSHUB/main/OfficialScript'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
