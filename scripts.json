@@ -4026,5 +4026,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/x64communist/tupo/main/GymLeague.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "116605585218149": [
+        {
+            "name": "Script GO FISHING - Auto Fish (No Key)",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/emwmelchi/gofishing/refs/heads/main/main\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
