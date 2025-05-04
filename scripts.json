@@ -3117,5 +3117,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TORVELIS/Ability-Wars1/main/Ability%20Wars2.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "17564320769": [
+        {
+            "name": "Collect Items, Inf Jump",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AllbloxBattles\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
