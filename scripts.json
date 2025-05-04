@@ -3671,6 +3671,11 @@
             "name": "Auto Farm, Godmode, Teleports",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JackCSTM/eclipsex/main/script\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "No Fall Damage, God mode, No Stun",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KeoneGithub/KeoneGithub/main/DemonCockCandy\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
