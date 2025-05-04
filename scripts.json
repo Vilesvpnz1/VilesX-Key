@@ -4271,5 +4271,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt\"))();",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "18110627833": [
+        {
+            "name": "Auto Farm, Auto Upgrade, Claim Gift",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pcallskeleton/RX/refs/heads/main/5.lua'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
