@@ -3148,5 +3148,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/AW.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "17316900493": [
+        {
+            "name": "OP GUI",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/ASSim/main/see\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
