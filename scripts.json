@@ -3508,5 +3508,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/n3xkxp3rl/Moma-Hub/refs/heads/main/BlockMayhem2.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "16483433878": [
+        {
+            "name": "Auto Farm, Auto Attack",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/TexRBLX/Roblox-stuff/refs/heads/main/block%20tales/Block-Tales-Auto-Guard.lua\")()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
