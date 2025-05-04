@@ -3971,6 +3971,11 @@
             "name": "Script Gunfight Arena 2025 - Aimbot, ESP",
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQV2GUNFIGHT'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Gunfight Arena - Good Aimbot, ESP",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/Main%20Scripts\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
