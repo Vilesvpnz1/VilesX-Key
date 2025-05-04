@@ -2915,6 +2915,11 @@
             "name": "NutHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/01iq/me/refs/heads/main/DressToImpress\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Neuron  - No Key",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/DTI.py\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
