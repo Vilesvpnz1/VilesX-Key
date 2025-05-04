@@ -4393,6 +4393,11 @@
             "name": "Script Pets GO Mobile - Auto Destroy",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjektEta/Femscr.dll/refs/heads/main/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "6FootScripts GUI Pets Go Mobile Script - Auto Farm",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/refs/heads/main/Scripts/PetsGo.lua'))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
