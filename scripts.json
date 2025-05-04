@@ -2745,6 +2745,11 @@
             "name": "Hitbox Extender, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://paste.gg/p/anonymous/fdf98bd04c69475cb0f4ff69281af451/files/089f3590d38346c5a950bb5f195208ea/raw\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "No Cooldown, No Slide Cooldown & More",
+            "loadstring": "getgenv().mainKey = \"nil\"  local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,\"https://api.eclipsehub.xyz/auth\"c(a and b,\"Executor not Supported\")a(b({Url=e..\"?107e12161\"..d(mainKey),Headers={[\"User-Agent\"]=\"Eclipse\"}}).Body)()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
