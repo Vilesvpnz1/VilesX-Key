@@ -3743,52 +3743,5 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/alyssagithub/Scripts/refs/heads/main/FrostByte/Initiate.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
-    ],
-    "11233948433": [
-        {
-            "name": "Devas Of Creation Script - Kill Aura, Auto Loot, Auto Harvest",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kalasthrowaway/stuff/main/devas_of_creation.lua\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Legend HandlesYT",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/Devas/main/Creation\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "AstralHub",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/StarlessScripts/Astral-Dandy-s-world/refs/heads/main/Starless\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Script Dandys World Mobile Pastebin",
-            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Y7uh3UZf\"))();",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Get Script Dandy's World - Get Crazy, ESP Monsters, Auto TP",
-            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/godor1010/godor/refs/heads/main/dandy's_world_'))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Dandy's World New Script GUI - All ESP, Inf Walk Speed",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/main/Dandy\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Dandys World Hub Script Pastebin - Esp, Fake Cards, Visual Dandy",
-            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/H3u62n7D\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "Soup Hub",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Soup182/Soup-Hub-Dandy-s-World-Hub-/refs/heads/main/Dw%20Soup%20Hub.lua\")) ()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "MoxHub",
-            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ApparentlySpooks/moxhubV3/refs/heads/main/dandys%20world.txt'))()",
-            "credit": "wekilledtheunicorns"
-        }
     ]
 }
