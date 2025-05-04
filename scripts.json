@@ -3622,5 +3622,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/univ57\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "14206387098": [
+        {
+            "name": "Cursed Arena gui",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HenSeu87PofghYT/Cursed-Arena/main/Nameless%20Scripts\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
