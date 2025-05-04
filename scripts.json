@@ -3437,6 +3437,11 @@
             "name": "Basketball Legends Auto Script Vision Hub",
             "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/Nd8va3iK')))(",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Basketball Legends Script and Hack",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vnausea/absence-mini/refs/heads/main/absencemini.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
