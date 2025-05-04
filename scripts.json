@@ -2689,6 +2689,11 @@
             "name": "MD (Murderers VS Sheriffs) Script - Aimbot, TriggerBot, FOV",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheRealAvrwm/Projects/main/Xeno%20MVSD%20script.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Murderers VS Sheriffs Duels Script Pastebin Imp Hub - Insta Win Duel, Kill All",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
