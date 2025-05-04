@@ -3681,6 +3681,11 @@
             "name": "Auto Farm Mob, Auto Farm Boss,",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LabibKazi858/Scripts/main/DemonFall\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Sprint, Fullbright, Tricket Farm & More",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
