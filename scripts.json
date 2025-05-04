@@ -2891,6 +2891,11 @@
             "name": "Blue Lock: Rivals Script GUI [UPD]",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/BlueLock\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blue Lock Rivals Script - Inf Stamina",
+            "loadstring": "local args = {     [1] = 0/0 }  game:GetService(\"ReplicatedStorage\"):WaitForChild(\"Packages\"):WaitForChild(\"Knit\"):WaitForChild(\"Services\"):WaitForChild(\"StaminaService\"):WaitForChild(\"RE\"):WaitForChild(\"DecreaseStamina\"):FireServer(unpack(args))",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
