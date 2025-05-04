@@ -3363,6 +3363,11 @@
             "name": "Alchemy Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://scripts.alchemyhub.xyz\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Elgato Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/meobeo8/elgato/a/Loader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
