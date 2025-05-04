@@ -2704,6 +2704,11 @@
             "name": "Rinns Hub MVSD Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Murderers VS Sheriffs Duels Script No Key Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/shaxypop788/shax-hub/main/hitbox\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
