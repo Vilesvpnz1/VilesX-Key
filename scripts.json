@@ -4423,6 +4423,11 @@
             "name": "Banana Hub Pets Go Script - AutoFarm GUI",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/diepedyt/bui/refs/heads/main/BananaHubLoader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Ather Hub Pets Go Mobile Script - Auto Roll, Auto Relics",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/2529a5f9dfddd5523ca4e22f21cceffa.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
