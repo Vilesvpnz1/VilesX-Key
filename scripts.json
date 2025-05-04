@@ -4465,6 +4465,11 @@
             "name": "Auto Click, Auto Hight, Auto Rebirth",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bac0nHck/Scripts/main/PaS\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Autorebirth, Auto Click, Auto Fight Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bac0nHck/Scripts/main/PaS\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
