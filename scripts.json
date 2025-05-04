@@ -3883,6 +3883,11 @@
             "name": "Beanz Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/pid4k/scripts/main/BeanzHub.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Emergency Hamburg New Script 2025 No Key",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Marco8642/science/main/emergency%20hamburg\")",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
