@@ -4433,6 +4433,11 @@
             "name": "Zap Hub",
             "loadstring": "loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Pets Go Roblox Script SpeedHubX 4.2.3",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
