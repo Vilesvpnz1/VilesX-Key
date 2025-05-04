@@ -2790,5 +2790,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/refs/heads/main/ShrimpGame\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "18668065416": [
+        {
+            "name": "Blue Lock Rivals Script Alchemy Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://scripts.alchemyhub.xyz\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
