@@ -3176,6 +3176,11 @@
             "name": "Auto Farm  Pumpkin, Auto Farm, Teleports",
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/01iq/me/refs/heads/main/AnimeTrainingRng.txt\")()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Many functions",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/01iq/me/refs/heads/main/AnimeTrainingRng.txt\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
