@@ -3831,5 +3831,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tora//main/DuckArmy\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "125723653259639": [
+        {
+            "name": "Drill Digging Simulator Auto Farm Script New",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
