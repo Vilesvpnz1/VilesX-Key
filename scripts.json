@@ -3937,6 +3937,11 @@
             "name": "Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AnyxWareRblx/Made-By-Got_Seinn_Vater/refs/heads/main/Fontlines\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aimbot, Silent-Aim, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://scripts.waza80.com/script/loader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
