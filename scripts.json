@@ -2667,6 +2667,11 @@
             "name": "Forsaken Script - Auto Skill, Auto Generator, ESP",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MaybeNotMandy/forsaken/refs/heads/main/sae\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Elysian Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Selivus07/forsakenfr/refs/heads/main/ElysianV.lua\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
