@@ -3106,6 +3106,11 @@
             "name": "Hitbox, Kill Aura & More",
             "loadstring": "loadstring(game:HttpGet(\"https://paste.ee/r/Wo5Kj\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hitbox",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CrapTheKid/Ability-Wars-Script/main/Ability%20Wars\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
