@@ -3992,5 +3992,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/D8rkX/D8rk-Hub/main/Games/GunFight%20Arena\",true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "7647631063": [
+        {
+            "name": "GTA - Op Gui",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/mqJcCHTB\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
