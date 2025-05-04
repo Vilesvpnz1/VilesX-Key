@@ -2826,6 +2826,11 @@
             "name": "OMG Hub Blue Lock Rivals Script Mobile",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dev Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/selciawashere/screepts/refs/heads/main/BLRTBDKEYSYS\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
