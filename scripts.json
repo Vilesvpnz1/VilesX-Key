@@ -3450,5 +3450,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/refs/heads/main/BloodofPunch'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "11276071411": [
+        {
+            "name": "Be NPC or DIE Script No Key - Infinite Stamina, Inf Task Range, ESP",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/emwmelchi/gofishing/refs/heads/main/main\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
