@@ -3326,6 +3326,11 @@
             "name": "Xray, Auto Kill, Auto Level Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Turtle-Secure/Anime-Dungeon-Fighters/main/.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Kill Aura, Kill All",
+            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/6e5a17580b9f119995bfbed7af32c3e4.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
