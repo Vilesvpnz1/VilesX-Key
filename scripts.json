@@ -3037,6 +3037,11 @@
             "name": "Idiot Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mrxver555/Scripts/refs/heads/main/BUBBLEGUMSIMINFINITY.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "N5 HUB",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/be/refs/heads/main/u\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
