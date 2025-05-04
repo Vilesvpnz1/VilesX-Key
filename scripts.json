@@ -2721,6 +2721,11 @@
             "name": "Jhonriss hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/johnriss/123/refs/heads/master/ENTRENCHED.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Op entrenched gui",
+            "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/rhv5C8My'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
