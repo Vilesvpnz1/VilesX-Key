@@ -3732,6 +3732,11 @@
             "name": "Dig It Script 2025 CupPink - Auto Dig, Auto Minigame, Auto Walk",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CupPink/scripts/main/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dig it Script - Auto Dig, Auto Collect, GodMode, ESP",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/loader\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
