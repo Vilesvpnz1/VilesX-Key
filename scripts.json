@@ -4398,6 +4398,11 @@
             "name": "6FootScripts GUI Pets Go Mobile Script - Auto Farm",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SlamminPig/6FootScripts/refs/heads/main/Scripts/PetsGo.lua'))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Lomu Hub Pets Go Roblox - Auto Farm Coins, Auto Roll, Auto Collect",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Whoisgrace0/Main/main/LOL.lua\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
