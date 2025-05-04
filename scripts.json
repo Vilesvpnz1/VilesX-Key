@@ -2575,6 +2575,11 @@
             "name": "No Miss Accuracy Catch, Anti Tackle, Tackle Keybind",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/fu\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Magnets \u2013 Hitbox Increase & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/insanedude59/FootballUniverse/main/OpenSource\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
