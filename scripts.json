@@ -4037,6 +4037,11 @@
             "name": "NS Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/go/refs/heads/main/is\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script GO FISHING - Auto Fish and More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/refs/heads/main/GoFishing.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
