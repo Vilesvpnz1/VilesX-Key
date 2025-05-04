@@ -3281,5 +3281,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimeRNGTD\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "16630866356": [
+        {
+            "name": "Auras of Calamity Gui",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mintwf/Infy-S/refs/heads/main/AURAS%20OF%20CALAMITY%20NUMBER%201.lua\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
