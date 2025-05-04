@@ -4093,6 +4093,11 @@
             "name": "Script Jujutsu Shenanigans - NoClip, Power Jump, WalkSpeed",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/100DaysWithoutHuman/100Days/refs/heads/main/Jjs\"))()  --key | bestscriptfr",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "NS Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/solj/main/ne\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
