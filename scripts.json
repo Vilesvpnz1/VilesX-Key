@@ -2740,6 +2740,11 @@
             "name": "Fly, Fov, HitBox",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/sKNLTgaT\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hitbox Extender, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://paste.gg/p/anonymous/fdf98bd04c69475cb0f4ff69281af451/files/089f3590d38346c5a950bb5f195208ea/raw\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
