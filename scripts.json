@@ -3522,5 +3522,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Farx11122/Dupess/main/SecondDupe\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "5171347293": [
+        {
+            "name": "Autofarm, Auto give, Get gamepass",
+            "loadstring": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPDATECabin-Crew-Simulator-Cabin-Autofarm-11627\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
