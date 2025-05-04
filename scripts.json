@@ -3483,6 +3483,11 @@
             "name": "Auto Collect Pumpkins, Candy Farm, Auto Farm, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/B4n4n43t2.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Kill All, Redeem All Codes, Remove Shadows",
+            "loadstring": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/NovaVanity/131e258977e50e1ec0184c72818b8bfd/raw\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
