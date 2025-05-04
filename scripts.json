@@ -3294,6 +3294,11 @@
             "name": "Arm Wrestle Simulator Mobile Script - Auto Farm, Auto Click",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/rndmq/Serverlist/refs/heads/main/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "RaCc0oN Hub",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/RaCc0oN1/RobloxObf/main/MainHub'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
