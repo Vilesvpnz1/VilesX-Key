@@ -3166,6 +3166,11 @@
             "name": "Auto Collect Potions, Auto  Ring Door Bell, Auto Rebirth Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/01iq/me/refs/heads/main/AnimeTrainingRng.txt\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Collect, Auto Rebirth, TP",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/01iq/me/refs/heads/main/AnimeTrainingRng.txt\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
