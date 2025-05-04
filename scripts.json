@@ -3854,6 +3854,11 @@
             "name": "Desert Detectors Script No Key - Auto Farm, Loot ESP, Teleport",
             "loadstring": "loadstring(game:HttpGet(\"https://pastes.io/raw/new-desert-raw-bb-new\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Desert Detectors - Inf Money, ESP",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GuizzyisbackV2LOL/DesertDetectorslua/refs/heads/main/.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
