@@ -3710,6 +3710,11 @@
             "name": "Auto Farm, Candy Farm, Auto Attack",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/trawma/trawma/main/trawma(upd).lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tora//main/DungeonRNG\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
