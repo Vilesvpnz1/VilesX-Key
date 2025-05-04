@@ -3759,6 +3759,11 @@
             "name": "AstralHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/StarlessScripts/Astral-Dandy-s-world/refs/heads/main/Starless\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Dandys World Mobile Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Y7uh3UZf\"))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
