@@ -3905,6 +3905,11 @@
             "name": "Get New Script Fling Things and People - Super Strength, Anti Grab",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fgdergewrgegr/SVH/refs/heads/main/VHSVF\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Fling Things and People Script Mobile",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BlizTBr/scripts/main/FTAP.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
