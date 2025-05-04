@@ -2533,5 +2533,12 @@
             "loadstring": "loadstring(game:HttpGet('https://pastebin.com/raw/7gu2ztpP'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "192800": [
+        {
+            "name": "Script Work at a pizza place 2025 - Auto Job, Auto Farm, Teleports",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/welomenchaina/Loader/refs/heads/main/ScriptLoader\",true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
