@@ -3870,5 +3870,12 @@
             "loadstring": "https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DesertDetectors",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "16480898254": [
+        {
+            "name": "Script Eat the World Mobile",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/stockingsloverr/roblox-scripts/refs/heads/main/EatTheWorld\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
