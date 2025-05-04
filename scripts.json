@@ -3895,6 +3895,11 @@
             "name": "Fling Things and People Script No Key - NoClip, Fly and More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Artss1/Flades_Hub/refs/heads/main/We%20Are%20Arts.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Fling Things and People - Anti Grab (Pastebin)",
+            "loadstring": "loadstring(game:HttpGet((\"https://pastebin.com/raw/Skn3Aa1Q\"), true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
