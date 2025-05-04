@@ -3135,6 +3135,11 @@
             "name": "Inf wins, inf spins",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimalRace\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Farm Wins, Auto Race, Get op pets",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/liebertsx/collection/main/script/non.lua',true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
