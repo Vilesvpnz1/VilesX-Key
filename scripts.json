@@ -2983,6 +2983,11 @@
             "name": "Script Sonic Speed Simulator (KARATE) - Attack Boss, Destroy Aura",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/SonicKarate\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Imp Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/SonicSpeed\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
