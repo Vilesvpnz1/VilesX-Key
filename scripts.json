@@ -3814,5 +3814,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RayzMd/SyniX-Team/main/SyniXScripts\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "13926416231": [
+        {
+            "name": "Auto Farm, Auto Rebirth, Auto Farm All Mobs",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/DuckArmy.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
