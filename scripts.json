@@ -3074,6 +3074,11 @@
             "name": "ToraIsMe",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Hinely/moonsec/refs/heads/main/Protected_2888316173603859.txt\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Aqua Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ExploiterGuy/Aqua-Hub/refs/heads/main/100%20Players%20Slippery%20Stair.txt\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
