@@ -2953,5 +2953,12 @@
             "loadstring": "loadstring(game:HttpGet(\"http://void-scripts.com/Scripts/treasureHuntSim.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "370731277": [
+        {
+            "name": "MC Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToddyTheNoobDud/Meepstuff/refs/heads/main/ImScaredOfWomen.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
