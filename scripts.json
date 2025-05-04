@@ -4471,5 +4471,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bac0nHck/Scripts/main/PaS\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "12411473842": [
+        {
+            "name": "Auto Farm",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/InfernusScripts/Fire-Hub/main/Loader'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
