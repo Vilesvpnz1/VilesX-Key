@@ -2920,6 +2920,11 @@
             "name": "Neuron  - No Key",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/DTI.py\"))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dress To Impress - Auto Collect",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Glowxfy/dti-scripts/refs/heads/main/money%20autofarm\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
