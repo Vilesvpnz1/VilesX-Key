@@ -2946,5 +2946,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hellohellohell012321/DTI-GUI-V2/main/dti_gui_v2.lua\",true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "1345139196": [
+        {
+            "name": "VOID Scripts",
+            "loadstring": "loadstring(game:HttpGet(\"http://void-scripts.com/Scripts/treasureHuntSim.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
