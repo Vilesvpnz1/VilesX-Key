@@ -2495,6 +2495,11 @@
             "name": "Auto Tap, Walkspeed, Coin Magnet Mobile Script",
             "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/azHjbL1y')))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Autofarm, Auto Click Damage & More Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Gohan9k/ANFSnew/main/GOHANSSJ3\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
