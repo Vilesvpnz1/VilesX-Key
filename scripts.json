@@ -3096,6 +3096,11 @@
             "name": "Hitbox, Anti Void, Punch Aura",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheScriptMaster1/ScriptMaster-Hub/main/AbilityWars.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Anti Void, Kill Aura, Hitboxes",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/chiepz/aslbnmnkhby7e/main/crqhryvjahdjwysrnegsf%5Csgd\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
