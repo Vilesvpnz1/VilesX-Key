@@ -2656,5 +2656,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/lurkersaqz/script/main/farm.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "18687417158": [
+        {
+            "name": "Script Forsaken No Key - Infinite Stamina, ESP and More",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Saiky988/Saryn-Hub/refs/heads/main/Saryn%25Hub%25Beta.lua'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
