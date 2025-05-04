@@ -3203,6 +3203,11 @@
             "name": "Auto Challenge, Auto Collect Obby, Auto Grab Potions",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JustLevel/goombahub/main/acb.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Roll, Auto Get All Potions",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()\u00c2",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
