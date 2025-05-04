@@ -3848,5 +3848,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DrillDigging\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "73010525850196": [
+        {
+            "name": "Desert Detectors Script No Key - Auto Farm, Loot ESP, Teleport",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastes.io/raw/new-desert-raw-bb-new\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
