@@ -3432,6 +3432,11 @@
             "name": "Script Basketball Legends No Key",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vnausea/absence-mini/refs/heads/main/absencemini.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Basketball Legends Auto Script Vision Hub",
+            "loadstring": "loadstring(game:HttpGet(('https://pastebin.com/raw/Nd8va3iK')))(",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
