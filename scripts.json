@@ -2563,6 +2563,11 @@
             "name": "Auto Farm, Candy Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/THcolorordie.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Win",
+            "loadstring": "loadstring(game:HttpGetAsync(\"https://pastebin.com/raw/R8QMbhzv\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
