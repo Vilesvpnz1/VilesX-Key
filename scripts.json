@@ -3368,6 +3368,11 @@
             "name": "Elgato Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/meobeo8/elgato/a/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Skyhub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SKOIXLL/SKYLOLAND/refs/heads/main/Load.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
