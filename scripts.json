@@ -3007,6 +3007,11 @@
             "name": "Bubble Gum Simulator The Best Auto Farm Script",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ago106/SpaceHub/refs/heads/main/Multi'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Vertex Hub",
+            "loadstring": "adstring(game:HttpGet(\"https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
