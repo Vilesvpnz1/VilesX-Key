@@ -3606,6 +3606,11 @@
             "name": "HvH: Infinity Cash, Silent Aim & More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/CBRO\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Rapid Fire, No Recoil, No Spread",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mopsfl/roblox-scripts/main/cbro_gunmods.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
