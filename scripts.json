@@ -3749,6 +3749,11 @@
             "name": "Devas Of Creation Script - Kill Aura, Auto Loot, Auto Harvest",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kalasthrowaway/stuff/main/devas_of_creation.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Legend HandlesYT",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/Devas/main/Creation\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
