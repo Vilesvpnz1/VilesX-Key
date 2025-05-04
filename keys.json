@@ -10,5 +10,11 @@
         "expiry": 2610367102,
         "created_at": 1746367102,
         "duration_days": 10000
+    },
+    "VILESX-LDLVV7LR-2025": {
+        "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DDL",
+        "expiry": 1747145577,
+        "created_at": 1746367977,
+        "duration_days": 9
     }
 }
