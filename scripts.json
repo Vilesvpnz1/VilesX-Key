@@ -3693,6 +3693,11 @@
             "name": "NS Hub - Auto Farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/Sol/refs/heads/main/DQ\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "HoHo Hub",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
