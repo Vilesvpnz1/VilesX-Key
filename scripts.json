@@ -2861,6 +2861,11 @@
             "name": "Blue Lock Rivals Script Dummy Mobile",
             "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/5i2DScDc/raw'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Rinns Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
