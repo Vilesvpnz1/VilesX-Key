@@ -3086,6 +3086,11 @@
             "name": "KillAura, Godmode, Kill All",
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/dizyhvh/rbx_scripts/main/ability_wars.lua')))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Anti Void, Auto Bosses, Esp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VxleLUA/Dynamic-Offical/main/System/GameChecker.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
