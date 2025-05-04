@@ -3771,6 +3771,11 @@
             "name": "Get Script Dandy's World - Get Crazy, ESP Monsters, Auto TP",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/godor1010/godor/refs/heads/main/dandy's_world_'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dandy's World New Script GUI - All ESP, Inf Walk Speed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/main/Dandy\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
