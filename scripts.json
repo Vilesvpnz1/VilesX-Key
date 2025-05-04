@@ -3027,6 +3027,11 @@
             "name": "New Script Bubble Gum Simulator INFINITY - AutoBlowBubble, AutoSell, AutoBuy",
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/rayanne28/HbHub/refs/heads/main/Loader'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Faraway Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/UXZveQzW\"))(",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
