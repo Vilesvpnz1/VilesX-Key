@@ -4077,5 +4077,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/HorseValley\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "9391468976": [
+        {
+            "name": "Attack, Auto Farm, Auto Block",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PawsThePaw/Plutonium.AA/main/Plutonium.Loader.lua\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
