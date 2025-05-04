@@ -4330,6 +4330,11 @@
             "name": "Auto Collect Potions Mobile Script",
             "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/vV9IlWVi/raw'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Roll",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/cnzins1/scripts/main/mount%20rng%20mount%20farm\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
