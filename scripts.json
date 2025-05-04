@@ -3515,5 +3515,12 @@
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/TexRBLX/Roblox-stuff/refs/heads/main/block%20tales/Block-Tales-Auto-Guard.lua\")()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "109543391562036": [
+        {
+            "name": "Op Gui - Be A Paper Airplane",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Farx11122/Dupess/main/SecondDupe\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
