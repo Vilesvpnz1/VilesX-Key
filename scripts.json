@@ -4006,5 +4006,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Athergaming/Roblox-Gym-League-Script/main/AtherHub%20Gym%20League%20V1_5.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "17450551531": [
+        {
+            "name": "RYK Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://ryk.bloxteam.com/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
