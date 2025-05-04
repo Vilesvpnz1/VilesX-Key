@@ -3404,5 +3404,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/AriseCrossover\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "11158043705": [
+        {
+            "name": "Kill Aura, Kill All",
+            "loadstring": "loadstring(game:HttpGet('https://nxcrazy.lol/BADDIES'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
