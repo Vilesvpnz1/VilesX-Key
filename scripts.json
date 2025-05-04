@@ -1165,6 +1165,11 @@
             "name": "Auto Farm Cash, Anti Fog, Set Time",
             "loadstring": "loadstring(game:HttpGet(\"https://projectevo.xyz/v4/script.lua\", true))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Autobuild, Autofarm, Fake Pay Check",
+            "loadstring": "loadstring(game:HttpGet('https://scripts.luawl.com/hosted/3491/19031/AzureTier1|FreeVer.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ],
     "2788229376": [
