@@ -4283,5 +4283,12 @@
             "loadstring": "game:GetService(\"ReplicatedStorage\").Functions.ClaimQuest:InvokeServer(ohTable1)",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "14060589927": [
+        {
+            "name": "Free Vehicles",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Aaron999S/FiberHub/main/Main\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
