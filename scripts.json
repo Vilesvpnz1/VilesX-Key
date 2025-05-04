@@ -4308,6 +4308,11 @@
             "name": "Auto Collect Orbs, Select Car, Select Trail",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Loader.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Collect Orbs, Auto Rebirth, Auto Open Eggs",
+            "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua\"),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
