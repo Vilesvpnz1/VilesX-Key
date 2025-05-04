@@ -2662,6 +2662,11 @@
             "name": "Script Forsaken No Key - Infinite Stamina, ESP and More",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Saiky988/Saryn-Hub/refs/heads/main/Saryn%25Hub%25Beta.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Forsaken Script - Auto Skill, Auto Generator, ESP",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MaybeNotMandy/forsaken/refs/heads/main/sae\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
