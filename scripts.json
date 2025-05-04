@@ -3660,5 +3660,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/cracklua/cracks/m/mikey'))'lmao'",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "4855457388": [
+        {
+            "name": "Auto Farm, Collect Items:",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tora//main/Demonfall\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
