@@ -2557,5 +2557,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/axleoislost/NullZen/main/Scp-Roleplay'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "12931609417": [
+        {
+            "name": "Auto Farm, Candy Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/THcolorordie.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
