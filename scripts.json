@@ -1121,6 +1121,11 @@
             "name": "Bee Swarm Simulator: Script Mobile Farming",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0'))(\"\")",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Atlas Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Chris8889/atlasbss/main/script.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ],
     "3398014311": [
