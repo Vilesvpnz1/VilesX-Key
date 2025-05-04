@@ -2836,6 +2836,11 @@
             "name": "Over Hub",
             "loadstring": "loadstring(game:HttpGet('https://api.overhub.xyz/keys/script/overhub'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Blue Lock Rivals - Style (Rin, Yukimiya, Shidou)",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/O3F7JYSF/raw'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
