@@ -4388,6 +4388,11 @@
             "name": "NS Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/rel/refs/heads/main/el\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Pets GO Mobile - Auto Destroy",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjektEta/Femscr.dll/refs/heads/main/Loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
