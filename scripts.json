@@ -3501,5 +3501,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/1BladeSlayer\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "75270037454060": [
+        {
+            "name": "Op Gui - BMX",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/n3xkxp3rl/Moma-Hub/refs/heads/main/BlockMayhem2.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
