@@ -3801,6 +3801,11 @@
             "name": "Hack GobbyDollan Dandys World Mobile - AutoFarm (Pastebin)",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/QQt4pVtu\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dandy's World Script Free - Item Aura, ESP, Speed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bac0nHck/Scripts/main/Dandy's%20World\"))",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
