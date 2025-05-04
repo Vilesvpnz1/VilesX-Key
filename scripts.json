@@ -2614,6 +2614,11 @@
             "name": "Auto Farm Boss, Auto Farm, Teleports",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pascaldercoole1/Open-Source-Scripts/main/FreeIslands'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Fullbright, Auto Save, B To Tp",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OneProtocol/Project/main/Loader\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
