@@ -3124,5 +3124,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AllbloxBattles\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "17360443692": [
+        {
+            "name": "Auto Farm, Auto Upgrade",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/AnimalRace2222.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
