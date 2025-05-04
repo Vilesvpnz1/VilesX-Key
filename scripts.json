@@ -3766,6 +3766,11 @@
             "name": "Script Dandys World Mobile Pastebin",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Y7uh3UZf\"))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Dandy's World - Get Crazy, ESP Monsters, Auto TP",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/godor1010/godor/refs/heads/main/dandy's_world_'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
