@@ -3562,6 +3562,11 @@
             "name": "LDS Hub Pastebin",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SenhorLDS/ProjectLDSHUB/main/OfficialScript'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Car Crushers 2 AutoFarm, Car Speed",
+            "loadstring": "loadstring(game:HttpGet('https://whimper.xyz/cathub.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
