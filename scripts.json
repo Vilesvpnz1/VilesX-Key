@@ -4255,6 +4255,11 @@
             "name": "Get Script Muscle Legends KTM Hub - Farm, Fast, Teleport",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zapstreams123/KTMHUB/refs/heads/main/PublicVersion\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "SpeedHubX",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
