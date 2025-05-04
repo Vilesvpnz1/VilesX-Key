@@ -2539,6 +2539,11 @@
             "name": "Script Work at a pizza place 2025 - Auto Job, Auto Farm, Teleports",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/welomenchaina/Loader/refs/heads/main/ScriptLoader\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Work at a Pizza Script LDS Hub - Auto Cook, Cashier",
+            "loadstring": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/49f02b0d8c1f60207c84ae76e12abc1e.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
