@@ -3842,6 +3842,11 @@
             "name": "Vermz Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Vermzky/VermzHub/refs/heads/main/FREE\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Drill Digging Simulator",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/DrillDigging\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
