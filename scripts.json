@@ -2734,5 +2734,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nivex123456/main/refs/heads/main/Loader.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "147848991": [
+        {
+            "name": "Fly, Fov, HitBox",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/sKNLTgaT\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
