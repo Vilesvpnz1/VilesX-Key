@@ -2587,6 +2587,11 @@
             "name": "Kill Aura, Auto Buy, Esp",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Skzuppy/forge-hub/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hitbox Expander Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/SKYWARS-Hitbox-size-Free-12819\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
