@@ -4012,6 +4012,11 @@
             "name": "RYK Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://ryk.bloxteam.com/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Demonic Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Prosexy/Demonic-HUB-V2/main/DemonicHub_V2.lua\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
