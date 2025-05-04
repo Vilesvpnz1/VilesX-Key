@@ -3495,6 +3495,11 @@
             "name": "Kill All, Kill Aura",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/BladeSlayer1331.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Kill Aura, Equip Best, Auto Collect",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/1BladeSlayer\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
