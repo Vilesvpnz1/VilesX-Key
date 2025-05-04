@@ -2925,6 +2925,11 @@
             "name": "Dress To Impress - Auto Collect",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Glowxfy/dti-scripts/refs/heads/main/money%20autofarm\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Dress To Impress Script - Free VIP, Auto Farm Cash, Trolls",
+            "loadstring": "pcall(function() loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hellohellohell012321/DTI-GUI-V2/main/dti_gui_v2.lua\",true))() end)",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
