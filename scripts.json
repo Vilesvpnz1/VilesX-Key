@@ -3699,5 +3699,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "17534163435": [
+        {
+            "name": "Auto Roll, Auto Fish, Auto Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/DungeonRNG231.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
