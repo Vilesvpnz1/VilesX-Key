@@ -2602,6 +2602,11 @@
             "name": "Esp, Body only invis, Infinite Jump",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheHanki/Hawk/main/Loader\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Teleports, Auto Farm Ores & More",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Emoli5y/shadow/main/Main'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
