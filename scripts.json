@@ -3654,6 +3654,11 @@
             "name": "OP Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RobloxScriptHub/MikeyHub-V2/main/Loader/Main\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "MikeyHub Premium Script Cracked",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/cracklua/cracks/m/mikey'))'lmao'",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
