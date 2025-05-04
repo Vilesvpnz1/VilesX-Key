@@ -4382,5 +4382,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZaRdoOx/Loader/main/PlatiniumLoader\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "18901165922": [
+        {
+            "name": "NS Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/rel/refs/heads/main/el\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
