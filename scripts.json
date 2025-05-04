@@ -4147,6 +4147,11 @@
             "name": "Infinite Jump, Loop Blocks, Walkspeed Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Loader\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Teleport, Hitbox, Misc Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KaizerQuasar/Project-Quasar/main/Lucky-Lucky.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
