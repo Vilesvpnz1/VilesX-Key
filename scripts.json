@@ -4413,6 +4413,11 @@
             "name": "Pets GO Roblox Script - Auto Roll, Auto Collect, Auto Egg",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/825PetsG0.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Reaper Hub Free",
+            "loadstring": "loadstring(game:HttpGet(\"https://reaperscripts.com/loader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
