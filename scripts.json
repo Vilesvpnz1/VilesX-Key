@@ -2768,5 +2768,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KrypDeveloper/Quasar/main/src/Scripts/Quasar%20Hub%",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "7606564092": [
+        {
+            "name": "Script Shrimp Game New GUI - Kill Aura, Teleports (Pastebin)",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/vxQVYwhA\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
