@@ -4218,5 +4218,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/pPCkzSJG\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "80777191376739": [
+        {
+            "name": "Merge Toy Script - Infinite Parts, Kill all Toys",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/MergeToy\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
