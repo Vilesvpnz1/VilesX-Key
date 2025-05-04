@@ -2633,6 +2633,11 @@
             "name": "War Tycoon Script Roblox - Auto Build, Op Options and More",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/MariyaFurmanova/Library/main/WarTycoon', true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get New Script War Tycoon Pastebin 2025 (No Key)",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JinxTheCatto/Neptune/main/NeptuneHub.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
