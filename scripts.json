@@ -4185,6 +4185,11 @@
             "name": "Script Lootify - Auto Use Potions",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Cheemos/PanHub/refs/heads/main/HubLoader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "NS Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/Loo/refs/heads/main/t\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
