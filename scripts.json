@@ -3141,5 +3141,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/liebertsx/collection/main/script/non.lua',true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "11157166793": [
+        {
+            "name": "Kill Aura",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/AW.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
