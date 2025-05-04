@@ -3269,5 +3269,12 @@
             "loadstring": "_G.Theme = \"Dark\" --Themes: Light, Dark, Red, Mocha, Aqua and Jester  loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/refs/heads/main/AsyliumLife.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "93774312410805": [
+        {
+            "name": "Apel Hub",
+            "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/ApelsinkaFr/ApelHub/refs/heads/main/ApelHub\"), true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
