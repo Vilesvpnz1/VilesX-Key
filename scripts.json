@@ -2940,6 +2940,11 @@
             "name": "Script Dress To Impress No Key - Money Far",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pcallskeleton/simplest/main/simplicity.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Mobile Script Dress to Impress",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hellohellohell012321/DTI-GUI-V2/main/dti_gui_v2.lua\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
