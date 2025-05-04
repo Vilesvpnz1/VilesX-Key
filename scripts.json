@@ -2897,5 +2897,12 @@
             "loadstring": "local args = {     [1] = 0/0 }  game:GetService(\"ReplicatedStorage\"):WaitForChild(\"Packages\"):WaitForChild(\"Knit\"):WaitForChild(\"Services\"):WaitForChild(\"StaminaService\"):WaitForChild(\"RE\"):WaitForChild(\"DecreaseStamina\"):FireServer(unpack(args))",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "17262338236": [
+        {
+            "name": "Infinite score",
+            "loadstring": "local ReplicatedStorage = game:GetService(\"ReplicatedStorage\") local Events = ReplicatedStorage:WaitForChild(\"Events\") local ClassicWinEvent = Events:WaitForChild(\"ClassicMode_GameOver\")  pcall(function()     local conn = Events:FindFirstChild(\"UpdateLetterBoxColorsEvent\")     if conn and conn.OnClientEvent then         conn.OnClientEvent:Connect(function() end)     end end)  local delayBetweenWins = 0  while true do     ClassicWinEvent:FireServer(true, \"Classic\")     task.wait(delayBetweenWins) end",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
