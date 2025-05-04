@@ -3551,5 +3551,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToothlessNight/DragonHub/main/AAAA%20Universal%20Script\",true))();",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "654732683": [
+        {
+            "name": "Fiber Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Aaron999S/FiberHub/main/Main\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
