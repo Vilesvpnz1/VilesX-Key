@@ -1150,6 +1150,11 @@
             "name": "Autobuild, Autofarm, Fake Pay Check",
             "loadstring": "loadstring(game:HttpGet('https://scripts.luawl.com/hosted/3491/19031/AzureTier1|FreeVer.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JonnyCheeser/rbw4/main/JonnyCheeseHub\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ],
     "2788229376": [
