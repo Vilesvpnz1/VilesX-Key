@@ -4360,5 +4360,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/NinjaTime\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "11445923563": [
+        {
+            "name": "Farm Boss, Auto Farm, Esp Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZaRdoOx/Loader/main/PlatiniumLoader\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
