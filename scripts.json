@@ -2544,6 +2544,11 @@
             "name": "Work at a Pizza Script LDS Hub - Auto Cook, Cashier",
             "loadstring": "loadstring(game:HttpGet('https://api.luarmor.net/files/v3/loaders/49f02b0d8c1f60207c84ae76e12abc1e.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Work at a Pizza Place Script 2024 No Key",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Scripting-Gods/Monkeys/main/Monkeys/WAPP.lua\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
