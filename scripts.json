@@ -4418,6 +4418,11 @@
             "name": "Reaper Hub Free",
             "loadstring": "loadstring(game:HttpGet(\"https://reaperscripts.com/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Banana Hub Pets Go Script - AutoFarm GUI",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/diepedyt/bui/refs/heads/main/BananaHubLoader.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
