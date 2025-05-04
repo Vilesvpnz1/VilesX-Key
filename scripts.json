@@ -4343,5 +4343,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ExploiterGuy/Aqua-Hub/refs/heads/main/No-Scope%20Arcade.txt\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "8075399143": [
+        {
+            "name": "Ninja Time Script NS Hub - Auto Farm, Fast Kill Aura, Teleport",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/ni/refs/heads/main/ni\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
