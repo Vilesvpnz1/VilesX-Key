@@ -3101,6 +3101,11 @@
             "name": "Anti Void, Kill Aura, Hitboxes",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/chiepz/aslbnmnkhby7e/main/crqhryvjahdjwysrnegsf%5Csgd\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Hitbox, Kill Aura & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://paste.ee/r/Wo5Kj\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
