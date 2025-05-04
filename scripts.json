@@ -3130,6 +3130,11 @@
             "name": "Auto Farm, Auto Upgrade",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/AnimalRace2222.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Inf wins, inf spins",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimalRace\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
