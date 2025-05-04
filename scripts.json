@@ -2935,6 +2935,11 @@
             "name": "Dress To Impress Script - Autofarm Money, Toggle Raindow Skin, Obstruct Camera",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DeNyima/TarikHUB/refs/heads/main/DressToImpress'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Dress To Impress No Key - Money Far",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/pcallskeleton/simplest/main/simplicity.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
