@@ -3755,5 +3755,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/Devas/main/Creation\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "16116270224": [
+        {
+            "name": "AstralHub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/StarlessScripts/Astral-Dandy-s-world/refs/heads/main/Starless\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
