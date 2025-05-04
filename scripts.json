@@ -2694,6 +2694,11 @@
             "name": "Murderers VS Sheriffs Duels Script Pastebin Imp Hub - Insta Win Duel, Kill All",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Murderers VS Sheriffs Duels Hack PC - Kill All, Knife Aura",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BeanBotWare/FreakBob/refs/heads/main/FreakBob\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
