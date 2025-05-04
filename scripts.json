@@ -4376,6 +4376,11 @@
             "name": "Auto Train, Auto Pick Up Fruits",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Synfenzo/scripts/main/one%20fruit.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm Level, Auto Farm Mihawk, Collect Chests",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZaRdoOx/Loader/main/PlatiniumLoader\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
