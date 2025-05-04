@@ -3596,6 +3596,11 @@
             "name": "Silent-Aim, Esp",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/404/main/Source'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Destroy Any Instance Exploit",
+            "loadstring": "local target = workspace.Something.Cool.TARGETINSTANCE replicatedStorage:WaitForChild('MapVoting').Submit:FireServer(target.Parent.Parent, nil)",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
