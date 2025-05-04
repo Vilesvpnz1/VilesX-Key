@@ -3410,6 +3410,11 @@
             "name": "Kill Aura, Kill All",
             "loadstring": "loadstring(game:HttpGet('https://nxcrazy.lol/BADDIES'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Op Gui - Baddies",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/Baddies/main/Roblox\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
