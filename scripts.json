@@ -4052,6 +4052,11 @@
             "name": "CandyHub",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vateq/CandyHub/refs/heads/main/Loader.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "GO FISHING GUI",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/GOFISHING\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
