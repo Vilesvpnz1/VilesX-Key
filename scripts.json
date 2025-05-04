@@ -3585,5 +3585,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/gJUHqkMc\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "301549746": [
+        {
+            "name": "Aimbot, Esp, BHop",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fliskScript/jaran.vip/main/free.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
