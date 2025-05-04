@@ -2851,6 +2851,11 @@
             "name": "Get Blue Lock: Rivals Script - Auto Goal, infinite Stamina, Aimlock Ball",
             "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/ZcC3BzKb/raw'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Arbix Hub Blue Lock Rivals - Auto Farm Mobile Script Pastebin",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/lbLVUm8Z/raw'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
