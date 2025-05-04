@@ -3643,5 +3643,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ImNotRox1/HyperHubV2/main/HyperHub%20-%20Character%20RNG.txt\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "14218711698": [
+        {
+            "name": "Auto Sell Cash",
+            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/yNPVDssJ\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
