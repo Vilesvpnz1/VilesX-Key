@@ -1155,6 +1155,11 @@
             "name": "Auto farm",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JonnyCheeser/rbw4/main/JonnyCheeseHub\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Teleports, Auto Farm & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://bloxburger.eu/scripts/free/script.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ],
     "2788229376": [
