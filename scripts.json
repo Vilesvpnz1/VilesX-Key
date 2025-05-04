@@ -3427,6 +3427,11 @@
             "name": "Radeon Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RadeonScripts/RadeonHubMain/main/MainRobloxExploit\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Basketball Legends No Key",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vnausea/absence-mini/refs/heads/main/absencemini.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
