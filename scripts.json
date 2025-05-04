@@ -2774,6 +2774,11 @@
             "name": "Script Shrimp Game New GUI - Kill Aura, Teleports (Pastebin)",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/vxQVYwhA\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Shrimp Game Script GUI - Punch Aura, NoClip, Knife Aura and More",
+            "loadstring": "_G.Theme = \"Dark\" --Themes: Light, Dark, Red, Mocha, Aqua and Jester  loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/ShrimpGame.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
