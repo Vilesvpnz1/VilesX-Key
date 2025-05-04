@@ -4121,5 +4121,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Sidhsksjsjsh/launch-into-space-simulator/main/.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "662417684": [
+        {
+            "name": "Spawn Any Lucky Block",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Unknownlodfc/Zephyr/refs/heads/main/Zephyr%20V2%20%7C%20Lucky%20Blocks%20Battlegrounds\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
