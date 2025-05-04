@@ -4165,5 +4165,12 @@
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/od1ri/Legends-Of-Speed/main/loadstring.lua'))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "107640846225330": [
+        {
+            "name": "Infinite Money",
+            "loadstring": "for i = 1, 10 do game:GetService(\"ReplicatedStorage\").RewardEvents.GiveReward:FireServer(\"5\") end",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
