@@ -4290,5 +4290,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Aaron999S/FiberHub/main/Main\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "132821440336521": [
+        {
+            "name": "Infinite Money",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/poke000000000/inf-money-23/refs/heads/main/inf%20moneys\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
