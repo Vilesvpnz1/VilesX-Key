@@ -3275,6 +3275,11 @@
             "name": "Apel Hub",
             "loadstring": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/ApelsinkaFr/ApelHub/refs/heads/main/ApelHub\"), true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Anime RNG TD Script Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimeRNGTD\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
