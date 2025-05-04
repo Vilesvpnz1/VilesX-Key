@@ -2988,6 +2988,11 @@
             "name": "Imp Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/SonicSpeed\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/Sonic9\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
