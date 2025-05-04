@@ -4517,6 +4517,11 @@
             "name": "Auto Win, Auto Rebirth, Auto Power",
             "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/62ac508ae22ac9d4d5485af7a4531b0b.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Inf Power, Auto Rebirth & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://github.com/KhSaeed90/Roblox/raw/workspace/14330243992\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
