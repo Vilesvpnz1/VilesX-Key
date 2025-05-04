@@ -4,5 +4,11 @@
         "expiry": 88146367091,
         "created_at": 1746367091,
         "duration_days": 1000000
+    },
+    "VILESX-0440GHWJ-2025": {
+        "hwid": "1FC8B0D1-8D28-4ABD-854B-8B5B9D783DDE",
+        "expiry": 2610367102,
+        "created_at": 1746367102,
+        "duration_days": 10000
     }
 }
