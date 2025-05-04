@@ -3373,6 +3373,11 @@
             "name": "Skyhub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SKOIXLL/SKYLOLAND/refs/heads/main/Load.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Gentle Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GentleScriptHub/GentleHub/refs/heads/main/Games\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
