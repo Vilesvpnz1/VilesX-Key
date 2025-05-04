@@ -3976,6 +3976,11 @@
             "name": "Get Script Gunfight Arena - Good Aimbot, ESP",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/Main%20Scripts\"))();",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Gunfight Arena Script Pastebin - Auto Respawn, Bring All Players, ESP",
+            "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/FL5mxhtj/raw'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
