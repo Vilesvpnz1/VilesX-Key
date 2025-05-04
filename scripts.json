@@ -3237,6 +3237,11 @@
             "name": "Inf Ammo, No Reload, More",
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Straden/Scripts/main/stronccMain.lua'),true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Simple AIM,  Wallbag, More",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Straden/Scripts/main/stronccMain.lua'),true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
