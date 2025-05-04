@@ -2871,6 +2871,11 @@
             "name": "Get Blue Lock: Rivals Script - Auto Farm, Inf Spins and More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LHking123456/jvJzb8FPs5TuR/refs/heads/main/BLRivals\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Tbao Hub No Key",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/tbao143/game/refs/heads/main/TbaoHubBlueLockRivals'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
