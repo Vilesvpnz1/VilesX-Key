@@ -4195,6 +4195,11 @@
             "name": "PanHub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Cheemos/PanHub/refs/heads/main/HubLoader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Strelizia Hub",
+            "loadstring": "getgenv().UserPreference = {     ['AutoReloadOnRejoin'] = true, };  loadstring(game:HttpGet('https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Loader.lua', true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
