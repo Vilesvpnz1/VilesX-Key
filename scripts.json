@@ -2977,5 +2977,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MariyaFurmanova/Library/main/RoyaleHigh\", true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "9049840490": [
+        {
+            "name": "Script Sonic Speed Simulator (KARATE) - Attack Boss, Destroy Aura",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/SonicKarate\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
