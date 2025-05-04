@@ -4088,6 +4088,11 @@
             "name": "ujutsu Shenanigans Script GUI - Auto Farm, Auto Attack [Pastebin]",
             "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/PhXmuAi8\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Jujutsu Shenanigans - NoClip, Power Jump, WalkSpeed",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/100DaysWithoutHuman/100Days/refs/heads/main/Jjs\"))()  --key | bestscriptfr",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
