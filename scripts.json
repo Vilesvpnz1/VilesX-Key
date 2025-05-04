@@ -2811,6 +2811,11 @@
             "name": "Blue Lock Rivals Script No Key Nicuse Hub - Auto Goal, Auto Steal, Auto TP Ball",
             "loadstring": "loadstring(game:HttpGet(\"https://nicuse.xyz/MainHub.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Blue Lock Rivals Script NS Hub - Auto Farm, Auto TP, ESP",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/fo/refs/heads/main/ot\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
