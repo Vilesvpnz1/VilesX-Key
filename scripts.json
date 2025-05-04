@@ -3611,6 +3611,11 @@
             "name": "Rapid Fire, No Recoil, No Spread",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mopsfl/roblox-scripts/main/cbro_gunmods.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Rapid Fire, Infinity Ammo, No Recoil",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mopsfl/roblox-scripts/main/cbro_gunmods.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
