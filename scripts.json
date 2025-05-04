@@ -4032,6 +4032,11 @@
             "name": "Script GO FISHING - Auto Fish (No Key)",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/emwmelchi/gofishing/refs/heads/main/main\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "NS Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/go/refs/heads/main/is\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
