@@ -4042,6 +4042,11 @@
             "name": "Get Script GO FISHING - Auto Fish and More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/refs/heads/main/GoFishing.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Sjw Hub",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NhatMinhVNQ/w-hub/main/WORLDHUB.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
