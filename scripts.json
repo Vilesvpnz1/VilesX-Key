@@ -2801,6 +2801,11 @@
             "name": "BlueLock Rivals Script - INF Spins, Get Style",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dehism/Dehism/refs/heads/main/Inf%20Spins%20Auto%20Dehism\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Blue Lock: Rivals  (No Key) - Any Emote, Any Cosmetics, Infinite Spin, Bypass",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/PresidentZuyi/S/refs/heads/main/FullHub\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
