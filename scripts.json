@@ -3616,6 +3616,11 @@
             "name": "Rapid Fire, Infinity Ammo, No Recoil",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/mopsfl/roblox-scripts/main/cbro_gunmods.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "No Fire Damage, Auto Hop & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/univ57\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
