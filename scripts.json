@@ -3231,5 +3231,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/AnimeShadow\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "6808416928": [
+        {
+            "name": "Inf Ammo, No Reload, More",
+            "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Straden/Scripts/main/stronccMain.lua'),true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
