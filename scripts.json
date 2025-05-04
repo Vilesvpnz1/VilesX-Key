@@ -4057,6 +4057,11 @@
             "name": "GO FISHING GUI",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/GOFISHING\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "GO FISHING - Simple Auto Fishing",
+            "loadstring": "game:GetService(\"Players\").LocalPlayer.gui.autofishing.Value = true",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
