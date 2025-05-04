@@ -2550,5 +2550,12 @@
             "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Scripting-Gods/Monkeys/main/Monkeys/WAPP.lua\")()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "5041144419": [
+        {
+            "name": "Script SCP: Roleplay 2025 No Key",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/axleoislost/NullZen/main/Scp-Roleplay'))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
