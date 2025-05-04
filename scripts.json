@@ -2672,6 +2672,11 @@
             "name": "Elysian Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Selivus07/forsakenfr/refs/heads/main/ElysianV.lua\",true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Forsaken Mobile Script - Apple Hub",
+            "loadstring": "loadstring(game:HttpGetAsync((\"https://raw.githubusercontent.com/SilkScripts/AppleStuff/refs/heads/main/AppleFSKV2\")))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
