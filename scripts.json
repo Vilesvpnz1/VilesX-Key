@@ -3337,5 +3337,12 @@
             "loadstring": "getgenv().keysystem = false -- put false if u dont want key system loadstring(game:HttpGet(\"https://raw.githubusercontent.com/x3fall3nangel/FallAngelHub/main/Main.lua\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "87039211657390": [
+        {
+            "name": "Arise Crossover Script NO KEY - Max Coins, Auto Arise, Dupe",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/defnotry/devry-hub/main/arise-crossover/main.lua\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
