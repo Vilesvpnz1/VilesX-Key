@@ -4460,6 +4460,11 @@
             "name": "Auto Farm, Auto Fight, Auto  Egg",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/ywxoscripts/main/PullASword3421.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Click, Auto Hight, Auto Rebirth",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Bac0nHck/Scripts/main/PaS\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
