@@ -3111,6 +3111,11 @@
             "name": "Hitbox",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CrapTheKid/Ability-Wars-Script/main/Ability%20Wars\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Auto Quest, Hitbox Expander & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TORVELIS/Ability-Wars1/main/Ability%20Wars2.lua\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
