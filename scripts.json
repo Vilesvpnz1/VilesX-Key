@@ -3187,5 +3187,12 @@
             "loadstring": "loadstring(game:HttpGet(('https://pastefy.app/p6UfN5F1/raw'),true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "18138547215": [
+        {
+            "name": "Auto Farm, Auto Obby, Auto Roll",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tora//main/CardRNG\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
