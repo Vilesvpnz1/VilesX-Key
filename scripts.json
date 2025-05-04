@@ -3825,6 +3825,11 @@
             "name": "Auto Farm, Auto Egg, Auto Quests",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/7190000/Corolla-Hub/main/ch.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Farm, Auto Collect, Auto Attack",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tora//main/DuckArmy\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
