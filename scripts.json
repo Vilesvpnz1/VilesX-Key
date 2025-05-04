@@ -4260,6 +4260,11 @@
             "name": "SpeedHubX",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Muscle Legends - Stats Simulation",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/StupidProAArsenal/main/refs/heads/main/StatsSimulation\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
