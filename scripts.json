@@ -4492,5 +4492,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/agreed69-scripts/open-src-scripts/refs/heads/main/KSI%20Plinko%20RNG.lua\",true))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "3804735158": [
+        {
+            "name": "GGH52LAN Gui",
+            "loadstring": "--use these loadstring to keep updated, if the main source got an update and u execute these you already in latest version no need to change   loadstring(game:HttpGet(\"https://pastebin.com/raw/LAneEiHV\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
