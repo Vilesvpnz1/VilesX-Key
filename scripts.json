@@ -3545,6 +3545,11 @@
             "name": "Auto Farm, Teleports, Walkspeed and Jump power changer -- Key is ctC87eJS62ALlB5H",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TabIe-ware/Table-ware/main/Drive%20Cars%20Down%20A%20Hill\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Go To Spawn, Auto Farm Money, Player Mods",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToothlessNight/DragonHub/main/AAAA%20Universal%20Script\",true))();",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
