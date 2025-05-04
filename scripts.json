@@ -3068,5 +3068,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/be/refs/heads/main/u\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "132177827387692": [
+        {
+            "name": "ToraIsMe",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Hinely/moonsec/refs/heads/main/Protected_2888316173603859.txt\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
