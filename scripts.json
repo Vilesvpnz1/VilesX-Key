@@ -4499,5 +4499,12 @@
             "loadstring": "--use these loadstring to keep updated, if the main source got an update and u execute these you already in latest version no need to change   loadstring(game:HttpGet(\"https://pastebin.com/raw/LAneEiHV\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "16772818120": [
+        {
+            "name": "Gui",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Janorax/Wack-Hub/refs/heads/main/loadstring\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
