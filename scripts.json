@@ -3471,6 +3471,11 @@
             "name": "Get Script Be NPC or DIE - ESP All Players",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vateq/CandyHub/refs/heads/main/Loader.lua'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Be NPC or DIE - Auto Complete Obby, ESP",
+            "loadstring": "loadstring(game:HttpGet\"https://raw.githubusercontent.com/Bac0nHck/Scripts/main/BeNpcOrDie\")()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
