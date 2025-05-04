@@ -3601,6 +3601,11 @@
             "name": "Destroy Any Instance Exploit",
             "loadstring": "local target = workspace.Something.Cool.TARGETINSTANCE replicatedStorage:WaitForChild('MapVoting').Submit:FireServer(target.Parent.Parent, nil)",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "HvH: Infinity Cash, Silent Aim & More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/CBRO\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
