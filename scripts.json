@@ -4303,6 +4303,11 @@
             "name": "Auto Collect, Auto Win, Auto Rebirth",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ProjectpopCat/Retarded_German/main/MoneyRace.lua\"))()Copied!",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Auto Collect Orbs, Select Car, Select Trail",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Loader.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
