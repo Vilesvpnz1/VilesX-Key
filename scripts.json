@@ -2959,6 +2959,11 @@
             "name": "MC Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToddyTheNoobDud/Meepstuff/refs/heads/main/ImScaredOfWomen.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Candy Farm",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/MeepCity\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
