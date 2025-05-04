@@ -4205,6 +4205,11 @@
             "name": "Script Lootify Roblox - Auto attack, Auto roll",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/IAmJamal10/Loot/refs/heads/main/Ify'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Lootify Script Roblox Pastebin",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/Lootify\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
