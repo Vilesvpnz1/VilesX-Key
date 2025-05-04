@@ -2994,5 +2994,12 @@
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraScript/Script/main/Sonic9\"))()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "12996397": [
+        {
+            "name": "(Auto-Complete Stages)",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fliptwo/iSPLOIT/main/Mega%20Fun%20Obby\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
