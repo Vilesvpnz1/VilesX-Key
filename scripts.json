@@ -4527,6 +4527,11 @@
             "name": "Redeem All Codes, Auto Rebirth & More",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AyoReaper/Reaper-Hub/main/loader.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Inf Wins, Inf Strength, Speed Slider",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/No6No6No7yt/Lumin-Hub/main/power%20slap%20simulator%20Ln'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
