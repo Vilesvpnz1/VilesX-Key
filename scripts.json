@@ -4142,6 +4142,11 @@
             "name": "Free Items Mobile Script",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Script\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Infinite Jump, Loop Blocks, Walkspeed Mobile Script",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FreeeScripts/FREEHub/main/Loader\", true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
