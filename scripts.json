@@ -4250,6 +4250,11 @@
             "name": "Muscle Legends Script No Key - Auto Farm, Auto Train",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/rndmq/Serverlist/refs/heads/main/Loader\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Get Script Muscle Legends KTM Hub - Farm, Fast, Teleport",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zapstreams123/KTMHUB/refs/heads/main/PublicVersion\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
