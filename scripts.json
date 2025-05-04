@@ -4047,6 +4047,11 @@
             "name": "Sjw Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NhatMinhVNQ/w-hub/main/WORLDHUB.lua\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "CandyHub",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/vateq/CandyHub/refs/heads/main/Loader.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
