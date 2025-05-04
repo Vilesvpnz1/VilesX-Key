@@ -4159,6 +4159,11 @@
             "name": "Snake Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AshleyCanis/Miral/refs/heads/main/Protected_3053498136903502.txt\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Legends Of Speed Pastebin 2025",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/od1ri/Legends-Of-Speed/main/loadstring.lua'))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
