@@ -3256,6 +3256,11 @@
             "name": "Vermz Hub",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Vermzky/VermzHub/refs/heads/main/FREE\", true))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "NS HUB",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OhhMyGehlee/av/refs/heads/main/tar\"))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
