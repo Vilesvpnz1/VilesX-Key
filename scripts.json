@@ -4172,5 +4172,12 @@
             "loadstring": "for i = 1, 10 do game:GetService(\"ReplicatedStorage\").RewardEvents.GiveReward:FireServer(\"5\") end",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "7645738534": [
+        {
+            "name": "Light Game - Gui",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/LightGame\", true))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
