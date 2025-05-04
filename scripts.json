@@ -3986,6 +3986,11 @@
             "name": "Rinns Hub Gun Fight Arena - Aimbot, ESP",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SkibidiCen/MainMenu/main/Code'))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "D8rk Hub for Gunfight Arena Mobile",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/D8rkX/D8rk-Hub/main/Games/GunFight%20Arena\",true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
