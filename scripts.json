@@ -3012,6 +3012,11 @@
             "name": "Vertex Hub",
             "loadstring": "adstring(game:HttpGet(\"https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring\"))()",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Bubble Gum Simulator INFINITY - Auto Farm GUI",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/0vma/Strelizia/refs/heads/main/Loader.lua', true))()",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
