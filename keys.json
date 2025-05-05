@@ -4,5 +4,11 @@
         "expiry": 2610367102,
         "created_at": 1746367102,
         "duration_days": 10000
+    },
+    "VILESX-C3PQ14MO-2025": {
+        "hwid": "CB2BBD87-B1B2-4CEE-9A65-3C6ABE458351",
+        "expiry": 2610406723,
+        "created_at": 1746406723,
+        "duration_days": 10000
     }
 }
