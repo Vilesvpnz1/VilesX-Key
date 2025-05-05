@@ -28,5 +28,11 @@
         "expiry": 10386320834,
         "created_at": 1746407234,
         "duration_days": 99999
+    },
+    "VILESX-PWW4TUR1-2025": {
+        "hwid": "2D68513A-BAD4-42E6-8836-7CB25600E4ED",
+        "expiry": 88146321651,
+        "created_at": 1746408051,
+        "duration_days": 999999
     }
 }
