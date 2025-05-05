@@ -10,5 +10,11 @@
         "expiry": 2610406723,
         "created_at": 1746406723,
         "duration_days": 10000
+    },
+    "VILESX-9P63XM3G-2025": {
+        "hwid": "CB2BBD87-B1B2-4CEE-9A65-3C6ABE458351",
+        "expiry": 8640001746320814,
+        "created_at": 1746407214,
+        "duration_days": 99999999999
     }
 }
