@@ -22,5 +22,11 @@
         "expiry": 8641746320825,
         "created_at": 1746407225,
         "duration_days": 99999999
+    },
+    "VILESX-ISBS9V40-2025": {
+        "hwid": "CB2BBD87-B1B2-4CEE-9A65-3C6ABE458351",
+        "expiry": 10386320834,
+        "created_at": 1746407234,
+        "duration_days": 99999
     }
 }
