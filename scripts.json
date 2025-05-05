@@ -38,23 +38,6 @@
             "credit": "wekilledtheunicorns"
         }
     ],
-    "286090429": [
-        {
-            "name": "ArsenalAimbot",
-            "loadstring": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/93f86be991de0ff7d79e6328e4ceea40.lua\"))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "ArsenalScript2",
-            "loadstring": "loadstring(game:HttpGet(\"https://pastebin.com/raw/8ysy7ENG\",true))()",
-            "credit": "wekilledtheunicorns"
-        },
-        {
-            "name": "ArsenalEsp",
-            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ex55/weed-client/refs/heads/main/main.lua\"))()",
-            "credit": "wekilledtheunicorns"
-        }
-    ],
     "537413528": [
         {
             "name": "BabftAutoFarm",
