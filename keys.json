@@ -40,5 +40,11 @@
         "expiry": 10386321661,
         "created_at": 1746408061,
         "duration_days": 99999
+    },
+    "VILESX-7T56G46Y-2025": {
+        "hwid": "4e0c9511-dbde-49d4-9f38-6e7d6dc462ef",
+        "expiry": 2610398005,
+        "created_at": 1746484405,
+        "duration_days": 9999
     }
 }
