@@ -4530,5 +4530,12 @@
             "loadstring": "loadstring(game:HttpGet\"https://thedragonslayer2.github.io/AutoExec.html\")()",
             "credit": "wekilledtheunicorns"
         }
+    ],
+    "286090429": [
+        {
+            "name": "ESP, Silent Aim, Aimbot, Gun Mods",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Insertl/QuotasHub/main/BETAv1.3\"))()",
+            "credit": "wekilledtheunicorns"
+        }
     ]
 }
