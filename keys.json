@@ -46,5 +46,11 @@
         "expiry": 2610398005,
         "created_at": 1746484405,
         "duration_days": 9999
+    },
+    "VILESX-ASWL2I4X-2025": {
+        "hwid": "hi",
+        "expiry": 1762124123,
+        "created_at": 1746572123,
+        "duration_days": 180
     }
 }
