@@ -46,13 +46,5 @@
         "expiry": 2610398005,
         "created_at": 1746484405,
         "duration_days": 9999
-    },
-    "VILESX-2HOIERBA-2025": {
-        "hwid": "t",
-        "expiry": 1762049487,
-        "created_at": 1746497487,
-        "duration_days": 180,
-        "user_id": 1339035704369479722,
-        "created_by": 1339035704369479722
     }
 }
