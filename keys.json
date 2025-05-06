@@ -46,5 +46,11 @@
         "expiry": 2610398005,
         "created_at": 1746484405,
         "duration_days": 9999
+    },
+    "VILESX-17N8CWO6-2025": {
+        "hwid": "tes",
+        "expiry": 1762048713,
+        "created_at": 1746496713,
+        "duration_days": 180
     }
 }
