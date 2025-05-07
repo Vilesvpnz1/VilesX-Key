@@ -58,5 +58,11 @@
         "expiry": 2610577775,
         "created_at": 1746577775,
         "duration_days": 10000
+    },
+    "VILESX-5B7454L5-2025": {
+        "hwid": "BBA3F7BC-B662-47BA-94CB-CDDBA131DA5E",
+        "expiry": 2610577784,
+        "created_at": 1746577784,
+        "duration_days": 10000
     }
 }
