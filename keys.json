@@ -46,5 +46,11 @@
         "expiry": 2610398005,
         "created_at": 1746484405,
         "duration_days": 9999
+    },
+    "VILESX-SJLFRBIM-2025": {
+        "hwid": "BBA3F7BC-B662-47BA-94CB-CDDBA131DA5E",
+        "expiry": 2610577729,
+        "created_at": 1746577729,
+        "duration_days": 10000
     }
 }
