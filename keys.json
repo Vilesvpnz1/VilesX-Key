@@ -52,5 +52,11 @@
         "expiry": 2610577729,
         "created_at": 1746577729,
         "duration_days": 10000
+    },
+    "VILESX-NOASWB9S-2025": {
+        "hwid": "BBA3F7BC-B662-47BA-94CB-CDBDA131DA5E",
+        "expiry": 2610577775,
+        "created_at": 1746577775,
+        "duration_days": 10000
     }
 }
