@@ -64,5 +64,11 @@
         "expiry": 2610577784,
         "created_at": 1746577784,
         "duration_days": 10000
+    },
+    "VILESX-PZVRTF5A-2025": {
+        "hwid": "h",
+        "expiry": 1746741658,
+        "created_at": 1746655258,
+        "duration_days": 1
     }
 }
