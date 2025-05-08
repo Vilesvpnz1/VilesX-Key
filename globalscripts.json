@@ -1,7 +1,0 @@
-[
-    {
-        "name": "Test Script",
-        "loadstring": "https://example.com/script.lua",
-        "credit": "wekilledtheunicorns"
-    }
-]
