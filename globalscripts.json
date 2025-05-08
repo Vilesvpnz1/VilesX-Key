@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Infinite Yeild",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()",
+        "added_by": "1339035704369479722",
+        "added_at": 1746662573
+    }
+]
