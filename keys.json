@@ -64,11 +64,5 @@
         "expiry": 2610577784,
         "created_at": 1746577784,
         "duration_days": 10000
-    },
-    "VILESX-HIBVQAWT-2025": {
-        "hwid": "test",
-        "expiry": 1755438365,
-        "created_at": 1746884765,
-        "duration_days": 99
     }
 }
