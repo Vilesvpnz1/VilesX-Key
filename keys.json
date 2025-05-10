@@ -64,17 +64,5 @@
         "expiry": 2610577784,
         "created_at": 1746577784,
         "duration_days": 10000
-    },
-    "VILESX-PZVRTF5A-2025": {
-        "hwid": "h",
-        "expiry": 1746741658,
-        "created_at": 1746655258,
-        "duration_days": 1
-    },
-    "VILESX-7H8174LK-2025": {
-        "hwid": "C9788949-B1EF-493D-88A1-0501AA947769",
-        "expiry": 1746741675,
-        "created_at": 1746655275,
-        "duration_days": 1
     }
 }
