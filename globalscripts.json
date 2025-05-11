@@ -6,105 +6,15 @@
         "added_at": 1746662573
     },
     {
-        "name": "ESP",
-        "url": "loadstring(game:HttpGet(\"https://you.whimper.xyz/sources/infernium/Criminality.lua",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925226
-    },
-    {
-        "name": "Aimlock hold m2 to lock on",
-        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/W87YgsgD",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925245
-    },
-    {
-        "name": "Hitbox Expander",
-        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/b1TBuNtP",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925273
-    },
-    {
-        "name": "Chat Spy",
-        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KOBRANHUB/g/refs/heads/main/.lua",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925283
-    },
-    {
-        "name": "UNC TEST",
-        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ltseverydayyou/uuuuuuu/refs/heads/main/UNC%20test",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925300
-    },
-    {
-        "name": "TP Tool",
-        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Etk59xuM",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925316
-    },
-    {
-        "name": "Invisible",
-        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/yYiyt6RP",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925331
-    },
-    {
-        "name": "Spectate Player",
-        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/6sAUmxQH",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925370
-    },
-    {
-        "name": "Goofy Animation",
-        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/ZEjAb738",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925385
-    },
-    {
-        "name": "Fling GUI 3",
-        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHASEAAAA/yeet-ui/refs/heads/main/.lua",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925400
-    },
-    {
-        "name": "Script Searcher",
-        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/ScriptSearcher",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925416
-    },
-    {
-        "name": "Universal esp and aimbot",
-        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/DeleteMobCheatEngine.lua",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925438
-    },
-    {
-        "name": "Fling all",
-        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/zqyDSUWX",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925452
-    },
-    {
-        "name": "Sirius",
-        "url": "loadstring(game:HttpGet('https://sirius.menu/script",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925466
-    },
-    {
-        "name": "Nameless Admin",
-        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925481
-    },
-    {
-        "name": "Universal Animations R6",
-        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHASEAAAA/animations/refs/heads/main/.lua",
-        "added_by": "1339035704369479722",
-        "added_at": 1746925499
-    },
-    {
         "name": "FreeCam Shift P",
         "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/6ngxJT8b\"))()",
         "added_by": "1339035704369479722",
         "added_at": 1746925641
+    },
+    {
+        "name": "FE Trolling Gui",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/FE%20Trolling%20GUI.luau\"))()",
+        "added_by": "1339035704369479722",
+        "added_at": 1746965837
     }
 ]
