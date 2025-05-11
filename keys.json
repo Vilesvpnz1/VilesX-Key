@@ -82,5 +82,11 @@
         "expiry": 1762445276,
         "created_at": 1746893276,
         "duration_days": 180
+    },
+    "VILESX-TKGM13V6-2025": {
+        "hwid": "h",
+        "expiry": 1762473850,
+        "created_at": 1746921850,
+        "duration_days": 180
     }
 }
