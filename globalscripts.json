@@ -40,5 +40,11 @@
         "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Etk59xuM",
         "added_by": "1339035704369479722",
         "added_at": 1746925316
+    },
+    {
+        "name": "Invisible",
+        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/yYiyt6RP",
+        "added_by": "1339035704369479722",
+        "added_at": 1746925331
     }
 ]
