@@ -28,5 +28,11 @@
         "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KOBRANHUB/g/refs/heads/main/.lua",
         "added_by": "1339035704369479722",
         "added_at": 1746925283
+    },
+    {
+        "name": "UNC TEST",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ltseverydayyou/uuuuuuu/refs/heads/main/UNC%20test",
+        "added_by": "1339035704369479722",
+        "added_at": 1746925300
     }
 ]
