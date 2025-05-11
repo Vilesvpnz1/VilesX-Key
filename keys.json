@@ -88,11 +88,5 @@
         "expiry": 1762473850,
         "created_at": 1746921850,
         "duration_days": 180
-    },
-    "VILESX-A920GZVC-2025": {
-        "hwid": "test",
-        "expiry": 1762478253,
-        "created_at": 1746926253,
-        "duration_days": 180
     }
 }
