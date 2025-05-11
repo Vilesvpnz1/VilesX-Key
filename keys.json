@@ -64,11 +64,5 @@
         "expiry": 2610577784,
         "created_at": 1746577784,
         "duration_days": 10000
-    },
-    "VILESX-DXXWGQGI-2025": {
-        "hwid": "test1",
-        "expiry": 1747670620,
-        "created_at": 1746893020,
-        "duration_days": 9
     }
 }
