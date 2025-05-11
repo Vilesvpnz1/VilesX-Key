@@ -34,5 +34,11 @@
         "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/b1TBuNtP\",true))()",
         "added_by": "1339035704369479722",
         "added_at": 1746965923
+    },
+    {
+        "name": "Chat Spy",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KOBRANHUB/g/refs/heads/main/.lua\",true))()",
+        "added_by": "1339035704369479722",
+        "added_at": 1746965940
     }
 ]
