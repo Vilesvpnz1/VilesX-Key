@@ -58,5 +58,11 @@
         "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/6sAUmxQH\",true))()",
         "added_by": "1339035704369479722",
         "added_at": 1746965997
+    },
+    {
+        "name": "Goofy Animation",
+        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/ZEjAb738\",true))()",
+        "added_by": "1339035704369479722",
+        "added_at": 1746966011
     }
 ]
