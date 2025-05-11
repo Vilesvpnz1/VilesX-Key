@@ -22,5 +22,11 @@
         "url": "loadstring(game:HttpGet(\"https://you.whimper.xyz/sources/infernium/Criminality.lua\"))()",
         "added_by": "1339035704369479722",
         "added_at": 1746965894
+    },
+    {
+        "name": "Aimlock hold m2 to lock on",
+        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/W87YgsgD\",true))()",
+        "added_by": "1339035704369479722",
+        "added_at": 1746965908
     }
 ]
