@@ -100,5 +100,11 @@
         "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source\"))()",
         "added_by": "1339035704369479722",
         "added_at": 1746966133
+    },
+    {
+        "name": "Universal Animations R6",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHASEAAAA/animations/refs/heads/main/.lua\",true))()",
+        "added_by": "1339035704369479722",
+        "added_at": 1746966154
     }
 ]
