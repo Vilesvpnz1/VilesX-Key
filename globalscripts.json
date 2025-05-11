@@ -58,5 +58,11 @@
         "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/ZEjAb738",
         "added_by": "1339035704369479722",
         "added_at": 1746925385
+    },
+    {
+        "name": "Fling GUI 3",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHASEAAAA/yeet-ui/refs/heads/main/.lua",
+        "added_by": "1339035704369479722",
+        "added_at": 1746925400
     }
 ]
