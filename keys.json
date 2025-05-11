@@ -70,11 +70,5 @@
         "expiry": 1747670620,
         "created_at": 1746893020,
         "duration_days": 9
-    },
-    "VILESX-DF6QK168-2025": {
-        "hwid": "test",
-        "expiry": 1762445241,
-        "created_at": 1746893241,
-        "duration_days": 180
     }
 }
