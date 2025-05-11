@@ -100,5 +100,11 @@
         "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHASEAAAA/animations/refs/heads/main/.lua",
         "added_by": "1339035704369479722",
         "added_at": 1746925499
+    },
+    {
+        "name": "niggascript",
+        "url": "https://nigga.com",
+        "added_by": "1330005620077760654",
+        "added_at": 1746925515
     }
 ]
