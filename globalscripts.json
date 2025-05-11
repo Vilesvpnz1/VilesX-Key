@@ -70,5 +70,11 @@
         "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/ScriptSearcher",
         "added_by": "1339035704369479722",
         "added_at": 1746925416
+    },
+    {
+        "name": "Universal esp and aimbot",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/DeleteMobCheatEngine.lua",
+        "added_by": "1339035704369479722",
+        "added_at": 1746925438
     }
 ]
