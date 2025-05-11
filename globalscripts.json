@@ -46,5 +46,11 @@
         "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/yYiyt6RP",
         "added_by": "1339035704369479722",
         "added_at": 1746925331
+    },
+    {
+        "name": "Spectate Player",
+        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/6sAUmxQH",
+        "added_by": "1339035704369479722",
+        "added_at": 1746925370
     }
 ]
