@@ -16,5 +16,11 @@
         "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yofriendfromschool1/Sky-Hub/main/FE%20Trolling%20GUI.luau\"))()",
         "added_by": "1339035704369479722",
         "added_at": 1746965837
+    },
+    {
+        "name": "ESP",
+        "url": "loadstring(game:HttpGet(\"https://you.whimper.xyz/sources/infernium/Criminality.lua\"))()",
+        "added_by": "1339035704369479722",
+        "added_at": 1746965894
     }
 ]
