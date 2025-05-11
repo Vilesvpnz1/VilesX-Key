@@ -88,5 +88,11 @@
         "url": "loadstring(game:HttpGet('https://sirius.menu/script",
         "added_by": "1339035704369479722",
         "added_at": 1746925466
+    },
+    {
+        "name": "Nameless Admin",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source",
+        "added_by": "1339035704369479722",
+        "added_at": 1746925481
     }
 ]
