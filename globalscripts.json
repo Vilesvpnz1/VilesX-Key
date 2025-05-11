@@ -16,5 +16,11 @@
         "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/W87YgsgD",
         "added_by": "1339035704369479722",
         "added_at": 1746925245
+    },
+    {
+        "name": "Hitbox Expander",
+        "url": "loadstring(game:HttpGet(\"https://pastebin.com/raw/b1TBuNtP",
+        "added_by": "1339035704369479722",
+        "added_at": 1746925273
     }
 ]
