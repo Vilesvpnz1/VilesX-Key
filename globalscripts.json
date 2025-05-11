@@ -64,5 +64,11 @@
         "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHASEAAAA/yeet-ui/refs/heads/main/.lua",
         "added_by": "1339035704369479722",
         "added_at": 1746925400
+    },
+    {
+        "name": "Script Searcher",
+        "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/ScriptSearcher",
+        "added_by": "1339035704369479722",
+        "added_at": 1746925416
     }
 ]
