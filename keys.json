@@ -70,5 +70,11 @@
         "expiry": 1757364869,
         "created_at": 1746996869,
         "duration_days": 120
+    },
+    "VILESX-TBD6KS8S-2025": {
+        "hwid": "D3AF5396-4B66-42DE-AC93-537BE17CCC4E",
+        "expiry": 2611011503,
+        "created_at": 1747097903,
+        "duration_days": 9999
     }
 }
