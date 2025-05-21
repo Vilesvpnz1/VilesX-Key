@@ -76,5 +76,11 @@
         "expiry": 2611011503,
         "created_at": 1747097903,
         "duration_days": 9999
+    },
+    "VILESX-PETCL1L8-2025": {
+        "hwid": "h",
+        "expiry": 1763412011,
+        "created_at": 1747860011,
+        "duration_days": 180
     }
 }
