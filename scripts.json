@@ -4593,6 +4593,11 @@
             "name": "Grow a Garden Script No Key - Auto Plant, Auto Harvest, Auto Sell",
             "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/depthso/Grow-a-Garden/refs/heads/main/autofarm.lua')))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Grow a Garden Script Mobile & PC - Auto Sell, Auto Collect, Inf Seeds",
+            "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
