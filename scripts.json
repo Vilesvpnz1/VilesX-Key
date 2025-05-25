@@ -4578,6 +4578,11 @@
             "name": "Grow a Garden Script SpaceHub - Fast Auto Farm",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ago106/SpaceHub/refs/heads/main/Multi'))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Grow A Garden - Auto Farm, Auto Sell, Auto Buy, AntiAFK",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NittarPP/PhotonScript/refs/heads/main/Loading/Loading.lua\"))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
