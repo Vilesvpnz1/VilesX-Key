@@ -4553,6 +4553,11 @@
             "name": "Grow A Garden Script Roblox - Inf Seeds, Auto Farm, Auto Collect",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kosowa/asd/refs/heads/main/GaG.lua\"))()   Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Grow a Garden Script NO BAN - Auto Farm and More",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Dingarik/Dingarik/refs/heads/main/GrowAGarden\"))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
