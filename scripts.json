@@ -4563,6 +4563,11 @@
             "name": "Grow a Garden Script SpeedHubX Keyless",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\", true))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Grow a Garden Scripts - Auto Pick up, Auto Plant Fruit",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BrySadW/GrowAGarden/refs/heads/main/GrowAGarden.lua\"))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
