@@ -4603,6 +4603,11 @@
             "name": "Grow a Garden Script - Auto Plant, Auto Collect All, Auto Sell",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hakariqScripts/Roslina/refs/heads/main/Ro\"))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Script Grow a Garden - Infinite Seeds, Sell All, Auto Buy, Angry Plant",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/gumanba/Scripts/refs/heads/main/GrowaGarden\", true))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
