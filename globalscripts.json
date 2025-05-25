@@ -106,5 +106,11 @@
         "url": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CHASEAAAA/animations/refs/heads/main/.lua\",true))()",
         "added_by": "1339035704369479722",
         "added_at": 1746966154
+    },
+    {
+        "name": "AK Admin",
+        "url": "loadstring(game:HttpGet(\"https://angelical.me/ak.lua\"))()",
+        "added_by": "1339035704369479722",
+        "added_at": 1748210265
     }
 ]
