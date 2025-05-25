@@ -4,5 +4,11 @@
         "description": "Initial release of VilesX Advanced with key system, script hub, and enhanced features.",
         "date": 1700000000,
         "added_by": "wekilledtheunicorns"
+    },
+    {
+        "version": "Version: v1.1.0",
+        "description": "Added 19 new supported games (including Grow A Garden), implemented new global scripts, enhanced security, and improved debugging systems.",
+        "date": 1748198892,
+        "added_by": "wekilledtheunicorns"
     }
 ]
