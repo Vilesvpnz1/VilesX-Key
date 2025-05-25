@@ -4583,6 +4583,11 @@
             "name": "Script Grow A Garden - Auto Farm, Auto Sell, Auto Buy, AntiAFK",
             "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/NittarPP/PhotonScript/refs/heads/main/Loading/Loading.lua\"))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Grow a Garden Script NEW - Auto Farm, Auto Collect",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/doggoman230/growagarden/refs/heads/main/script\"))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
