@@ -4598,6 +4598,11 @@
             "name": "Grow a Garden Script Mobile & PC - Auto Sell, Auto Collect, Inf Seeds",
             "loadstring": "loadstring(game:HttpGet('https://raw.githubusercontent.com/checkurasshole/Script/refs/heads/main/IQ'))();  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
             "credit": "wekilledtheunicorns"
+        },
+        {
+            "name": "Grow a Garden Script - Auto Plant, Auto Collect All, Auto Sell",
+            "loadstring": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/hakariqScripts/Roslina/refs/heads/main/Ro\"))()  Source: https://cheater.fun/hacks_roblox/10886-grow-a-garden-script.html",
+            "credit": "wekilledtheunicorns"
         }
     ]
 }
