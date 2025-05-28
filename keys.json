@@ -82,5 +82,11 @@
         "expiry": 1763412011,
         "created_at": 1747860011,
         "duration_days": 180
+    },
+    "VILESX-4VO3JOY3-2025": {
+        "hwid": "C024499B-5090-4CA7-89A7-2A0534809C76",
+        "expiry": 1834707022,
+        "created_at": 1748393422,
+        "duration_days": 999
     }
 }
